@@ -6,5 +6,23 @@
   <link>https://sway2020.github.io</link>
   <description>Filter out crappy Cities Skylines Steam Workshop uploads</description>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
- </channel>
+ <item>
+<title>Airplane TSV AIR Boeing 737-200., by G00r00, Vehicle</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2295743258</link>
+<description>Airplane TSV AIR Boeing 737-200., by G00r00, Vehicle</description>
+<guid isPermaLink="false">2295743258</guid>
+</item>
+<item>
+<title>Baker Dam & Reservior Sign, by Actiaeon, Prop</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2295775951</link>
+<description>Baker Dam & Reservior Sign, by Actiaeon, Prop</description>
+<guid isPermaLink="false">2295775951</guid>
+</item>
+<item>
+<title>Centro Simón Bolívar (Caracas - Venezuela) (Buildings pack - Paquete de Edificios), by RonyNaxz, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2295828778</link>
+<description>Centro Simón Bolívar (Caracas - Venezuela) (Buildings pack - Paquete de Edificios), by RonyNaxz, Building</description>
+<guid isPermaLink="false">2295828778</guid>
+</item>
+</channel>
 </rss>
