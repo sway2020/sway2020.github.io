@@ -6,6 +6,7 @@
   <link>https://sway2020.github.io</link>
   <description>Filter out crappy Cities Skylines Steam Workshop uploads</description>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
+  <atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/" />
  <item>
 <title>Seat-AtecaProp2, by TecniRanger, Prop</title>
 <link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296653657</link>
