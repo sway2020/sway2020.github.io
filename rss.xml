@@ -8,5 +8,47 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>Primark Store, by Sparks, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2297189742</link>
+<description>Primark Store, by Sparks, Building</description>
+<guid isPermaLink="false">2297189742</guid>
+</item>
+<item>
+<title>Modular Moon Base Pack, by REV0, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296630567</link>
+<description>Modular Moon Base Pack, by REV0, Building</description>
+<guid isPermaLink="false">2296630567</guid>
+</item>
+<item>
+<title>Cleco 138 kv pole pack, by dphinton2003, Electricity</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2293957296</link>
+<description>Cleco 138 kv pole pack, by dphinton2003, Electricity</description>
+<guid isPermaLink="false">2293957296</guid>
+</item>
+<item>
+<title>More Philips MAs, by PelusoNN, Prop</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2293941448</link>
+<description>More Philips MAs, by PelusoNN, Prop</description>
+<guid isPermaLink="false">2293941448</guid>
+</item>
+<item>
+<title>Walmart Neighborhood market no parking lots ( ploppable RICO ready ), by SvenBerlin, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2289237499</link>
+<description>Walmart Neighborhood market no parking lots ( ploppable RICO ready ), by SvenBerlin, Building</description>
+<guid isPermaLink="false">2289237499</guid>
+</item>
+<item>
+<title>Elementary School, by luminou, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2289234152</link>
+<description>Elementary School, by luminou, Building</description>
+<guid isPermaLink="false">2289234152</guid>
+</item>
+<item>
+<title>The Shard_London, by jmtc320, Building</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2289210766</link>
+<description>The Shard_London, by jmtc320, Building</description>
+<guid isPermaLink="false">2289210766</guid>
+</item>
+</channel>
 </rss>
