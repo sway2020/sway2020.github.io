@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>jombus, by 𝗷𝗼𝗺𝗯𝘂𝘀, Map Theme</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296993970</link>
-<description>jombus, by 𝗷𝗼𝗺𝗯𝘂𝘀, Map Theme</description>
-<guid isPermaLink="false">2296993970</guid>
-</item>
-<item>
-<title>UH-1H Army [Desert Camo#2], by Ezoshika, Vehicle</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296971704</link>
-<description>UH-1H Army [Desert Camo#2], by Ezoshika, Vehicle</description>
-<guid isPermaLink="false">2296971704</guid>
-</item>
-<item>
-<title>Kaiser-Wilhelm-Gedächtniskirche, by jens, Building</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296971500</link>
-<description>Kaiser-Wilhelm-Gedächtniskirche, by jens, Building</description>
-<guid isPermaLink="false">2296971500</guid>
-</item>
-<item>
-<title>UH-1H Army [Desert Camo], by Ezoshika, Vehicle</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296967511</link>
-<description>UH-1H Army [Desert Camo], by Ezoshika, Vehicle</description>
-<guid isPermaLink="false">2296967511</guid>
-</item>
-</channel>
+ </channel>
 </rss>
