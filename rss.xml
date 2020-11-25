@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] FSC Zuk by Ozi</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2297956522</link>
+<description>[Vehicle] FSC Zuk by Ozi</description>
+<guid isPermaLink="false">2297956522</guid>
+</item>
+<item>
+<title>[Prop] JPSM Shopping Mall Signs by Ryuichi Kaminogi</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2297925106</link>
+<description>[Prop] JPSM Shopping Mall Signs by Ryuichi Kaminogi</description>
+<guid isPermaLink="false">2297925106</guid>
+</item>
+</channel>
 </rss>
