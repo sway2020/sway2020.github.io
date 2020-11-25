@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] Korail TEC by CHAIRMAN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2297843851</link>
-<description>[Vehicle] Korail TEC by CHAIRMAN</description>
-<guid isPermaLink="false">2297843851</guid>
-</item>
-<item>
-<title>[Park] 宋代三开间歇山配殿Side Hall by MC100</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2297824371</link>
-<description>[Park] 宋代三开间歇山配殿Side Hall by MC100</description>
-<guid isPermaLink="false">2297824371</guid>
-</item>
-</channel>
+ </channel>
 </rss>
