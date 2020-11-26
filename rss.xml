@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Oakmont Bakery by yinzerr</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2298513976</link>
+<description>[Building] Oakmont Bakery by yinzerr</description>
+<guid isPermaLink="false">2298513976</guid>
+</item>
+<item>
+<title>[Citizen] Quetzalcoatl Lucoa Citizen by stockjr97</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2298506170</link>
+<description>[Citizen] Quetzalcoatl Lucoa Citizen by stockjr97</description>
+<guid isPermaLink="false">2298506170</guid>
+</item>
+</channel>
 </rss>
