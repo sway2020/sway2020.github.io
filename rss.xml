@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Grosvenor Place by Robert</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2299717822</link>
-<description>[Building] Grosvenor Place by Robert</description>
-<guid isPermaLink="false">2299717822</guid>
-</item>
-</channel>
+ </channel>
 </rss>
