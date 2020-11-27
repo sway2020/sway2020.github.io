@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Audi A4 by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2300576604</link>
+<description>[Vehicle] Audi A4 by aries</description>
+<guid isPermaLink="false">2300576604</guid>
+</item>
+</channel>
 </rss>
