@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] JP office A (Osaka 西梅田オフィスビル) by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2300967522</link>
+<description>[Building] JP office A (Osaka 西梅田オフィスビル) by curr66</description>
+<guid isPermaLink="false">2300967522</guid>
+</item>
+</channel>
 </rss>
