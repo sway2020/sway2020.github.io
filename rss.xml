@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] UH-1H Army [Desert / Disaster Response] by Ezoshika</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2302666284</link>
+<description>[Vehicle] UH-1H Army [Desert / Disaster Response] by Ezoshika</description>
+<guid isPermaLink="false">2302666284</guid>
+</item>
+<item>
+<title>[Vehicle] UH-1H [Desert Camo/Medevac] by Ezoshika</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2302664387</link>
+<description>[Vehicle] UH-1H [Desert Camo/Medevac] by Ezoshika</description>
+<guid isPermaLink="false">2302664387</guid>
+</item>
+<item>
+<title>[Building] [RICO] The_Pinnacle_on_Adelaide_V4_48M by Reaper</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2302616605</link>
+<description>[Building] [RICO] The_Pinnacle_on_Adelaide_V4_48M by Reaper</description>
+<guid isPermaLink="false">2302616605</guid>
+</item>
+</channel>
 </rss>
