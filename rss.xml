@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] V/Line Vlocity - 6 Car (Purple/Green Livery) by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2303598692</link>
-<description>[Vehicle] V/Line Vlocity - 6 Car (Purple/Green Livery) by Zekiarsu</description>
-<guid isPermaLink="false">2303598692</guid>
-</item>
-<item>
-<title>[Vehicle] V/Line Vlocity - 4 Car (Purple/Green Livery) by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2303598256</link>
-<description>[Vehicle] V/Line Vlocity - 4 Car (Purple/Green Livery) by Zekiarsu</description>
-<guid isPermaLink="false">2303598256</guid>
-</item>
-<item>
-<title>[Vehicle] V/Line Vlocity - 2 Car (Purple/Green Livery) by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2303597158</link>
-<description>[Vehicle] V/Line Vlocity - 2 Car (Purple/Green Livery) by Zekiarsu</description>
-<guid isPermaLink="false">2303597158</guid>
-</item>
-</channel>
+ </channel>
 </rss>
