@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] New Super AeroCity 2008 GBUS by K_Green</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2303848705</link>
+<description>[Vehicle] New Super AeroCity 2008 GBUS by K_Green</description>
+<guid isPermaLink="false">2303848705</guid>
+</item>
+</channel>
 </rss>
