@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Republic City Lines EMD E8 Streamlined by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2304812103</link>
+<description>[Vehicle] Republic City Lines EMD E8 Streamlined by Astro</description>
+<guid isPermaLink="false">2304812103</guid>
+</item>
+<item>
+<title>[Vehicle] Republic City Lines EMD E7 Mixed by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2304811818</link>
+<description>[Vehicle] Republic City Lines EMD E7 Mixed by Astro</description>
+<guid isPermaLink="false">2304811818</guid>
+</item>
+<item>
+<title>[Vehicle] Republic City Lines EMD E6 Streamlined by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2304811495</link>
+<description>[Vehicle] Republic City Lines EMD E6 Streamlined by Astro</description>
+<guid isPermaLink="false">2304811495</guid>
+</item>
+<item>
+<title>[Vehicle] Republic City Lines EMC E4 Heavyweight by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2304811051</link>
+<description>[Vehicle] Republic City Lines EMC E4 Heavyweight by Astro</description>
+<guid isPermaLink="false">2304811051</guid>
+</item>
+</channel>
 </rss>
