@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Sailing Ship Quiet. Ploppable. by G00r00</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306172513</link>
+<description>[Building] Sailing Ship Quiet. Ploppable. by G00r00</description>
+<guid isPermaLink="false">2306172513</guid>
+</item>
+</channel>
 </rss>
