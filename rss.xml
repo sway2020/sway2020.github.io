@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Lattice Tower by Keith3201</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2305815372</link>
+<description>[Building] Lattice Tower by Keith3201</description>
+<guid isPermaLink="false">2305815372</guid>
+</item>
+<item>
+<title>[Multiple] 5 new workshop items by G00r00</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2305804425</link>
+<description>[Multiple] G00r00 just published 5 items</description>
+<guid isPermaLink="false">2305804425</guid>
+</item>
+<item>
+<title>[Building] Outlook Tower by Keith3201</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2303662850</link>
+<description>[Building] Outlook Tower by Keith3201</description>
+<guid isPermaLink="false">2303662850</guid>
+</item>
+<item>
+<title>[Building] Sky Point by Keith3201</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2302446496</link>
+<description>[Building] Sky Point by Keith3201</description>
+<guid isPermaLink="false">2302446496</guid>
+</item>
+</channel>
 </rss>
