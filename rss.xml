@@ -4,15 +4,39 @@
 <channel>
   <title>sway2020.github.io</title>
   <link>https://sway2020.github.io</link>
-  <description>Filter out crappy Cities Skylines Steam Workshop uploads</description>
+  <description>Filter out low effort Cities Skylines Steam Workshop uploads</description>
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Mod] Despawn Manager by Ilion</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306554537</link>
-<description>[Mod] Despawn Manager by Ilion</description>
-<guid isPermaLink="false">2306554537</guid>
+<title>[Road] Cobblestone Road #02 - Tram by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306636607</link>
+<description>[Road] Cobblestone Road #02 - Tram by clus</description>
+<guid isPermaLink="false">2306636607</guid>
+</item>
+<item>
+<title>[Road] Cobblestone Road #02 by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306635803</link>
+<description>[Road] Cobblestone Road #02 by clus</description>
+<guid isPermaLink="false">2306635803</guid>
+</item>
+<item>
+<title>[Building] Rose Park Residence by HypoSim</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306567826</link>
+<description>[Building] Rose Park Residence by HypoSim</description>
+<guid isPermaLink="false">2306567826</guid>
+</item>
+<item>
+<title>[Building] The 80s offices A by RyanCat</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306505893</link>
+<description>[Building] The 80s offices A by RyanCat</description>
+<guid isPermaLink="false">2306505893</guid>
+</item>
+<item>
+<title>[Vehicle] CSPD Fiat Ducato Prison by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2306193903</link>
+<description>[Vehicle] CSPD Fiat Ducato Prison by aries</description>
+<guid isPermaLink="false">2306193903</guid>
 </item>
 </channel>
 </rss>
