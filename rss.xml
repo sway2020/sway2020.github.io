@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Multiple] 3 new workshop items by Sarin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2307779588</link>
-<description>[Multiple] 3 new workshop items by Sarin</description>
-<guid isPermaLink="false">2307779588</guid>
-</item>
-<item>
-<title>[Park] Large Garden #2 by grazr</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2307780543</link>
-<description>[Park] Large Garden #2 by grazr</description>
-<guid isPermaLink="false">2307780543</guid>
-</item>
-<item>
-<title>[Park] Large Garden #2b by grazr</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2307783406</link>
-<description>[Park] Large Garden #2b by grazr</description>
-<guid isPermaLink="false">2307783406</guid>
-</item>
-</channel>
+ </channel>
 </rss>
