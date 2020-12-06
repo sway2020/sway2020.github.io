@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Road] Railyard Station Platforms - Germany by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310196401</link>
+<description>[Road] Railyard Station Platforms - Germany by REV0</description>
+<guid isPermaLink="false">2310196401</guid>
+</item>
+<item>
+<title>[Building] Thurgwood Marshall Courthouse by Frog</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310237378</link>
+<description>[Building] Thurgwood Marshall Courthouse by Frog</description>
+<guid isPermaLink="false">2310237378</guid>
+</item>
+<item>
+<title>[Vehicle] Alfa romeo 33 by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310289515</link>
+<description>[Vehicle] Alfa romeo 33 by TecniRanger</description>
+<guid isPermaLink="false">2310289515</guid>
+</item>
+<item>
+<title>[Prop] Alfa romeo 33[PROP] by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310290991</link>
+<description>[Prop] Alfa romeo 33[PROP] by TecniRanger</description>
+<guid isPermaLink="false">2310290991</guid>
+</item>
+</channel>
 </rss>
