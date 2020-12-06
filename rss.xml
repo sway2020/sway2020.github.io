@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] Volvo FH 4x2 DB Schenker by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310519386</link>
-<description>[Vehicle] Volvo FH 4x2 DB Schenker by ron_fu-ta</description>
-<guid isPermaLink="false">2310519386</guid>
-</item>
-<item>
-<title>[Prop] USA Autorack ETTX Clean by Scarecrow0u812</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2310539151</link>
-<description>[Prop] USA Autorack ETTX Clean by Scarecrow0u812</description>
-<guid isPermaLink="false">2310539151</guid>
-</item>
-</channel>
+ </channel>
 </rss>
