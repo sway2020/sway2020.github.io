@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Leigh-On-Sea FC prop pack by SvenBerlin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2316929072</link>
+<description>[Prop] Leigh-On-Sea FC prop pack by SvenBerlin</description>
+<guid isPermaLink="false">2316929072</guid>
+</item>
+</channel>
 </rss>
