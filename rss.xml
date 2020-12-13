@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Siemens Desiro HC - DB Regio (4Cars) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2319356891</link>
+<description>[Vehicle] Siemens Desiro HC - DB Regio (4Cars) by REV0</description>
+<guid isPermaLink="false">2319356891</guid>
+</item>
+<item>
+<title>[Vehicle] Siemens Desiro HC - DB Regio (10Cars) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2319358256</link>
+<description>[Vehicle] Siemens Desiro HC - DB Regio (10Cars) by REV0</description>
+<guid isPermaLink="false">2319358256</guid>
+</item>
+</channel>
 </rss>
