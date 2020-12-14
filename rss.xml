@@ -8,5 +8,41 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Buffalo Wild Wings by KingLeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320020887</link>
+<description>[Building] Buffalo Wild Wings by KingLeno</description>
+<guid isPermaLink="false">2320020887</guid>
+</item>
+<item>
+<title>[Building] Black Cat Music Club by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320046160</link>
+<description>[Building] Black Cat Music Club by Gilded Age</description>
+<guid isPermaLink="false">2320046160</guid>
+</item>
+<item>
+<title>[Prop] Radar Ground Master 400. Prop. by Sarin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320073261</link>
+<description>[Prop] Radar Ground Master 400. Prop. by Sarin</description>
+<guid isPermaLink="false">2320073261</guid>
+</item>
+<item>
+<title>[Prop] Olympia beer sign by EvametryE</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320093563</link>
+<description>[Prop] Olympia beer sign by EvametryE</description>
+<guid isPermaLink="false">2320093563</guid>
+</item>
+<item>
+<title>[Building] Arrow Road Garage by JSF-1</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320098224</link>
+<description>[Building] Arrow Road Garage by JSF-1</description>
+<guid isPermaLink="false">2320098224</guid>
+</item>
+<item>
+<title>[Prop] Westlake theatre sign by EvametryE</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320098593</link>
+<description>[Prop] Westlake theatre sign by EvametryE</description>
+<guid isPermaLink="false">2320098593</guid>
+</item>
+</channel>
 </rss>
