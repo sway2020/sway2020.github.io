@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Clothes Hangings by MarleEvans</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320650068</link>
+<description>[Prop] Clothes Hangings by MarleEvans</description>
+<guid isPermaLink="false">2320650068</guid>
+</item>
+<item>
+<title>[Multiple] 5 new workshop items by Ionwind</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320681892</link>
+<description>[Multiple] 5 new workshop items by Ionwind</description>
+<guid isPermaLink="false">2320681892</guid>
+</item>
+<item>
+<title>[Vehicle] MAN TGL 12 - POST.cs by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320759134</link>
+<description>[Vehicle] MAN TGL 12 - POST.cs by aries</description>
+<guid isPermaLink="false">2320759134</guid>
+</item>
+</channel>
 </rss>
