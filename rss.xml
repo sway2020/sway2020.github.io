@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Lighthouse LED Lighting by Takamon27</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320403474</link>
+<description>[Prop] Lighthouse LED Lighting by Takamon27</description>
+<guid isPermaLink="false">2320403474</guid>
+</item>
+<item>
+<title>[Prop] Weathercock by Takamon27</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2320405788</link>
+<description>[Prop] Weathercock by Takamon27</description>
+<guid isPermaLink="false">2320405788</guid>
+</item>
+<item>
+<title>[Building] JP Irago Cape Lighthouse  伊良湖岬灯台 by Takamon27</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2321603128</link>
+<description>[Building] JP Irago Cape Lighthouse  伊良湖岬灯台 by Takamon27</description>
+<guid isPermaLink="false">2321603128</guid>
+</item>
+<item>
+<title>[Prop] SV Wehen Wiesbaden Soccer Player by SvenBerlin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2321806807</link>
+<description>[Prop] SV Wehen Wiesbaden Soccer Player by SvenBerlin</description>
+<guid isPermaLink="false">2321806807</guid>
+</item>
+</channel>
 </rss>
