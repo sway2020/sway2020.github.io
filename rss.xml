@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] ЗСУ-23-4 «Шилка». Реквизит. by Sarin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2323902325</link>
+<description>[Prop] ЗСУ-23-4 «Шилка». Реквизит. by Sarin</description>
+<guid isPermaLink="false">2323902325</guid>
+</item>
+</channel>
 </rss>
