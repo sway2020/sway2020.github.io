@@ -9,10 +9,16 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Building] JP Office (京都アニメーション) by curr66</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2323537465</link>
-<description>[Building] JP Office (京都アニメーション) by curr66</description>
-<guid isPermaLink="false">2323537465</guid>
+<title>[Vehicle] EMD E5 American Royal Zephyr by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2323639602</link>
+<description>[Vehicle] EMD E5 American Royal Zephyr by Astro</description>
+<guid isPermaLink="false">2323639602</guid>
+</item>
+<item>
+<title>[Prop] EMD E5 American Royal Zephyr Props by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2323644817</link>
+<description>[Prop] EMD E5 American Royal Zephyr Props by Astro</description>
+<guid isPermaLink="false">2323644817</guid>
 </item>
 </channel>
 </rss>
