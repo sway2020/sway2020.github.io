@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] D3S LiAZ-6274 Moscow by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324629360</link>
-<description>[Vehicle] D3S LiAZ-6274 Moscow by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2324629360</guid>
-</item>
-<item>
-<title>[Vehicle] D3S NefAZ-6299 Moscow by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324672581</link>
-<description>[Vehicle] D3S NefAZ-6299 Moscow by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2324672581</guid>
-</item>
-</channel>
+ </channel>
 </rss>
