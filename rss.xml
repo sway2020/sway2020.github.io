@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Road] Thai 4 Lane Highway Road by NKZ.</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324347912</link>
-<description>[Road] Thai 4 Lane Highway Road by NKZ.</description>
-<guid isPermaLink="false">2324347912</guid>
-</item>
-<item>
-<title>[Building] 136 East 76th Street by Prosper</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324417691</link>
-<description>[Building] 136 East 76th Street by Prosper</description>
-<guid isPermaLink="false">2324417691</guid>
-</item>
-<item>
-<title>[Building] Fyrkat Sigrid by macluk</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324422861</link>
-<description>[Building] Fyrkat Sigrid by macluk</description>
-<guid isPermaLink="false">2324422861</guid>
-</item>
-</channel>
+ </channel>
 </rss>
