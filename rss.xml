@@ -8,5 +8,47 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] FIBIRD CNG seoul by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324028721</link>
+<description>[Vehicle] FIBIRD CNG seoul by PC28K</description>
+<guid isPermaLink="false">2324028721</guid>
+</item>
+<item>
+<title>[Prop] FIBIRD CNG seoul prop by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324030071</link>
+<description>[Prop] FIBIRD CNG seoul prop by PC28K</description>
+<guid isPermaLink="false">2324030071</guid>
+</item>
+<item>
+<title>[Vehicle] e-FIBIRD seoul by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324030710</link>
+<description>[Vehicle] e-FIBIRD seoul by PC28K</description>
+<guid isPermaLink="false">2324030710</guid>
+</item>
+<item>
+<title>[Prop] e-FIBIRD seoul prop by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324031332</link>
+<description>[Prop] e-FIBIRD seoul prop by PC28K</description>
+<guid isPermaLink="false">2324031332</guid>
+</item>
+<item>
+<title>[Vehicle] e-FIBIRD busan by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324810079</link>
+<description>[Vehicle] e-FIBIRD busan by PC28K</description>
+<guid isPermaLink="false">2324810079</guid>
+</item>
+<item>
+<title>[Prop] e-FIBIRD busan prop by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324810311</link>
+<description>[Prop] e-FIBIRD busan prop by PC28K</description>
+<guid isPermaLink="false">2324810311</guid>
+</item>
+<item>
+<title>[Vehicle] Fibird GBUS Early 2019 Production by K_Green</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2324873182</link>
+<description>[Vehicle] Fibird GBUS Early 2019 Production by K_Green</description>
+<guid isPermaLink="false">2324873182</guid>
+</item>
+</channel>
 </rss>
