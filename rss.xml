@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] 深圳万象天地T2/The Mixc World Tower 2 by UNFU</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2325250251</link>
+<description>[Building] 深圳万象天地T2/The Mixc World Tower 2 by UNFU</description>
+<guid isPermaLink="false">2325250251</guid>
+</item>
+<item>
+<title>[Building] 深圳万象天地T1/The Mixc World Tower 1 by UNFU</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2325262849</link>
+<description>[Building] 深圳万象天地T1/The Mixc World Tower 1 by UNFU</description>
+<guid isPermaLink="false">2325262849</guid>
+</item>
+</channel>
 </rss>
