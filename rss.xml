@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] USCGC Fir by RoomMic</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2325365081</link>
-<description>[Vehicle] USCGC Fir by RoomMic</description>
-<guid isPermaLink="false">2325365081</guid>
-</item>
-<item>
-<title>[Vehicle] SS Repunzel by RoomMic</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2325371695</link>
-<description>[Vehicle] SS Repunzel by RoomMic</description>
-<guid isPermaLink="false">2325371695</guid>
-</item>
-<item>
-<title>[Vehicle] ВАЗ-2109. Росгвардия. by Sarin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2325420784</link>
-<description>[Vehicle] ВАЗ-2109. Росгвардия. by Sarin</description>
-<guid isPermaLink="false">2325420784</guid>
-</item>
-</channel>
+ </channel>
 </rss>
