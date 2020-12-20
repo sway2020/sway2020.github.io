@@ -8,53 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Prop] Post.cs flag PROP by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326814223</link>
-<description>[Prop] Post.cs flag PROP by aries</description>
-<guid isPermaLink="false">2326814223</guid>
-</item>
-<item>
-<title>[Building] Tysons Center by Keith3201</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326815206</link>
-<description>[Building] Tysons Center by Keith3201</description>
-<guid isPermaLink="false">2326815206</guid>
-</item>
-<item>
-<title>[Building] Post.cs Modern urban post office by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326830060</link>
-<description>[Building] Post.cs Modern urban post office by aries</description>
-<guid isPermaLink="false">2326830060</guid>
-</item>
-<item>
-<title>[Building] CH-47 Chinook RNAF by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326830584</link>
-<description>[Building] CH-47 Chinook RNAF by EvametryE</description>
-<guid isPermaLink="false">2326830584</guid>
-</item>
-<item>
-<title>[Vehicle] Hercules oceangoing tug (1907) by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326836693</link>
-<description>[Vehicle] Hercules oceangoing tug (1907) by EvametryE</description>
-<guid isPermaLink="false">2326836693</guid>
-</item>
-<item>
-<title>[Building] Post.cs office by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326840245</link>
-<description>[Building] Post.cs office by aries</description>
-<guid isPermaLink="false">2326840245</guid>
-</item>
-<item>
-<title>[Building] Post.cs sorting facility by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326850496</link>
-<description>[Building] Post.cs sorting facility by aries</description>
-<guid isPermaLink="false">2326850496</guid>
-</item>
-<item>
-<title>[Vehicle] Hercules railroad tug (1924) by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2326855947</link>
-<description>[Vehicle] Hercules railroad tug (1924) by EvametryE</description>
-<guid isPermaLink="false">2326855947</guid>
-</item>
-</channel>
+ </channel>
 </rss>
