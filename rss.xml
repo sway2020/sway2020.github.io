@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Kaiser Joseph II by Don B</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2328743636</link>
+<description>[Building] Kaiser Joseph II by Don B</description>
+<guid isPermaLink="false">2328743636</guid>
+</item>
+</channel>
 </rss>
