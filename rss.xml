@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Road] Brazilian Wall 2 - Concrete Block by Redoze</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2329415728</link>
+<description>[Road] Brazilian Wall 2 - Concrete Block by Redoze</description>
+<guid isPermaLink="false">2329415728</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E7 Rock Island Commuter by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2329423464</link>
+<description>[Vehicle] EMD E7 Rock Island Commuter by Astro</description>
+<guid isPermaLink="false">2329423464</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E8 Rock Island Commuter by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2329423724</link>
+<description>[Vehicle] EMD E8 Rock Island Commuter by Astro</description>
+<guid isPermaLink="false">2329423724</guid>
+</item>
+</channel>
 </rss>
