@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] NZ Kiwi sculpture by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2329900919</link>
-<description>[Building] NZ Kiwi sculpture by AliTarGz</description>
-<guid isPermaLink="false">2329900919</guid>
-</item>
-</channel>
+ </channel>
 </rss>
