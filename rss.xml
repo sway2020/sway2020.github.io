@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Korea National Railroad New Diesel Car(Old Color) by CHAIRMAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2331128331</link>
+<description>[Vehicle] Korea National Railroad New Diesel Car(Old Color) by CHAIRMAN</description>
+<guid isPermaLink="false">2331128331</guid>
+</item>
+<item>
+<title>[Vehicle] Korea National Railroad New Diesel Car by CHAIRMAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2331129170</link>
+<description>[Vehicle] Korea National Railroad New Diesel Car by CHAIRMAN</description>
+<guid isPermaLink="false">2331129170</guid>
+</item>
+<item>
+<title>[Vehicle] Korail New Diesel Car by CHAIRMAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2331129954</link>
+<description>[Vehicle] Korail New Diesel Car by CHAIRMAN</description>
+<guid isPermaLink="false">2331129954</guid>
+</item>
+</channel>
 </rss>
