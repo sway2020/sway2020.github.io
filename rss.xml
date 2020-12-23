@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] TPEL Delivery by Tetris</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2328137814</link>
+<description>[Vehicle] TPEL Delivery by Tetris</description>
+<guid isPermaLink="false">2328137814</guid>
+</item>
+<item>
+<title>[Vehicle] TPEL Garbage by Tetris</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2328264824</link>
+<description>[Vehicle] TPEL Garbage by Tetris</description>
+<guid isPermaLink="false">2328264824</guid>
+</item>
+<item>
+<title>[Vehicle] TPEL Ambulance by Tetris</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2330352191</link>
+<description>[Vehicle] TPEL Ambulance by Tetris</description>
+<guid isPermaLink="false">2330352191</guid>
+</item>
+<item>
+<title>[Vehicle] VW T6 Express POST.cs by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2330402478</link>
+<description>[Vehicle] VW T6 Express POST.cs by aries</description>
+<guid isPermaLink="false">2330402478</guid>
+</item>
+</channel>
 </rss>
