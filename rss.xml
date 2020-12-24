@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] [Korea] KR marcket 1 by 시린시</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2332737134</link>
+<description>[Building] [Korea] KR marcket 1 by 시린시</description>
+<guid isPermaLink="false">2332737134</guid>
+</item>
+<item>
+<title>[Building] [Korea] KR marcket 2 by 시린시</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2332740674</link>
+<description>[Building] [Korea] KR marcket 2 by 시린시</description>
+<guid isPermaLink="false">2332740674</guid>
+</item>
+<item>
+<title>[Park] Gingerbread House by KingLeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2332753648</link>
+<description>[Park] Gingerbread House by KingLeno</description>
+<guid isPermaLink="false">2332753648</guid>
+</item>
+</channel>
 </rss>
