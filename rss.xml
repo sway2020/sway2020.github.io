@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Brick Brownstone Home by valleymena</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2330271073</link>
+<description>[Building] Brick Brownstone Home by valleymena</description>
+<guid isPermaLink="false">2330271073</guid>
+</item>
+<item>
+<title>[Building] Brick Manor by valleymena</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2331701296</link>
+<description>[Building] Brick Manor by valleymena</description>
+<guid isPermaLink="false">2331701296</guid>
+</item>
+</channel>
 </rss>
