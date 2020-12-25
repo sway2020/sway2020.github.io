@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Road] Swanky Street Winter: NO DLC required by MrMiyagi</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2333077069</link>
-<description>[Road] Swanky Street Winter: NO DLC required by MrMiyagi</description>
-<guid isPermaLink="false">2333077069</guid>
-</item>
-<item>
-<title>[Building] John Bell Block by valleymena</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2333123563</link>
-<description>[Building] John Bell Block by valleymena</description>
-<guid isPermaLink="false">2333123563</guid>
-</item>
-</channel>
+ </channel>
 </rss>
