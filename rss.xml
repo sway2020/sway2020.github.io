@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] JR East E657 Series (6 Cars) by InHailt</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2333585000</link>
-<description>[Vehicle] JR East E657 Series (6 Cars) by InHailt</description>
-<guid isPermaLink="false">2333585000</guid>
-</item>
-<item>
-<title>[Vehicle] JR East E657 Series (10 Cars) by InHailt</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2333585362</link>
-<description>[Vehicle] JR East E657 Series (10 Cars) by InHailt</description>
-<guid isPermaLink="false">2333585362</guid>
-</item>
-</channel>
+ </channel>
 </rss>
