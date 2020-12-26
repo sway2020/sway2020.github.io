@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] Hong Kong tram - gen6 (plain) by JeremyChit</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2334038743</link>
-<description>[Vehicle] Hong Kong tram - gen6 (plain) by JeremyChit</description>
-<guid isPermaLink="false">2334038743</guid>
-</item>
-<item>
-<title>[Vehicle] Hong Kong tram - vintage tram no. 128 by JeremyChit</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2334040222</link>
-<description>[Vehicle] Hong Kong tram - vintage tram no. 128 by JeremyChit</description>
-<guid isPermaLink="false">2334040222</guid>
-</item>
-<item>
-<title>[Vehicle] Hong Kong tram - vintage tram no. 28 by JeremyChit</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2334041367</link>
-<description>[Vehicle] Hong Kong tram - vintage tram no. 28 by JeremyChit</description>
-<guid isPermaLink="false">2334041367</guid>
-</item>
-</channel>
+ </channel>
 </rss>
