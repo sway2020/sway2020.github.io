@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] korea_srt_sequence_coupling    yunseul by yunseul</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2334749029</link>
+<description>[Vehicle] korea_srt_sequence_coupling    yunseul by yunseul</description>
+<guid isPermaLink="false">2334749029</guid>
+</item>
+</channel>
 </rss>
