@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Residential Building 033 by Valex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2335411638</link>
-<description>[Building] Residential Building 033 by Valex</description>
-<guid isPermaLink="false">2335411638</guid>
-</item>
-<item>
-<title>[Vehicle] JR East series 211-3000 Nagano (3 Cars) by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2335439308</link>
-<description>[Vehicle] JR East series 211-3000 Nagano (3 Cars) by ron_fu-ta</description>
-<guid isPermaLink="false">2335439308</guid>
-</item>
-</channel>
+ </channel>
 </rss>
