@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Tree] CornField by pdelmo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2338328892</link>
-<description>[Tree] CornField by pdelmo</description>
-<guid isPermaLink="false">2338328892</guid>
-</item>
-</channel>
+ </channel>
 </rss>
