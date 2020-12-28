@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] ITX-Saemaul by CHAIRMAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2337352606</link>
+<description>[Vehicle] ITX-Saemaul by CHAIRMAN</description>
+<guid isPermaLink="false">2337352606</guid>
+</item>
+</channel>
 </rss>
