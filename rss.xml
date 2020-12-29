@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Belfry of Tournai by Shibuya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2338868635</link>
-<description>[Building] Belfry of Tournai by Shibuya</description>
-<guid isPermaLink="false">2338868635</guid>
-</item>
-</channel>
+ </channel>
 </rss>
