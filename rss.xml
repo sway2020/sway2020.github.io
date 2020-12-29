@@ -8,5 +8,35 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Flowerbed Set by Takamon27</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2339778023</link>
+<description>[Prop] Flowerbed Set by Takamon27</description>
+<guid isPermaLink="false">2339778023</guid>
+</item>
+<item>
+<title>[Park] Happiness bell　恋路が浜の幸せの鐘 by Takamon27</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2339955240</link>
+<description>[Park] Happiness bell　恋路が浜の幸せの鐘 by Takamon27</description>
+<guid isPermaLink="false">2339955240</guid>
+</item>
+<item>
+<title>[Vehicle] aerotown busan(maeul) by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2340037211</link>
+<description>[Vehicle] aerotown busan(maeul) by PC28K</description>
+<guid isPermaLink="false">2340037211</guid>
+</item>
+<item>
+<title>[Prop] aerotown busan(maeul) prop by PC28K</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2340037911</link>
+<description>[Prop] aerotown busan(maeul) prop by PC28K</description>
+<guid isPermaLink="false">2340037911</guid>
+</item>
+<item>
+<title>[Vehicle] KCS EMD F3 Southern Belle by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2340072162</link>
+<description>[Vehicle] KCS EMD F3 Southern Belle by Astro</description>
+<guid isPermaLink="false">2340072162</guid>
+</item>
+</channel>
 </rss>
