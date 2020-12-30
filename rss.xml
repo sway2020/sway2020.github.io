@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] New Zealand Bus Pack 1 - Auckland by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2340180754</link>
+<description>[Vehicle] New Zealand Bus Pack 1 - Auckland by ThingGoBoom</description>
+<guid isPermaLink="false">2340180754</guid>
+</item>
+<item>
+<title>[Building] Rural Inn by Murokmakto</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2340739552</link>
+<description>[Building] Rural Inn by Murokmakto</description>
+<guid isPermaLink="false">2340739552</guid>
+</item>
+</channel>
 </rss>
