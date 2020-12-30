@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Prop] Camera Stand　カメラスタンド by Takamon27</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2341400769</link>
-<description>[Prop] Camera Stand　カメラスタンド by Takamon27</description>
-<guid isPermaLink="false">2341400769</guid>
-</item>
-<item>
-<title>[Building] American Industrial 2 by LeeTG3</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2341497508</link>
-<description>[Building] American Industrial 2 by LeeTG3</description>
-<guid isPermaLink="false">2341497508</guid>
-</item>
-</channel>
+ </channel>
 </rss>
