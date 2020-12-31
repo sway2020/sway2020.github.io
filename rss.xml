@@ -8,5 +8,47 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Škoda 30Tr SOR by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343153731</link>
+<description>[Vehicle] Škoda 30Tr SOR by Oleg Faktor</description>
+<guid isPermaLink="false">2343153731</guid>
+</item>
+<item>
+<title>[Vehicle] Škoda 30Tr SOR Bratislava by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343155485</link>
+<description>[Vehicle] Škoda 30Tr SOR Bratislava by Oleg Faktor</description>
+<guid isPermaLink="false">2343155485</guid>
+</item>
+<item>
+<title>[Vehicle] Škoda 30Tr SOR Teplice by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343156173</link>
+<description>[Vehicle] Škoda 30Tr SOR Teplice by Oleg Faktor</description>
+<guid isPermaLink="false">2343156173</guid>
+</item>
+<item>
+<title>[Vehicle] Škoda 30Tr SOR recolored by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343156971</link>
+<description>[Vehicle] Škoda 30Tr SOR recolored by Oleg Faktor</description>
+<guid isPermaLink="false">2343156971</guid>
+</item>
+<item>
+<title>[Vehicle] Škoda 30Tr SOR recolored var.2 by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343157512</link>
+<description>[Vehicle] Škoda 30Tr SOR recolored var.2 by Oleg Faktor</description>
+<guid isPermaLink="false">2343157512</guid>
+</item>
+<item>
+<title>[Building] 日本中型公寓A（ミディアムアパートメント  A） by </title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343190488</link>
+<description>[Building] 日本中型公寓A（ミディアムアパートメント  A） by </description>
+<guid isPermaLink="false">2343190488</guid>
+</item>
+<item>
+<title>[Building] Industries Corn Field (building version) by pdelmo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343239831</link>
+<description>[Building] Industries Corn Field (building version) by pdelmo</description>
+<guid isPermaLink="false">2343239831</guid>
+</item>
+</channel>
 </rss>
