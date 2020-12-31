@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] 2018 Chrysler 300 by Californianyt</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343008057</link>
+<description>[Vehicle] 2018 Chrysler 300 by Californianyt</description>
+<guid isPermaLink="false">2343008057</guid>
+</item>
+<item>
+<title>[Vehicle] Generic Golf Cart by Californianyt</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2343009100</link>
+<description>[Vehicle] Generic Golf Cart by Californianyt</description>
+<guid isPermaLink="false">2343009100</guid>
+</item>
+</channel>
 </rss>
