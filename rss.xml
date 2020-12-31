@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Japan Supermarket ベイシア スーパーマーケット by OSARUSAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2342809512</link>
+<description>[Building] Japan Supermarket ベイシア スーパーマーケット by OSARUSAN</description>
+<guid isPermaLink="false">2342809512</guid>
+</item>
+</channel>
 </rss>
