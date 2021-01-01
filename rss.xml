@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] New Zealand Bus Pack 2 - Auckland Metro Links by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2344265791</link>
+<description>[Vehicle] New Zealand Bus Pack 2 - Auckland Metro Links by ThingGoBoom</description>
+<guid isPermaLink="false">2344265791</guid>
+</item>
+<item>
+<title>[Vehicle] NZBP - MAN 17.223 AT Metro by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2344271302</link>
+<description>[Vehicle] NZBP - MAN 17.223 AT Metro by ThingGoBoom</description>
+<guid isPermaLink="false">2344271302</guid>
+</item>
+<item>
+<title>[Vehicle] NZBP - Enviro 500 AT Northern Express by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2344272838</link>
+<description>[Vehicle] NZBP - Enviro 500 AT Northern Express by ThingGoBoom</description>
+<guid isPermaLink="false">2344272838</guid>
+</item>
+</channel>
 </rss>
