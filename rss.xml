@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Ryde Bus Pack - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2346307526</link>
+<description>[Vehicle] Ryde Bus Pack - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2346307526</guid>
+</item>
+<item>
+<title>[Tree] Filler Bushes by pdelmo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2346312805</link>
+<description>[Tree] Filler Bushes by pdelmo</description>
+<guid isPermaLink="false">2346312805</guid>
+</item>
+<item>
+<title>[Tree] Filler Bushes by pdelmo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2346315296</link>
+<description>[Tree] Filler Bushes by pdelmo</description>
+<guid isPermaLink="false">2346315296</guid>
+</item>
+</channel>
 </rss>
