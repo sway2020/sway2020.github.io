@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Japanese Narrow Apartment Building by Auchmial</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2345978281</link>
+<description>[Building] Japanese Narrow Apartment Building by Auchmial</description>
+<guid isPermaLink="false">2345978281</guid>
+</item>
+</channel>
 </rss>
