@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Kit Homes - Sears - The Belmont by Bungalow Man</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2345686872</link>
-<description>[Building] Kit Homes - Sears - The Belmont by Bungalow Man</description>
-<guid isPermaLink="false">2345686872</guid>
-</item>
-</channel>
+ </channel>
 </rss>
