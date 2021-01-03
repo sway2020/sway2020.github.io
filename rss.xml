@@ -9,10 +9,22 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Vehicle] Ryde - Airport Shuttle - Terminal Hopper: MAN 17.322 by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2347571696</link>
-<description>[Vehicle] Ryde - Airport Shuttle - Terminal Hopper: MAN 17.322 by BlueThunder796</description>
-<guid isPermaLink="false">2347571696</guid>
+<title>[Prop] Traffic Control Accident  Unfall by Ironhospital</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2346895349</link>
+<description>[Prop] Traffic Control Accident  Unfall by Ironhospital</description>
+<guid isPermaLink="false">2346895349</guid>
+</item>
+<item>
+<title>[Building] Invisible bus depot by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2347612385</link>
+<description>[Building] Invisible bus depot by ron_fu-ta</description>
+<guid isPermaLink="false">2347612385</guid>
+</item>
+<item>
+<title>[Building] Invisible taxi depot by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2347612527</link>
+<description>[Building] Invisible taxi depot by ron_fu-ta</description>
+<guid isPermaLink="false">2347612527</guid>
 </item>
 </channel>
 </rss>
