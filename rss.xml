@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Ryde - Airport Shuttle - Terminal Hopper: MAN 17.322 by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2347571696</link>
+<description>[Vehicle] Ryde - Airport Shuttle - Terminal Hopper: MAN 17.322 by BlueThunder796</description>
+<guid isPermaLink="false">2347571696</guid>
+</item>
+</channel>
 </rss>
