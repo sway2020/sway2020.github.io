@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Japanese Simple House by nob50506000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349543740</link>
+<description>[Building] Japanese Simple House by nob50506000</description>
+<guid isPermaLink="false">2349543740</guid>
+</item>
+<item>
+<title>[Building] Japanese Simple House by nob50506000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349563989</link>
+<description>[Building] Japanese Simple House by nob50506000</description>
+<guid isPermaLink="false">2349563989</guid>
+</item>
+<item>
+<title>[Building] Aldi Grocery Store by DieHardHunter</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349641719</link>
+<description>[Building] Aldi Grocery Store by DieHardHunter</description>
+<guid isPermaLink="false">2349641719</guid>
+</item>
+</channel>
 </rss>
