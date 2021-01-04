@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Helmsley Building by Frog</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349100787</link>
+<description>[Building] Helmsley Building by Frog</description>
+<guid isPermaLink="false">2349100787</guid>
+</item>
+</channel>
 </rss>
