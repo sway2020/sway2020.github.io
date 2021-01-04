@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Prop] Helicopter UH-60 RNAF Medic. Prop. by Sarin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349211288</link>
-<description>[Prop] Helicopter UH-60 RNAF Medic. Prop. by Sarin</description>
-<guid isPermaLink="false">2349211288</guid>
-</item>
-<item>
-<title>[Vehicle] Arex 1000Series EMU by CHAIRMAN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349217604</link>
-<description>[Vehicle] Arex 1000Series EMU by CHAIRMAN</description>
-<guid isPermaLink="false">2349217604</guid>
-</item>
-<item>
-<title>[Vehicle] Arex 1000Series EMU by CHAIRMAN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349218462</link>
-<description>[Vehicle] Arex 1000Series EMU by CHAIRMAN</description>
-<guid isPermaLink="false">2349218462</guid>
-</item>
-<item>
-<title>[Vehicle] Arex 2000Series EMU by CHAIRMAN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2349219175</link>
-<description>[Vehicle] Arex 2000Series EMU by CHAIRMAN</description>
-<guid isPermaLink="false">2349219175</guid>
-</item>
-</channel>
+ </channel>
 </rss>
