@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] NZ Altus warehouse by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2351016742</link>
-<description>[Building] NZ Altus warehouse by AliTarGz</description>
-<guid isPermaLink="false">2351016742</guid>
-</item>
-<item>
-<title>[Building] Brazilian commercial low pack L1 by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2351101818</link>
-<description>[Building] Brazilian commercial low pack L1 by AliTarGz</description>
-<guid isPermaLink="false">2351101818</guid>
-</item>
-<item>
-<title>[Building] Farm Workshop by Ploefke</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2351127172</link>
-<description>[Building] Farm Workshop by Ploefke</description>
-<guid isPermaLink="false">2351127172</guid>
-</item>
-</channel>
+ </channel>
 </rss>
