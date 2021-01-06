@@ -9,10 +9,16 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Building] Olofsborg 1690 by prepo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352186965</link>
-<description>[Building] Olofsborg 1690 by prepo</description>
-<guid isPermaLink="false">2352186965</guid>
+<title>[Park] LHD Carrier HMAS Canberra by Shibuya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2347374464</link>
+<description>[Park] LHD Carrier HMAS Canberra by Shibuya</description>
+<guid isPermaLink="false">2347374464</guid>
+</item>
+<item>
+<title>[Transport] Vanilla Single Metro Tracks by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352284175</link>
+<description>[Transport] Vanilla Single Metro Tracks by clus</description>
+<guid isPermaLink="false">2352284175</guid>
 </item>
 </channel>
 </rss>
