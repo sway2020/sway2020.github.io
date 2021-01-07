@@ -8,5 +8,41 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] 한국식 교회 첨탑(KR church spire) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2338421092</link>
+<description>[Prop] 한국식 교회 첨탑(KR church spire) by SCAR_Nice</description>
+<guid isPermaLink="false">2338421092</guid>
+</item>
+<item>
+<title>[Prop] Ryde Small Aircraft PROP Pack - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352840755</link>
+<description>[Prop] Ryde Small Aircraft PROP Pack - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2352840755</guid>
+</item>
+<item>
+<title>[Prop] Ryde Medium Aircraft PROP Pack - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352841504</link>
+<description>[Prop] Ryde Medium Aircraft PROP Pack - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2352841504</guid>
+</item>
+<item>
+<title>[Prop] Ryde Large Aircraft PROP Pack - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352842124</link>
+<description>[Prop] Ryde Large Aircraft PROP Pack - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2352842124</guid>
+</item>
+<item>
+<title>[Prop] DWG KIA logo by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352854113</link>
+<description>[Prop] DWG KIA logo by SCAR_Nice</description>
+<guid isPermaLink="false">2352854113</guid>
+</item>
+<item>
+<title>[Prop] 기아자동차 로고(KIAmotors logo) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2352854642</link>
+<description>[Prop] 기아자동차 로고(KIAmotors logo) by SCAR_Nice</description>
+<guid isPermaLink="false">2352854642</guid>
+</item>
+</channel>
 </rss>
