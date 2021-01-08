@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Traditional Chinese Architecture 古风建筑 by VQVQ</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2353066033</link>
+<description>[Building] Traditional Chinese Architecture 古风建筑 by VQVQ</description>
+<guid isPermaLink="false">2353066033</guid>
+</item>
+<item>
+<title>[Building] Neues Museum, Berlin by PeterBar</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2353937271</link>
+<description>[Building] Neues Museum, Berlin by PeterBar</description>
+<guid isPermaLink="false">2353937271</guid>
+</item>
+</channel>
 </rss>
