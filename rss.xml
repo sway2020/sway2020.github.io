@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] State Gymnasium by Valex</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355478718</link>
+<description>[Building] State Gymnasium by Valex</description>
+<guid isPermaLink="false">2355478718</guid>
+</item>
+<item>
+<title>[Vehicle] Volvo FH 4x2 Livestock by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355507046</link>
+<description>[Vehicle] Volvo FH 4x2 Livestock by ron_fu-ta</description>
+<guid isPermaLink="false">2355507046</guid>
+</item>
+<item>
+<title>[Prop] Go chess (Weiqi) by RyanCat</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355521818</link>
+<description>[Prop] Go chess (Weiqi) by RyanCat</description>
+<guid isPermaLink="false">2355521818</guid>
+</item>
+</channel>
 </rss>
