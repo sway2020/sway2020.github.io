@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Royal Naval House by Robert</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2358282341</link>
-<description>[Building] Royal Naval House by Robert</description>
-<guid isPermaLink="false">2358282341</guid>
-</item>
-<item>
-<title>[Building] Federation Hall by Robert</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2358282868</link>
-<description>[Building] Federation Hall by Robert</description>
-<guid isPermaLink="false">2358282868</guid>
-</item>
-</channel>
+ </channel>
 </rss>
