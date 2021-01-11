@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] SS Semiramis (Wood) - Steam Cargo Ship by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2358656946</link>
+<description>[Vehicle] SS Semiramis (Wood) - Steam Cargo Ship by RoomMic</description>
+<guid isPermaLink="false">2358656946</guid>
+</item>
+<item>
+<title>[Vehicle] SS Semiramis (Steel) - Steam Cargo Ship by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2358659308</link>
+<description>[Vehicle] SS Semiramis (Steel) - Steam Cargo Ship by RoomMic</description>
+<guid isPermaLink="false">2358659308</guid>
+</item>
+</channel>
 </rss>
