@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] Chevrolet Caprice by 謀</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2358078074</link>
-<description>[Vehicle] Chevrolet Caprice by 謀</description>
-<guid isPermaLink="false">2358078074</guid>
-</item>
-</channel>
+ </channel>
 </rss>
