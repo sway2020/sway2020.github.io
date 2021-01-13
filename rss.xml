@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] 横浜 木村ビル / JP Yokohama Kimura Building by koma</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2360351293</link>
+<description>[Building] 横浜 木村ビル / JP Yokohama Kimura Building by koma</description>
+<guid isPermaLink="false">2360351293</guid>
+</item>
+</channel>
 </rss>
