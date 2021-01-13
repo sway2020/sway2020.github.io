@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] PH Ancestral House by SA547PH</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2359692901</link>
+<description>[Building] PH Ancestral House by SA547PH</description>
+<guid isPermaLink="false">2359692901</guid>
+</item>
+</channel>
 </rss>
