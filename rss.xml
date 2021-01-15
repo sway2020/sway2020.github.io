@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Fyrkat Sigrid B by macluk</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362447136</link>
-<description>[Building] Fyrkat Sigrid B by macluk</description>
-<guid isPermaLink="false">2362447136</guid>
-</item>
-</channel>
+ </channel>
 </rss>
