@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[( view )] hide ui by Totalnugget</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362666008</link>
+<description>[( view )] hide ui by Totalnugget</description>
+<guid isPermaLink="false">2362666008</guid>
+</item>
+<item>
+<title>[Building] Fyrkat Gyda lev1 by macluk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362701685</link>
+<description>[Building] Fyrkat Gyda lev1 by macluk</description>
+<guid isPermaLink="false">2362701685</guid>
+</item>
+</channel>
 </rss>
