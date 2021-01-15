@@ -9,34 +9,40 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Building] 18m by 2901807806</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362200462</link>
-<description>[Building] 18m by 2901807806</description>
-<guid isPermaLink="false">2362200462</guid>
+<title>[Building] 出入口（前） by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362251126</link>
+<description>[Building] 出入口（前） by 2901807806</description>
+<guid isPermaLink="false">2362251126</guid>
 </item>
 <item>
-<title>[Building] 18m折返线 by 2901807806</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362214019</link>
-<description>[Building] 18m折返线 by 2901807806</description>
-<guid isPermaLink="false">2362214019</guid>
+<title>[Building] 出入口（右） by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362251725</link>
+<description>[Building] 出入口（右） by 2901807806</description>
+<guid isPermaLink="false">2362251725</guid>
 </item>
 <item>
-<title>[Transport] 单向车站轨道 by 2901807806</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362232274</link>
-<description>[Transport] 单向车站轨道 by 2901807806</description>
-<guid isPermaLink="false">2362232274</guid>
+<title>[Building] 出入口（左） by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362252279</link>
+<description>[Building] 出入口（左） by 2901807806</description>
+<guid isPermaLink="false">2362252279</guid>
 </item>
 <item>
-<title>[Building] 24m by 2901807806</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362259764</link>
-<description>[Building] 24m by 2901807806</description>
-<guid isPermaLink="false">2362259764</guid>
+<title>[Transport] 现代单向轨道 by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362253422</link>
+<description>[Transport] 现代单向轨道 by 2901807806</description>
+<guid isPermaLink="false">2362253422</guid>
 </item>
 <item>
-<title>[Building] 24m折返线 by 2901807806</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362260315</link>
-<description>[Building] 24m折返线 by 2901807806</description>
-<guid isPermaLink="false">2362260315</guid>
+<title>[Transport] 现代双向轨道 by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362253783</link>
+<description>[Transport] 现代双向轨道 by 2901807806</description>
+<guid isPermaLink="false">2362253783</guid>
+</item>
+<item>
+<title>[Building] JP Post Office (日本橋郵便局) by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362317217</link>
+<description>[Building] JP Post Office (日本橋郵便局) by curr66</description>
+<guid isPermaLink="false">2362317217</guid>
 </item>
 </channel>
 </rss>
