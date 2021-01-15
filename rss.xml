@@ -8,5 +8,35 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] 18m by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362200462</link>
+<description>[Building] 18m by 2901807806</description>
+<guid isPermaLink="false">2362200462</guid>
+</item>
+<item>
+<title>[Building] 18m折返线 by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362214019</link>
+<description>[Building] 18m折返线 by 2901807806</description>
+<guid isPermaLink="false">2362214019</guid>
+</item>
+<item>
+<title>[Transport] 单向车站轨道 by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362232274</link>
+<description>[Transport] 单向车站轨道 by 2901807806</description>
+<guid isPermaLink="false">2362232274</guid>
+</item>
+<item>
+<title>[Building] 24m by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362259764</link>
+<description>[Building] 24m by 2901807806</description>
+<guid isPermaLink="false">2362259764</guid>
+</item>
+<item>
+<title>[Building] 24m折返线 by 2901807806</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2362260315</link>
+<description>[Building] 24m折返线 by 2901807806</description>
+<guid isPermaLink="false">2362260315</guid>
+</item>
+</channel>
 </rss>
