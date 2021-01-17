@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Zyle Daewoo FX116 : Daehan Express by 찬영영 박</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2364642000</link>
+<description>[Vehicle] Zyle Daewoo FX116 : Daehan Express by 찬영영 박</description>
+<guid isPermaLink="false">2364642000</guid>
+</item>
+<item>
+<title>[Vehicle] Hyundai New Super Aero City 15s : Anjeon passenger Corp by 찬영영 박</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2364667001</link>
+<description>[Vehicle] Hyundai New Super Aero City 15s : Anjeon passenger Corp by 찬영영 박</description>
+<guid isPermaLink="false">2364667001</guid>
+</item>
+</channel>
 </rss>
