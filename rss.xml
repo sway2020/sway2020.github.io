@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Dutch Thatched Barn #2 by Ploefke</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365185833</link>
-<description>[Building] Dutch Thatched Barn #2 by Ploefke</description>
-<guid isPermaLink="false">2365185833</guid>
-</item>
-<item>
-<title>[Building] Austrian Commercial 01 by ArturIalanski</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365190582</link>
-<description>[Building] Austrian Commercial 01 by ArturIalanski</description>
-<guid isPermaLink="false">2365190582</guid>
-</item>
-</channel>
+ </channel>
 </rss>
