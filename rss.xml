@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Small High School by [OG]CombatMedic02</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2366424182</link>
+<description>[Building] Small High School by [OG]CombatMedic02</description>
+<guid isPermaLink="false">2366424182</guid>
+</item>
+</channel>
 </rss>
