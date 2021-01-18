@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Springfield General Hospital by Basco81</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365480906</link>
-<description>[Building] Springfield General Hospital by Basco81</description>
-<guid isPermaLink="false">2365480906</guid>
-</item>
-<item>
-<title>[Vehicle] MV Prometeo by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365492116</link>
-<description>[Vehicle] MV Prometeo by EvametryE</description>
-<guid isPermaLink="false">2365492116</guid>
-</item>
-</channel>
+ </channel>
 </rss>
