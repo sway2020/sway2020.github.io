@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] KOI Sky Residences by marking_sc</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365595624</link>
+<description>[Building] KOI Sky Residences by marking_sc</description>
+<guid isPermaLink="false">2365595624</guid>
+</item>
+<item>
+<title>[Vehicle] SY- BMW 5er iPerformance by La3ieb - لعيب</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2365605920</link>
+<description>[Vehicle] SY- BMW 5er iPerformance by La3ieb - لعيب</description>
+<guid isPermaLink="false">2365605920</guid>
+</item>
+</channel>
 </rss>
