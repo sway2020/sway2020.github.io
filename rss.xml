@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] DOSTO S-Bahn Dresden w/ BR 182 (6Cars) by REV0</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367076259</link>
-<description>[Vehicle] DOSTO S-Bahn Dresden w/ BR 182 (6Cars) by REV0</description>
-<guid isPermaLink="false">2367076259</guid>
-</item>
-<item>
-<title>[Vehicle] DOSTO S-Bahn Dresden w/ BR 182 (4Cars) by REV0</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367076797</link>
-<description>[Vehicle] DOSTO S-Bahn Dresden w/ BR 182 (4Cars) by REV0</description>
-<guid isPermaLink="false">2367076797</guid>
-</item>
-</channel>
+ </channel>
 </rss>
