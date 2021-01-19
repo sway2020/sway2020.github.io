@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] 现代新中式住宅楼A by Redmi（红米）</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2366893702</link>
-<description>[Building] 现代新中式住宅楼A by Redmi（红米）</description>
-<guid isPermaLink="false">2366893702</guid>
-</item>
-<item>
-<title>[Vehicle] Seoul Metro 2000Series VVVF Train 1st EMU by CHAIRMAN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2366894621</link>
-<description>[Vehicle] Seoul Metro 2000Series VVVF Train 1st EMU by CHAIRMAN</description>
-<guid isPermaLink="false">2366894621</guid>
-</item>
-<item>
-<title>[Building] 中式小区6层 by Redmi（红米）</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2366895288</link>
-<description>[Building] 中式小区6层 by Redmi（红米）</description>
-<guid isPermaLink="false">2366895288</guid>
-</item>
-<item>
-<title>[Building] Fyrkat Ragna by macluk</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2366913912</link>
-<description>[Building] Fyrkat Ragna by macluk</description>
-<guid isPermaLink="false">2366913912</guid>
-</item>
-</channel>
+ </channel>
 </rss>
