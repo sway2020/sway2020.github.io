@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] F15C V by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367770307</link>
-<description>[Vehicle] F15C V by WTigerTw</description>
-<guid isPermaLink="false">2367770307</guid>
-</item>
-<item>
-<title>[Vehicle] F15C L by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367771799</link>
-<description>[Vehicle] F15C L by WTigerTw</description>
-<guid isPermaLink="false">2367771799</guid>
-</item>
-<item>
-<title>[Prop] F15C P by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367772437</link>
-<description>[Prop] F15C P by WTigerTw</description>
-<guid isPermaLink="false">2367772437</guid>
-</item>
-<item>
-<title>[Prop] F15C P1B by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367772941</link>
-<description>[Prop] F15C P1B by WTigerTw</description>
-<guid isPermaLink="false">2367772941</guid>
-</item>
-</channel>
+ </channel>
 </rss>
