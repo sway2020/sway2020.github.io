@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] LG TWIN TOWER(West) by sebong</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367912492</link>
+<description>[Building] LG TWIN TOWER(West) by sebong</description>
+<guid isPermaLink="false">2367912492</guid>
+</item>
+<item>
+<title>[Building] LG TWIN TOWER(East) by sebong</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367912780</link>
+<description>[Building] LG TWIN TOWER(East) by sebong</description>
+<guid isPermaLink="false">2367912780</guid>
+</item>
+</channel>
 </rss>
