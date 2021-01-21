@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Road] Four-Lanes Two Way Road with decorative grass and Bicycle Lanes by Köttur.CS-Builder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368709104</link>
-<description>[Road] Four-Lanes Two Way Road with decorative grass and Bicycle Lanes by Köttur.CS-Builder</description>
-<guid isPermaLink="false">2368709104</guid>
-</item>
-<item>
-<title>[Road] Four-Lanes Two Way Road with decorative trees and Bicycle Lanes by Köttur.CS-Builder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368710777</link>
-<description>[Road] Four-Lanes Two Way Road with decorative trees and Bicycle Lanes by Köttur.CS-Builder</description>
-<guid isPermaLink="false">2368710777</guid>
-</item>
-</channel>
+ </channel>
 </rss>
