@@ -8,5 +8,35 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Animated Neon Valencia Club Sign by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368511081</link>
+<description>[Prop] Animated Neon Valencia Club Sign by RoomMic</description>
+<guid isPermaLink="false">2368511081</guid>
+</item>
+<item>
+<title>[Prop] Animated Neon Dublin House Sign by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368511618</link>
+<description>[Prop] Animated Neon Dublin House Sign by RoomMic</description>
+<guid isPermaLink="false">2368511618</guid>
+</item>
+<item>
+<title>[Building] Bluff Street Residence by valleymena</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368528216</link>
+<description>[Building] Bluff Street Residence by valleymena</description>
+<guid isPermaLink="false">2368528216</guid>
+</item>
+<item>
+<title>[Vehicle] SY - JMC Truck by La3ieb - لعيب</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368541021</link>
+<description>[Vehicle] SY - JMC Truck by La3ieb - لعيب</description>
+<guid isPermaLink="false">2368541021</guid>
+</item>
+<item>
+<title>[Vehicle] SY- VW Coca Cola by La3ieb - لعيب</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368549726</link>
+<description>[Vehicle] SY- VW Coca Cola by La3ieb - لعيب</description>
+<guid isPermaLink="false">2368549726</guid>
+</item>
+</channel>
 </rss>
