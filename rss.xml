@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] Mercedes G-class Wolf by DieHardHunter</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2370392017</link>
+<description>[Vehicle] Mercedes G-class Wolf by DieHardHunter</description>
+<guid isPermaLink="false">2370392017</guid>
+</item>
+<item>
+<title>[Vehicle] MP Mercedes G-class Wolf by DieHardHunter</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2370393555</link>
+<description>[Vehicle] MP Mercedes G-class Wolf by DieHardHunter</description>
+<guid isPermaLink="false">2370393555</guid>
+</item>
+</channel>
 </rss>
