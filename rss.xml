@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] JR 583 Series (12Cars) by Chitoge</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369919937</link>
-<description>[Vehicle] JR 583 Series (12Cars) by Chitoge</description>
-<guid isPermaLink="false">2369919937</guid>
-</item>
-<item>
-<title>[Vehicle] JR 583 Series (9Cars) by Chitoge</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369920835</link>
-<description>[Vehicle] JR 583 Series (9Cars) by Chitoge</description>
-<guid isPermaLink="false">2369920835</guid>
-</item>
-<item>
-<title>[Vehicle] JR 583 Series (6Cars) by Chitoge</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369923405</link>
-<description>[Vehicle] JR 583 Series (6Cars) by Chitoge</description>
-<guid isPermaLink="false">2369923405</guid>
-</item>
-<item>
-<title>[Building] Albert Memorial - Kensington Gardens, London by PeterBar</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2370029767</link>
-<description>[Building] Albert Memorial - Kensington Gardens, London by PeterBar</description>
-<guid isPermaLink="false">2370029767</guid>
-</item>
-</channel>
+ </channel>
 </rss>
