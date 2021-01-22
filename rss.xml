@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] 重庆人民大礼堂门楼 by 29724548</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369748541</link>
-<description>[Building] 重庆人民大礼堂门楼 by 29724548</description>
-<guid isPermaLink="false">2369748541</guid>
-</item>
-<item>
-<title>[Building] 重庆朝天门大桥Chongqing Chaotianmen Yangtze River Bridge by 29724548</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369748841</link>
-<description>[Building] 重庆朝天门大桥Chongqing Chaotianmen Yangtze River Bridge by 29724548</description>
-<guid isPermaLink="false">2369748841</guid>
-</item>
-<item>
-<title>[Transport] 跨座式单轨 straddle monorail by Cold wind</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2369754525</link>
-<description>[Transport] 跨座式单轨 straddle monorail by Cold wind</description>
-<guid isPermaLink="false">2369754525</guid>
-</item>
-</channel>
+ </channel>
 </rss>
