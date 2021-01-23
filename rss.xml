@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Color Correction LUT] Reaper_Realistic_Final_Look by Reaper</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371117695</link>
+<description>[Color Correction LUT] Reaper_Realistic_Final_Look by Reaper</description>
+<guid isPermaLink="false">2371117695</guid>
+</item>
+<item>
+<title>[Map Theme] Reaper_Real_Normal_Road by Reaper</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371157735</link>
+<description>[Map Theme] Reaper_Real_Normal_Road by Reaper</description>
+<guid isPermaLink="false">2371157735</guid>
+</item>
+<item>
+<title>[Map Theme] Reaper_Real_Dark_Road by Reaper</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371158872</link>
+<description>[Map Theme] Reaper_Real_Dark_Road by Reaper</description>
+<guid isPermaLink="false">2371158872</guid>
+</item>
+<item>
+<title>[Park] 宋代三出阙Side tower of Song Dynasty by MC100</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371170156</link>
+<description>[Park] 宋代三出阙Side tower of Song Dynasty by MC100</description>
+<guid isPermaLink="false">2371170156</guid>
+</item>
+</channel>
 </rss>
