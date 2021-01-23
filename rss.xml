@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] The Dairy Mart by GabbaGhoul</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2370627178</link>
-<description>[Building] The Dairy Mart by GabbaGhoul</description>
-<guid isPermaLink="false">2370627178</guid>
-</item>
-</channel>
+ </channel>
 </rss>
