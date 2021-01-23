@@ -8,5 +8,35 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] mizuki-pack_15 by 001HANNO</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355033174</link>
+<description>[Prop] mizuki-pack_15 by 001HANNO</description>
+<guid isPermaLink="false">2355033174</guid>
+</item>
+<item>
+<title>[Prop] mizuki-pack_16 by 001HANNO</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355034191</link>
+<description>[Prop] mizuki-pack_16 by 001HANNO</description>
+<guid isPermaLink="false">2355034191</guid>
+</item>
+<item>
+<title>[Prop] mizuki-pack_17 by 001HANNO</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355035234</link>
+<description>[Prop] mizuki-pack_17 by 001HANNO</description>
+<guid isPermaLink="false">2355035234</guid>
+</item>
+<item>
+<title>[Prop] mizuki-city-pack vol.14 (JPTS) by 001HANNO</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2355038778</link>
+<description>[Prop] mizuki-city-pack vol.14 (JPTS) by 001HANNO</description>
+<guid isPermaLink="false">2355038778</guid>
+</item>
+<item>
+<title>[Building] Quad Barricade by Quad Rioters</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2370706504</link>
+<description>[Building] Quad Barricade by Quad Rioters</description>
+<guid isPermaLink="false">2370706504</guid>
+</item>
+</channel>
 </rss>
