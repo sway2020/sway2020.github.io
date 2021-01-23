@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Gym Hall 1 (no sign) by Ian</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371217945</link>
-<description>[Building] Gym Hall 1 (no sign) by Ian</description>
-<guid isPermaLink="false">2371217945</guid>
-</item>
-<item>
-<title>[Building] Gym Hall 2 (no sign) by Ian</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371228677</link>
-<description>[Building] Gym Hall 2 (no sign) by Ian</description>
-<guid isPermaLink="false">2371228677</guid>
-</item>
-<item>
-<title>[Vehicle] Volvo FH 4x2 amazon (Delivery) by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371297810</link>
-<description>[Vehicle] Volvo FH 4x2 amazon (Delivery) by ron_fu-ta</description>
-<guid isPermaLink="false">2371297810</guid>
-</item>
-<item>
-<title>[Vehicle] Volvo FH 4x2 amazon (Industrial) by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371298093</link>
-<description>[Vehicle] Volvo FH 4x2 amazon (Industrial) by ron_fu-ta</description>
-<guid isPermaLink="false">2371298093</guid>
-</item>
-</channel>
+ </channel>
 </rss>
