@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Park] 2p invisible 1x1 by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371498454</link>
+<description>[Park] 2p invisible 1x1 by TecniRanger</description>
+<guid isPermaLink="false">2371498454</guid>
+</item>
+<item>
+<title>[Park] 3p invisible 1x1 by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371500466</link>
+<description>[Park] 3p invisible 1x1 by TecniRanger</description>
+<guid isPermaLink="false">2371500466</guid>
+</item>
+<item>
+<title>[Building] Just Another Residential #14 by HypoSim</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371531724</link>
+<description>[Building] Just Another Residential #14 by HypoSim</description>
+<guid isPermaLink="false">2371531724</guid>
+</item>
+<item>
+<title>[Building] K-townhouse by Land Ministry of Korea</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371549495</link>
+<description>[Building] K-townhouse by Land Ministry of Korea</description>
+<guid isPermaLink="false">2371549495</guid>
+</item>
+</channel>
 </rss>
