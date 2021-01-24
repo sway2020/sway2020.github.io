@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Vehicle] F22A VW (with weapons) by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371926509</link>
+<description>[Vehicle] F22A VW (with weapons) by WTigerTw</description>
+<guid isPermaLink="false">2371926509</guid>
+</item>
+<item>
+<title>[Vehicle] F22A LW( with weapon) by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2371957599</link>
+<description>[Vehicle] F22A LW( with weapon) by WTigerTw</description>
+<guid isPermaLink="false">2371957599</guid>
+</item>
+</channel>
 </rss>
