@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Subterranean SubT -- Chicago Music Venue by GabbaGhoul</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372054004</link>
-<description>[Building] Subterranean SubT -- Chicago Music Venue by GabbaGhoul</description>
-<guid isPermaLink="false">2372054004</guid>
-</item>
-<item>
-<title>[Road] 24m Two-Lane Basic by Eloso</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372056478</link>
-<description>[Road] 24m Two-Lane Basic by Eloso</description>
-<guid isPermaLink="false">2372056478</guid>
-</item>
-<item>
-<title>[Road] 24m Two-Lane Two-Way by Eloso</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372061689</link>
-<description>[Road] 24m Two-Lane Two-Way by Eloso</description>
-<guid isPermaLink="false">2372061689</guid>
-</item>
-</channel>
+ </channel>
 </rss>
