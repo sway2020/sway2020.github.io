@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Dutch House #14 by Ploefke</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372404917</link>
+<description>[Building] Dutch House #14 by Ploefke</description>
+<guid isPermaLink="false">2372404917</guid>
+</item>
+<item>
+<title>[Building] Generic Office 4 by The Lost Cake</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372419993</link>
+<description>[Building] Generic Office 4 by The Lost Cake</description>
+<guid isPermaLink="false">2372419993</guid>
+</item>
+</channel>
 </rss>
