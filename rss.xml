@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Prop] Polish Road Signs (Pack 1) by Pewex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372473189</link>
-<description>[Prop] Polish Road Signs (Pack 1) by Pewex</description>
-<guid isPermaLink="false">2372473189</guid>
-</item>
-<item>
-<title>[Building] CH-47 Chinook RAF by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372505724</link>
-<description>[Building] CH-47 Chinook RAF by EvametryE</description>
-<guid isPermaLink="false">2372505724</guid>
-</item>
-</channel>
+ </channel>
 </rss>
