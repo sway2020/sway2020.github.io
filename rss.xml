@@ -8,29 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Road] BIG Urban Roads Constant Median Roads with solid lines (US American) by hockenheim95</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2373747206</link>
-<description>[Road] BIG Urban Roads Constant Median Roads with solid lines (US American) by hockenheim95</description>
-<guid isPermaLink="false">2373747206</guid>
-</item>
-<item>
-<title>[Road] The Town - 10 Street and Sidewalk by MrKopter</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2373757328</link>
-<description>[Road] The Town - 10 Street and Sidewalk by MrKopter</description>
-<guid isPermaLink="false">2373757328</guid>
-</item>
-<item>
-<title>[Building] Trulli Pugliesi [Low Residential] by Zarrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2373800239</link>
-<description>[Building] Trulli Pugliesi [Low Residential] by Zarrix</description>
-<guid isPermaLink="false">2373800239</guid>
-</item>
-<item>
-<title>[Road] The Town - 11 Street and Sidewalk by MrKopter</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2373805271</link>
-<description>[Road] The Town - 11 Street and Sidewalk by MrKopter</description>
-<guid isPermaLink="false">2373805271</guid>
-</item>
-</channel>
+ </channel>
 </rss>
