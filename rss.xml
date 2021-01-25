@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] NZ Altus factory by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372875130</link>
-<description>[Building] NZ Altus factory by AliTarGz</description>
-<guid isPermaLink="false">2372875130</guid>
-</item>
-<item>
-<title>[Building] NZ PAKnSAVE Wainoni by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372876709</link>
-<description>[Building] NZ PAKnSAVE Wainoni by AliTarGz</description>
-<guid isPermaLink="false">2372876709</guid>
-</item>
-<item>
-<title>[Vehicle] Springfield Police Cruiser Set by Dying</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2372983562</link>
-<description>[Vehicle] Springfield Police Cruiser Set by Dying</description>
-<guid isPermaLink="false">2372983562</guid>
-</item>
-</channel>
+ </channel>
 </rss>
