@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Park] 宋代皇城正殿The main hall of palace by MC100</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374386204</link>
-<description>[Park] 宋代皇城正殿The main hall of palace by MC100</description>
-<guid isPermaLink="false">2374386204</guid>
-</item>
-<item>
-<title>[Building] Chanel Ginza by Stringer Bell</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374430612</link>
-<description>[Building] Chanel Ginza by Stringer Bell</description>
-<guid isPermaLink="false">2374430612</guid>
-</item>
-</channel>
+ </channel>
 </rss>
