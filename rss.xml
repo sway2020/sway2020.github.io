@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Road] Melbourne 4M 2W Parking by B.A.F</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374494032</link>
-<description>[Road] Melbourne 4M 2W Parking by B.A.F</description>
-<guid isPermaLink="false">2374494032</guid>
-</item>
-<item>
-<title>[Prop] Lockheed Martin F 35 LightningII by Shibuya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374514714</link>
-<description>[Prop] Lockheed Martin F 35 LightningII by Shibuya</description>
-<guid isPermaLink="false">2374514714</guid>
-</item>
-</channel>
+ </channel>
 </rss>
