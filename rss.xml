@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] NZ PAKnSAVE Fuel by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374697024</link>
-<description>[Building] NZ PAKnSAVE Fuel by AliTarGz</description>
-<guid isPermaLink="false">2374697024</guid>
-</item>
-<item>
-<title>[Vehicle] Iveco Stralis 4x2 - Intermarché (+PROP) by nouveau second pygargue</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374711999</link>
-<description>[Vehicle] Iveco Stralis 4x2 - Intermarché (+PROP) by nouveau second pygargue</description>
-<guid isPermaLink="false">2374711999</guid>
-</item>
-<item>
-<title>[Vehicle] Iveco Stralis 4x2 - Netto (+PROP) by nouveau second pygargue</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2374712951</link>
-<description>[Vehicle] Iveco Stralis 4x2 - Netto (+PROP) by nouveau second pygargue</description>
-<guid isPermaLink="false">2374712951</guid>
-</item>
-</channel>
+ </channel>
 </rss>
