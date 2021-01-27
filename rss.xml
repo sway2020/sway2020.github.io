@@ -8,5 +8,29 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Pasticceria Bruno by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2375224745</link>
+<description>[Building] Pasticceria Bruno by Gilded Age</description>
+<guid isPermaLink="false">2375224745</guid>
+</item>
+<item>
+<title>[Road] 24m Four-Lane by Eloso</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2375226433</link>
+<description>[Road] 24m Four-Lane by Eloso</description>
+<guid isPermaLink="false">2375226433</guid>
+</item>
+<item>
+<title>[Road] 24m Four-Lane with Grass by Eloso</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2375226911</link>
+<description>[Road] 24m Four-Lane with Grass by Eloso</description>
+<guid isPermaLink="false">2375226911</guid>
+</item>
+<item>
+<title>[Road] 24m Four-Lane with Trees by Eloso</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2375227277</link>
+<description>[Road] 24m Four-Lane with Trees by Eloso</description>
+<guid isPermaLink="false">2375227277</guid>
+</item>
+</channel>
 </rss>
