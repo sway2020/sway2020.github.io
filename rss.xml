@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Water Pumping Service by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2376821814</link>
+<description>[Building] Water Pumping Service by Avanya</description>
+<guid isPermaLink="false">2376821814</guid>
+</item>
+<item>
+<title>[Building] Road Maintenance by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2376823606</link>
+<description>[Building] Road Maintenance by Avanya</description>
+<guid isPermaLink="false">2376823606</guid>
+</item>
+</channel>
 </rss>
