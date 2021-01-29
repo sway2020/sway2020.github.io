@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Road] Vanilla 2+2/2+2 Road by CHAIRMAN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377243928</link>
+<description>[Road] Vanilla 2+2/2+2 Road by CHAIRMAN</description>
+<guid isPermaLink="false">2377243928</guid>
+</item>
+<item>
+<title>[Building] UK Brutalist House by Brammered</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377251521</link>
+<description>[Building] UK Brutalist House by Brammered</description>
+<guid isPermaLink="false">2377251521</guid>
+</item>
+<item>
+<title>[Building] BIC CAMERA AKIBA店 （秋葉原） by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377258622</link>
+<description>[Building] BIC CAMERA AKIBA店 （秋葉原） by curr66</description>
+<guid isPermaLink="false">2377258622</guid>
+</item>
+</channel>
 </rss>
