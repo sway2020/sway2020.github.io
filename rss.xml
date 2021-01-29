@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] NZ Government house by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377555115</link>
-<description>[Building] NZ Government house by AliTarGz</description>
-<guid isPermaLink="false">2377555115</guid>
-</item>
-<item>
-<title>[Building] Plattenbau IW76 Mittelganghaus by MeisterMonis</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377606840</link>
-<description>[Building] Plattenbau IW76 Mittelganghaus by MeisterMonis</description>
-<guid isPermaLink="false">2377606840</guid>
-</item>
-<item>
-<title>[Building] Small town hospital by foster_sman</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377613562</link>
-<description>[Building] Small town hospital by foster_sman</description>
-<guid isPermaLink="false">2377613562</guid>
-</item>
-</channel>
+ </channel>
 </rss>
