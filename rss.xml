@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Mexican Shops - 5 pack by alecsvaldez</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377202425</link>
+<description>[Building] Mexican Shops - 5 pack by alecsvaldez</description>
+<guid isPermaLink="false">2377202425</guid>
+</item>
+</channel>
 </rss>
