@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Transport] Railway Hyperions Gate (Wireless) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2376003112</link>
+<description>[Transport] Railway Hyperions Gate (Wireless) by REV0</description>
+<guid isPermaLink="false">2376003112</guid>
+</item>
+<item>
+<title>[Building] Cargo Harbor 2 lane  1-way by thedamion</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2378583281</link>
+<description>[Building] Cargo Harbor 2 lane  1-way by thedamion</description>
+<guid isPermaLink="false">2378583281</guid>
+</item>
+</channel>
 </rss>
