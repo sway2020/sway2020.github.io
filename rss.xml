@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Park] fighter hangar 1P by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380078651</link>
-<description>[Park] fighter hangar 1P by WTigerTw</description>
-<guid isPermaLink="false">2380078651</guid>
-</item>
-<item>
-<title>[Park] Aircraft carrier USS Gerald Ford by Shibuya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380125225</link>
-<description>[Park] Aircraft carrier USS Gerald Ford by Shibuya</description>
-<guid isPermaLink="false">2380125225</guid>
-</item>
-<item>
-<title>[Vehicle] Higer Hypers KLQ6119GEV by K_Green</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380138025</link>
-<description>[Vehicle] Higer Hypers KLQ6119GEV by K_Green</description>
-<guid isPermaLink="false">2380138025</guid>
-</item>
-</channel>
+ </channel>
 </rss>
