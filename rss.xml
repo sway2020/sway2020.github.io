@@ -9,10 +9,16 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Vehicle] Ryde - Rivercat - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379496203</link>
-<description>[Vehicle] Ryde - Rivercat - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2379496203</guid>
+<title>[Building] War Memorial of Korea by sebong</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379521244</link>
+<description>[Building] War Memorial of Korea by sebong</description>
+<guid isPermaLink="false">2379521244</guid>
+</item>
+<item>
+<title>[Building] War Memorial of Korea Corridor by sebong</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379526585</link>
+<description>[Building] War Memorial of Korea Corridor by sebong</description>
+<guid isPermaLink="false">2379526585</guid>
 </item>
 </channel>
 </rss>
