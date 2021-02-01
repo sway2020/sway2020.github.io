@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Vehicle] SMC Ford Explorer EMS by Dying</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380538163</link>
-<description>[Vehicle] SMC Ford Explorer EMS by Dying</description>
-<guid isPermaLink="false">2380538163</guid>
-</item>
-<item>
-<title>[Vehicle] SMC Ford F350 Ambulance by Dying</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380539270</link>
-<description>[Vehicle] SMC Ford F350 Ambulance by Dying</description>
-<guid isPermaLink="false">2380539270</guid>
-</item>
-</channel>
+ </channel>
 </rss>
