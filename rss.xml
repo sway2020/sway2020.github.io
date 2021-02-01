@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Mingri sunset excursion train trailer prop by Charioteer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379883037</link>
+<description>[Prop] Mingri sunset excursion train trailer prop by Charioteer</description>
+<guid isPermaLink="false">2379883037</guid>
+</item>
+<item>
+<title>[Vehicle] Formosa Express (8cars)(No skin) by Charioteer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379884107</link>
+<description>[Vehicle] Formosa Express (8cars)(No skin) by Charioteer</description>
+<guid isPermaLink="false">2379884107</guid>
+</item>
+<item>
+<title>[Vehicle] Business train (6cars)(Mingri sunset) by Charioteer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2379885255</link>
+<description>[Vehicle] Business train (6cars)(Mingri sunset) by Charioteer</description>
+<guid isPermaLink="false">2379885255</guid>
+</item>
+</channel>
 </rss>
