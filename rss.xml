@@ -8,5 +8,23 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Mod] Train Display Mod by Asmape</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380878816</link>
+<description>[Mod] Train Display Mod by Asmape</description>
+<guid isPermaLink="false">2380878816</guid>
+</item>
+<item>
+<title>[Prop] New Zealand Bus Pack Series - AT Metro (RHD Props) by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380893647</link>
+<description>[Prop] New Zealand Bus Pack Series - AT Metro (RHD Props) by ThingGoBoom</description>
+<guid isPermaLink="false">2380893647</guid>
+</item>
+<item>
+<title>[Prop] NZBP - 17.223 AT (RHD Prop) by ThingGoBoom</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2380902160</link>
+<description>[Prop] NZBP - 17.223 AT (RHD Prop) by ThingGoBoom</description>
+<guid isPermaLink="false">2380902160</guid>
+</item>
+</channel>
 </rss>
