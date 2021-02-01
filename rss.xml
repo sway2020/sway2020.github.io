@@ -8,11 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] SHINSEGAE Department store HQ by sebong</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2381228465</link>
-<description>[Building] SHINSEGAE Department store HQ by sebong</description>
-<guid isPermaLink="false">2381228465</guid>
-</item>
-</channel>
+ </channel>
 </rss>
