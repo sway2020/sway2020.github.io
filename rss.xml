@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Florence Flats [Pack 3] by Zarrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382406630</link>
-<description>[Building] Florence Flats [Pack 3] by Zarrix</description>
-<guid isPermaLink="false">2382406630</guid>
-</item>
-<item>
-<title>[Building] Wellness Park (healthcare) by indapni</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382419382</link>
-<description>[Building] Wellness Park (healthcare) by indapni</description>
-<guid isPermaLink="false">2382419382</guid>
-</item>
-</channel>
+ </channel>
 </rss>
