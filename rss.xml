@@ -9,10 +9,22 @@
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
  <item>
-<title>[Building] La Guli Pastry Shop by Gilded Age</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382943856</link>
-<description>[Building] La Guli Pastry Shop by Gilded Age</description>
-<guid isPermaLink="false">2382943856</guid>
+<title>[Building] Piemonte Ravioli by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382943037</link>
+<description>[Building] Piemonte Ravioli by Gilded Age</description>
+<guid isPermaLink="false">2382943037</guid>
+</item>
+<item>
+<title>[Building] Grimaldis Pizzeria by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2383010111</link>
+<description>[Building] Grimaldis Pizzeria by Gilded Age</description>
+<guid isPermaLink="false">2383010111</guid>
+</item>
+<item>
+<title>[Building] Cargo Harbor 2 lane 1-way RHD by finickysnob</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2383063040</link>
+<description>[Building] Cargo Harbor 2 lane 1-way RHD by finickysnob</description>
+<guid isPermaLink="false">2383063040</guid>
 </item>
 </channel>
 </rss>
