@@ -2,11 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-  <title>sway2020.github.io</title>
+  <title>sway2020.github.io - Updated Mods</title>
   <link>https://sway2020.github.io</link>
   <description>Show recently updated mods</description>
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/mod_update.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+  <item>
+<title>Testing Item</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382645555</link>
+<description>Testing Item</description>
+</item>
  </channel>
 </rss>
