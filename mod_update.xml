@@ -8,5 +8,15 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/mod_update.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Mod Update] Non-Terrain Conforming Props</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2246271550</link>
+<description>[Mod Update] Non-Terrain Conforming Props</description>
+</item>
+<item>
+<title>[Mod Update] Gravitative Cable Car</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2094830335</link>
+<description>[Mod Update] Gravitative Cable Car</description>
+</item>
+</channel>
 </rss>
