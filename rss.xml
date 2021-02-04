@@ -8,17 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] Plattenbau KK-KG 72-144 No.1 by MeisterMonis</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2383932395</link>
-<description>[Building] Plattenbau KK-KG 72-144 No.1 by MeisterMonis</description>
-<guid isPermaLink="false">2383932395</guid>
-</item>
-<item>
-<title>[Prop] AV Landing Pad - Cyberpunk 2077 by nardo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2383933276</link>
-<description>[Prop] AV Landing Pad - Cyberpunk 2077 by nardo</description>
-<guid isPermaLink="false">2383933276</guid>
-</item>
-</channel>
+ </channel>
 </rss>
