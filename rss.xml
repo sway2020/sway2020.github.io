@@ -8,23 +8,5 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- <item>
-<title>[Building] [Grow+RICO] Renardiere 2 (Roissy, France) by Alexgazz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2384182980</link>
-<description>[Building] [Grow+RICO] Renardiere 2 (Roissy, France) by Alexgazz</description>
-<guid isPermaLink="false">2384182980</guid>
-</item>
-<item>
-<title>[Building] Balfron Tower by Brammered</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2384290297</link>
-<description>[Building] Balfron Tower by Brammered</description>
-<guid isPermaLink="false">2384290297</guid>
-</item>
-<item>
-<title>[Vehicle] Toyota Hiace Samoa Ambulance by sliN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2384332080</link>
-<description>[Vehicle] Toyota Hiace Samoa Ambulance by sliN</description>
-<guid isPermaLink="false">2384332080</guid>
-</item>
-</channel>
+ </channel>
 </rss>
