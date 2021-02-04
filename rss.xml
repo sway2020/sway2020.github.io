@@ -8,5 +8,11 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Prop] Viking Longship (Snekkja) - Prop by Chappington</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2383550077</link>
+<description>[Prop] Viking Longship (Snekkja) - Prop by Chappington</description>
+<guid isPermaLink="false">2383550077</guid>
+</item>
+</channel>
 </rss>
