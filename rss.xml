@@ -8,5 +8,17 @@
   <category>Cities Skylines</category>
   <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
   <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
- </channel>
+ <item>
+<title>[Building] Elektra Banco Azteca by alecsvaldez</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2382712109</link>
+<description>[Building] Elektra Banco Azteca by alecsvaldez</description>
+<guid isPermaLink="false">2382712109</guid>
+</item>
+<item>
+<title>[Building] 285 Lexington Avenue by Prosper</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2384076874</link>
+<description>[Building] 285 Lexington Avenue by Prosper</description>
+<guid isPermaLink="false">2384076874</guid>
+</item>
+</channel>
 </rss>
