@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] 中央分離帯向け逆L型・T型標識 Japanese Traffic Sign for median strip by にごり/Ninomiya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2384681747</link>
+<description>[Prop] 中央分離帯向け逆L型・T型標識 Japanese Traffic Sign for median strip by にごり/Ninomiya</description>
+<guid isPermaLink="false">2384681747</guid>
+</item>
+</channel>
 </rss>
