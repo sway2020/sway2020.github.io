@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 396 Locust St Residence by valleymena</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385183233</link>
-<description>[Building] 396 Locust St Residence by valleymena</description>
-<guid isPermaLink="false">2385183233</guid>
-</item>
-</channel>
+    </channel>
 </rss>
