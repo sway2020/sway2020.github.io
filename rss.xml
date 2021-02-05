@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Greek Farmhouse 1 [Arcadia] by Filippos</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385401193</link>
+<description>[Building] Greek Farmhouse 1 [Arcadia] by Filippos</description>
+<guid isPermaLink="false">2385401193</guid>
+</item>
+</channel>
 </rss>
