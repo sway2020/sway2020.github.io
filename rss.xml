@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] EMU901 local train ( 8cars ) by 標小黑</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377312634</link>
+<description>[Vehicle] EMU901 local train ( 8cars ) by 標小黑</description>
+<guid isPermaLink="false">2377312634</guid>
+</item>
+<item>
+<title>[Vehicle] EMU901 local train ( 10cars ) by 標小黑</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2377313495</link>
+<description>[Vehicle] EMU901 local train ( 10cars ) by 標小黑</description>
+<guid isPermaLink="false">2377313495</guid>
+</item>
+</channel>
 </rss>
