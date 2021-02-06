@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] EF2000 LW by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385856883</link>
+<description>[Vehicle] EF2000 LW by WTigerTw</description>
+<guid isPermaLink="false">2385856883</guid>
+</item>
+<item>
+<title>[Prop] EF2000 P by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385859387</link>
+<description>[Prop] EF2000 P by WTigerTw</description>
+<guid isPermaLink="false">2385859387</guid>
+</item>
+<item>
+<title>[Prop] EF2000 P1B by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385859925</link>
+<description>[Prop] EF2000 P1B by WTigerTw</description>
+<guid isPermaLink="false">2385859925</guid>
+</item>
+<item>
+<title>[Vehicle] EF2000 VW by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385860558</link>
+<description>[Vehicle] EF2000 VW by WTigerTw</description>
+<guid isPermaLink="false">2385860558</guid>
+</item>
+</channel>
 </rss>
