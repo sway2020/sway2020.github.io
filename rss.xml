@@ -8,5 +8,41 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Eagle Moor Hospital Ford E350 Type III by sliN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386507886</link>
+<description>[Vehicle] Eagle Moor Hospital Ford E350 Type III by sliN</description>
+<guid isPermaLink="false">2386507886</guid>
+</item>
+<item>
+<title>[Building] 地铁站B带铁轨 by via枼世千</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386514411</link>
+<description>[Building] 地铁站B带铁轨 by via枼世千</description>
+<guid isPermaLink="false">2386514411</guid>
+</item>
+<item>
+<title>[Building] 地铁站A by via枼世千</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386515573</link>
+<description>[Building] 地铁站A by via枼世千</description>
+<guid isPermaLink="false">2386515573</guid>
+</item>
+<item>
+<title>[Building] 地铁站A带道路(With road) by via枼世千</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386516651</link>
+<description>[Building] 地铁站A带道路(With road) by via枼世千</description>
+<guid isPermaLink="false">2386516651</guid>
+</item>
+<item>
+<title>[Building] 地铁站A原版 by via枼世千</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386517646</link>
+<description>[Building] 地铁站A原版 by via枼世千</description>
+<guid isPermaLink="false">2386517646</guid>
+</item>
+<item>
+<title>[Building] 地铁站B带铁轨无DLC by via枼世千</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386525897</link>
+<description>[Building] 地铁站B带铁轨无DLC by via枼世千</description>
+<guid isPermaLink="false">2386525897</guid>
+</item>
+</channel>
 </rss>
