@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Genova residential high 5 by Zeno</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386931277</link>
-<description>[Building] Genova residential high 5 by Zeno</description>
-<guid isPermaLink="false">2386931277</guid>
-</item>
-<item>
-<title>[Vehicle] Viking Longship (Snekkja) - Cargo Ship by Chappington</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386944800</link>
-<description>[Vehicle] Viking Longship (Snekkja) - Cargo Ship by Chappington</description>
-<guid isPermaLink="false">2386944800</guid>
-</item>
-<item>
-<title>[Building] [Korea] KR warehouse marcket 3 by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386946714</link>
-<description>[Building] [Korea] KR warehouse marcket 3 by 시린시</description>
-<guid isPermaLink="false">2386946714</guid>
-</item>
-<item>
-<title>[Building] [Korea] NH Hanaro marcket by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386947905</link>
-<description>[Building] [Korea] NH Hanaro marcket by 시린시</description>
-<guid isPermaLink="false">2386947905</guid>
-</item>
-<item>
-<title>[Road] [Korea] KR 1L Road 9m (lod fix) by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386959258</link>
-<description>[Road] [Korea] KR 1L Road 9m (lod fix) by 시린시</description>
-<guid isPermaLink="false">2386959258</guid>
-</item>
-<item>
-<title>[Road] [Korea] KR 1L Road 7m (lod fix) by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2386959859</link>
-<description>[Road] [Korea] KR 1L Road 7m (lod fix) by 시린시</description>
-<guid isPermaLink="false">2386959859</guid>
-</item>
-</channel>
+    </channel>
 </rss>
