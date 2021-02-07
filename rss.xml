@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Tree] Small Date Palm by Dr_J0nes</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2387766942</link>
-<description>[Tree] Small Date Palm by Dr_J0nes</description>
-<guid isPermaLink="false">2387766942</guid>
+<title>[Park] Simple Park with Benches by SchwinnTropius</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2376139268</link>
+<description>[Park] Simple Park with Benches by SchwinnTropius</description>
+<guid isPermaLink="false">2376139268</guid>
+</item>
+<item>
+<title>[Park] Simple Park with Food Court by SchwinnTropius</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2376139648</link>
+<description>[Park] Simple Park with Food Court by SchwinnTropius</description>
+<guid isPermaLink="false">2376139648</guid>
+</item>
+<item>
+<title>[Building] 1959 Central Avenue by valleymena</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2387815110</link>
+<description>[Building] 1959 Central Avenue by valleymena</description>
+<guid isPermaLink="false">2387815110</guid>
 </item>
 </channel>
 </rss>
