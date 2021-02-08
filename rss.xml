@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] 0xyl0nSoundPackUSA - 20210208 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1999271351</link>
-<description>[Mod Update] 0xyl0nSoundPackUSA - 20210208 Update</description>
-<guid isPermaLink="false">1999271351-20210208</guid>
-</item>
-</channel>
+    </channel>
 </rss>
