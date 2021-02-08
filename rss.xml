@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Ploppable Sand by LeeTG3</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2388392290</link>
-<description>[Prop] Ploppable Sand by LeeTG3</description>
-<guid isPermaLink="false">2388392290</guid>
-</item>
-</channel>
+    </channel>
 </rss>
