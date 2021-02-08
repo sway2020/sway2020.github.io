@@ -9,10 +9,34 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] OxylonEuroSoundpackGER - 20210208 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969411916</link>
-<description>[Mod Update] OxylonEuroSoundpackGER - 20210208 Update</description>
-<guid isPermaLink="false">1969411916-20210208</guid>
+<title>[Mod Update] OxylonEuroSoundpackITA - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969438995</link>
+<description>[Mod Update] OxylonEuroSoundpackITA - 20210208 Update</description>
+<guid isPermaLink="false">1969438995-20210208</guid>
+</item>
+<item>
+<title>[Mod Update] OxylonEuroSoundpackSWE - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1977435537</link>
+<description>[Mod Update] OxylonEuroSoundpackSWE - 20210208 Update</description>
+<guid isPermaLink="false">1977435537-20210208</guid>
+</item>
+<item>
+<title>[Mod Update] OxylonEuroSoundpackAUT - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969428208</link>
+<description>[Mod Update] OxylonEuroSoundpackAUT - 20210208 Update</description>
+<guid isPermaLink="false">1969428208-20210208</guid>
+</item>
+<item>
+<title>[Mod Update] OxylonEuroSoundpackNED - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969432061</link>
+<description>[Mod Update] OxylonEuroSoundpackNED - 20210208 Update</description>
+<guid isPermaLink="false">1969432061-20210208</guid>
+</item>
+<item>
+<title>[Mod Update] OxylonEuroSoundpackFRA - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969435641</link>
+<description>[Mod Update] OxylonEuroSoundpackFRA - 20210208 Update</description>
+<guid isPermaLink="false">1969435641-20210208</guid>
 </item>
 </channel>
 </rss>
