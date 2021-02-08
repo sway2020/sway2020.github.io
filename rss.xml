@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Modular Utility Poles by Luigi4518</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2388306984</link>
+<description>[Prop] Modular Utility Poles by Luigi4518</description>
+<guid isPermaLink="false">2388306984</guid>
+</item>
+<item>
+<title>[Park] UK Services - Public Toilets #2 by rik4000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2388367425</link>
+<description>[Park] UK Services - Public Toilets #2 by rik4000</description>
+<guid isPermaLink="false">2388367425</guid>
+</item>
+<item>
+<title>[Building] 欧式居民楼30层 by Redmi（红米）</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2388383704</link>
+<description>[Building] 欧式居民楼30层 by Redmi（红米）</description>
+<guid isPermaLink="false">2388383704</guid>
+</item>
+</channel>
 </rss>
