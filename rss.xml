@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] OxylonEuroSoundpackGER - 20210208 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1969411916</link>
+<description>[Mod Update] OxylonEuroSoundpackGER - 20210208 Update</description>
+<guid isPermaLink="false">1969411916-20210208</guid>
+</item>
+</channel>
 </rss>
