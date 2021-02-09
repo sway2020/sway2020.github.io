@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Brazilian Service 3 - Water Pumping Station by Redoze</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2389106172</link>
+<description>[Building] Brazilian Service 3 - Water Pumping Station by Redoze</description>
+<guid isPermaLink="false">2389106172</guid>
+</item>
+<item>
+<title>[Building] Mobile Home Trailer 2 by Bungalow Man</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2389123114</link>
+<description>[Building] Mobile Home Trailer 2 by Bungalow Man</description>
+<guid isPermaLink="false">2389123114</guid>
+</item>
+<item>
+<title>[Building] 90s Nightclub by Nobiau</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2389126298</link>
+<description>[Building] 90s Nightclub by Nobiau</description>
+<guid isPermaLink="false">2389126298</guid>
+</item>
+</channel>
 </rss>
