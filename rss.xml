@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] 重庆喜来登国际中心 by 29724548</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2375219045</link>
+<description>[Building] 重庆喜来登国际中心 by 29724548</description>
+<guid isPermaLink="false">2375219045</guid>
+</item>
+<item>
+<title>[Prop] CVS logo by Moch</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2389706545</link>
+<description>[Prop] CVS logo by Moch</description>
+<guid isPermaLink="false">2389706545</guid>
+</item>
+</channel>
 </rss>
