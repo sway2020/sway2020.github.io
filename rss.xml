@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 北京鼓楼Beijing Drum Tower by MC100</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2390270315</link>
-<description>[Building] 北京鼓楼Beijing Drum Tower by MC100</description>
-<guid isPermaLink="false">2390270315</guid>
-</item>
-</channel>
+    </channel>
 </rss>
