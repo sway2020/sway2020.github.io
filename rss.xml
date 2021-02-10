@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Ponte Vecchio Bridge - Florence by Zarrix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2390141385</link>
+<description>[Road] Ponte Vecchio Bridge - Florence by Zarrix</description>
+<guid isPermaLink="false">2390141385</guid>
+</item>
+<item>
+<title>[Prop] Graffity Tags by Dr_J0nes</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2390143912</link>
+<description>[Prop] Graffity Tags by Dr_J0nes</description>
+<guid isPermaLink="false">2390143912</guid>
+</item>
+</channel>
 </rss>
