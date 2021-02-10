@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Rolls-Royce Dawn by 謀</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2390544348</link>
-<description>[Vehicle] Rolls-Royce Dawn by 謀</description>
-<guid isPermaLink="false">2390544348</guid>
-</item>
-<item>
-<title>[Park] 현대자동차 전광판(hyundaibillboard) by SCAR_Nice</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2390570183</link>
-<description>[Park] 현대자동차 전광판(hyundaibillboard) by SCAR_Nice</description>
-<guid isPermaLink="false">2390570183</guid>
-</item>
-</channel>
+    </channel>
 </rss>
