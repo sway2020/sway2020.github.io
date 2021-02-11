@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Ursus City Smile 18T - articulated trolleybus Ursus CS18T (line color version) by Piciak</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391886048</link>
-<description>[Vehicle] Ursus City Smile 18T - articulated trolleybus Ursus CS18T (line color version) by Piciak</description>
-<guid isPermaLink="false">2391886048</guid>
+<title>[Prop] JP_RentalSignboard by すたー</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391883246</link>
+<description>[Prop] JP_RentalSignboard by すたー</description>
+<guid isPermaLink="false">2391883246</guid>
+</item>
+<item>
+<title>[Vehicle] MIX/A Train (Máv-Hév RETRO) by Jopy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391953767</link>
+<description>[Vehicle] MIX/A Train (Máv-Hév RETRO) by Jopy</description>
+<guid isPermaLink="false">2391953767</guid>
 </item>
 </channel>
 </rss>
