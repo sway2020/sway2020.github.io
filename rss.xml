@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] IN Tower by tckpwr</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391752589</link>
+<description>[Building] IN Tower by tckpwr</description>
+<guid isPermaLink="false">2391752589</guid>
+</item>
+<item>
+<title>[Prop] Finnish Signs – Sauna by Ionwind</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391762986</link>
+<description>[Prop] Finnish Signs – Sauna by Ionwind</description>
+<guid isPermaLink="false">2391762986</guid>
+</item>
+</channel>
 </rss>
