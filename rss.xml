@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Mechanical High School No. 1 by Lichwiarz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391649927</link>
-<description>[Building] Mechanical High School No. 1 by Lichwiarz</description>
-<guid isPermaLink="false">2391649927</guid>
-</item>
-<item>
-<title>[Prop] Will Airways A320ceo [prop] by SmarTiies</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2391664297</link>
-<description>[Prop] Will Airways A320ceo [prop] by SmarTiies</description>
-<guid isPermaLink="false">2391664297</guid>
-</item>
-</channel>
+    </channel>
 </rss>
