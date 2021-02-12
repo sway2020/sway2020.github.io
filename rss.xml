@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Fence Rusty by #Kaiserderklaus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392603394</link>
+<description>[Road] Fence Rusty by #Kaiserderklaus</description>
+<guid isPermaLink="false">2392603394</guid>
+</item>
+<item>
+<title>[Prop] Tesla Semi Truck by Ironhospital</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392790748</link>
+<description>[Prop] Tesla Semi Truck by Ironhospital</description>
+<guid isPermaLink="false">2392790748</guid>
+</item>
+</channel>
 </rss>
