@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] D TOWER by sebong</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392501457</link>
-<description>[Building] D TOWER by sebong</description>
-<guid isPermaLink="false">2392501457</guid>
-</item>
-<item>
-<title>[Building] Independence hall of KOREA by sebong</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392502575</link>
-<description>[Building] Independence hall of KOREA by sebong</description>
-<guid isPermaLink="false">2392502575</guid>
-</item>
-</channel>
+    </channel>
 </rss>
