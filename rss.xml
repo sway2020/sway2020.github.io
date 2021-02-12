@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 2016 Koenigsegg Regera by M.HA</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392342456</link>
-<description>[Vehicle] 2016 Koenigsegg Regera by M.HA</description>
-<guid isPermaLink="false">2392342456</guid>
-</item>
-</channel>
+    </channel>
 </rss>
