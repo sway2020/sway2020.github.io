@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] The Town - 13 Pedestrian street by KPTR2112</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392804052</link>
-<description>[Road] The Town - 13 Pedestrian street by KPTR2112</description>
-<guid isPermaLink="false">2392804052</guid>
-</item>
-</channel>
+    </channel>
 </rss>
