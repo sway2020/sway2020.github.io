@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] Find It! 2 [BETA] - 20210212 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2187834843</link>
-<description>[Mod Update] Find It! 2 [BETA] - 20210212 Update</description>
-<guid isPermaLink="false">2187834843-20210212</guid>
+<title>[Building] Khrysler Homes - The Raymond by Khrysler</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392167079</link>
+<description>[Building] Khrysler Homes - The Raymond by Khrysler</description>
+<guid isPermaLink="false">2392167079</guid>
+</item>
+<item>
+<title>[Building] Khrysler Homes - The Hillcrest by Khrysler</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2392167457</link>
+<description>[Building] Khrysler Homes - The Hillcrest by Khrysler</description>
+<guid isPermaLink="false">2392167457</guid>
 </item>
 </channel>
 </rss>
