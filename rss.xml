@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] MXA Train (Máv-Hév v2.0) by Jopy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2393242075</link>
+<description>[Vehicle] MXA Train (Máv-Hév v2.0) by Jopy</description>
+<guid isPermaLink="false">2393242075</guid>
+</item>
+</channel>
 </rss>
