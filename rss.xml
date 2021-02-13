@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] YPF Tower - Buenos Aires Argentina by LealMafor Gaming</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2394081355</link>
-<description>[Building] YPF Tower - Buenos Aires Argentina by LealMafor Gaming</description>
-<guid isPermaLink="false">2394081355</guid>
-</item>
-</channel>
+    </channel>
 </rss>
