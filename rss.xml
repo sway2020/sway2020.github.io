@@ -9,16 +9,34 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Convocation Tower by N2J</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2395556148</link>
-<description>[Building] Convocation Tower by N2J</description>
-<guid isPermaLink="false">2395556148</guid>
+<title>[Vehicle] MIZUKI KYUSO Truck by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2393761721</link>
+<description>[Vehicle] MIZUKI KYUSO Truck by jaijai</description>
+<guid isPermaLink="false">2393761721</guid>
 </item>
 <item>
-<title>[Mod Update] Intersection Marking Tool 1.6 [BETA] - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2159934925</link>
-<description>[Mod Update] Intersection Marking Tool 1.6 [BETA] - 20210215 Update</description>
-<guid isPermaLink="false">2159934925-20210215</guid>
+<title>[Prop] UK Speed Camera/Sign Pack (Only Sign) by pkbsl</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396555152</link>
+<description>[Prop] UK Speed Camera/Sign Pack (Only Sign) by pkbsl</description>
+<guid isPermaLink="false">2396555152</guid>
+</item>
+<item>
+<title>[Prop] UK Speed Camera/Sign Pack (Only Pillar) by pkbsl</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396557087</link>
+<description>[Prop] UK Speed Camera/Sign Pack (Only Pillar) by pkbsl</description>
+<guid isPermaLink="false">2396557087</guid>
+</item>
+<item>
+<title>[Mod Update] NoBigTruck [BETA] - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2069057130</link>
+<description>[Mod Update] NoBigTruck [BETA] - 20210215 Update</description>
+<guid isPermaLink="false">2069057130-20210215</guid>
+</item>
+<item>
+<title>[Mod Update] Intersection Marking Tool 1.5.2 - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2140418403</link>
+<description>[Mod Update] Intersection Marking Tool 1.5.2 - 20210215 Update</description>
+<guid isPermaLink="false">2140418403-20210215</guid>
 </item>
 </channel>
 </rss>
