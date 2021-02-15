@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde Vlocity - 3 Car - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396302514</link>
-<description>[Vehicle] Ryde Vlocity - 3 Car - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2396302514</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde Vlocity - 5 Car - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396303009</link>
-<description>[Vehicle] Ryde Vlocity - 5 Car - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2396303009</guid>
-</item>
-<item>
-<title>[Mod Update] Express Bus Services (IPT2 Plugin) - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2296003260</link>
-<description>[Mod Update] Express Bus Services (IPT2 Plugin) - 20210215 Update</description>
-<guid isPermaLink="false">2296003260-20210215</guid>
-</item>
-<item>
-<title>[Mod Update] Express Bus Services - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2262054175</link>
-<description>[Mod Update] Express Bus Services - 20210215 Update</description>
-<guid isPermaLink="false">2262054175-20210215</guid>
-</item>
-<item>
-<title>[Mod Update] Specialized Industry Fix Redux - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1553517176</link>
-<description>[Mod Update] Specialized Industry Fix Redux - 20210215 Update</description>
-<guid isPermaLink="false">1553517176-20210215</guid>
-</item>
-</channel>
+    </channel>
 </rss>
