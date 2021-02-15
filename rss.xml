@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] vanilla parking lot 45° 3x4 by AfternoonTea</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2395146733</link>
-<description>[Park] vanilla parking lot 45° 3x4 by AfternoonTea</description>
-<guid isPermaLink="false">2395146733</guid>
-</item>
-<item>
-<title>[Park] vanilla parking lot 45° 4x4 by AfternoonTea</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2395147271</link>
-<description>[Park] vanilla parking lot 45° 4x4 by AfternoonTea</description>
-<guid isPermaLink="false">2395147271</guid>
-</item>
-<item>
-<title>[Building] Japanese Low-rise Apartment by nob50506000</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396114107</link>
-<description>[Building] Japanese Low-rise Apartment by nob50506000</description>
-<guid isPermaLink="false">2396114107</guid>
-</item>
-</channel>
+    </channel>
 </rss>
