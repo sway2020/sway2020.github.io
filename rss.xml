@@ -8,5 +8,35 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Find It! 2 - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2133885971</link>
+<description>[Mod Update] Find It! 2 - 20210215 Update</description>
+<guid isPermaLink="false">2133885971-20210215</guid>
+</item>
+<item>
+<title>[Mod Update] Find It! 2 [BETA] - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2187834843</link>
+<description>[Mod Update] Find It! 2 [BETA] - 20210215 Update</description>
+<guid isPermaLink="false">2187834843-20210215</guid>
+</item>
+<item>
+<title>[Mod Update] Gravitative Cable Car - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2094830335</link>
+<description>[Mod Update] Gravitative Cable Car - 20210215 Update</description>
+<guid isPermaLink="false">2094830335-20210215</guid>
+</item>
+<item>
+<title>[Mod Update] Non-Terrain Conforming Props - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2246271550</link>
+<description>[Mod Update] Non-Terrain Conforming Props - 20210215 Update</description>
+<guid isPermaLink="false">2246271550-20210215</guid>
+</item>
+<item>
+<title>[Mod Update] Tree  Vehicle Props Patch - 20210215 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2225551043</link>
+<description>[Mod Update] Tree  Vehicle Props Patch - 20210215 Update</description>
+<guid isPermaLink="false">2225551043-20210215</guid>
+</item>
+</channel>
 </rss>
