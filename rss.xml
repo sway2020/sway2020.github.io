@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] SharedStopEnabler - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2096382380</link>
-<description>[Mod Update] SharedStopEnabler - 20210215 Update</description>
-<guid isPermaLink="false">2096382380-20210215</guid>
-</item>
-</channel>
+    </channel>
 </rss>
