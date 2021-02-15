@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] Emergency Vehicle Priority - 20210215 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2172948371</link>
-<description>[Mod Update] Emergency Vehicle Priority - 20210215 Update</description>
-<guid isPermaLink="false">2172948371-20210215</guid>
+<title>[Vehicle] EMD E7 Burlington Route Commuter by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396053916</link>
+<description>[Vehicle] EMD E7 Burlington Route Commuter by Astro</description>
+<guid isPermaLink="false">2396053916</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E8 Burlington Route Commuter by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396054623</link>
+<description>[Vehicle] EMD E8 Burlington Route Commuter by Astro</description>
+<guid isPermaLink="false">2396054623</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E8 Union Pacific by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2396055581</link>
+<description>[Vehicle] EMD E8 Union Pacific by Astro</description>
+<guid isPermaLink="false">2396055581</guid>
 </item>
 </channel>
 </rss>
