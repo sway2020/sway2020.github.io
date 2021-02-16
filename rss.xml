@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] GMC Savana 2005 LWB by Moch</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397762986</link>
+<description>[Vehicle] GMC Savana 2005 LWB by Moch</description>
+<guid isPermaLink="false">2397762986</guid>
+</item>
+</channel>
 </rss>
