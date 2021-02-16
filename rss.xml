@@ -9,10 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] Node controller V2.2  [Beta] - 20210216 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2085403475</link>
-<description>[Mod Update] Node controller V2.2  [Beta] - 20210216 Update</description>
-<guid isPermaLink="false">2085403475-20210216</guid>
+<title>[Building] Livorno Attias by Zeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397961250</link>
+<description>[Building] Livorno Attias by Zeno</description>
+<guid isPermaLink="false">2397961250</guid>
+</item>
+<item>
+<title>[Building] Genova Residential high 8 by Zeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397963763</link>
+<description>[Building] Genova Residential high 8 by Zeno</description>
+<guid isPermaLink="false">2397963763</guid>
+</item>
+<item>
+<title>[Building] Genova Residential high 9 by Zeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397964417</link>
+<description>[Building] Genova Residential high 9 by Zeno</description>
+<guid isPermaLink="false">2397964417</guid>
+</item>
+<item>
+<title>[Mod Update] Hide Crosswalks V3.0 [EXPERIMENTAL] - 20210216 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1939169189</link>
+<description>[Mod Update] Hide Crosswalks V3.0 [EXPERIMENTAL] - 20210216 Update</description>
+<guid isPermaLink="false">1939169189-20210216</guid>
 </item>
 </channel>
 </rss>
