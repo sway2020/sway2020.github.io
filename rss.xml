@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] mizuki-city-pack vol.19 (JPTS) by 001HANNO</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2385982172</link>
-<description>[Prop] mizuki-city-pack vol.19 (JPTS) by 001HANNO</description>
-<guid isPermaLink="false">2385982172</guid>
-</item>
-<item>
-<title>[Building] BPL Clipping Remover 3x3 (Snowfall compatible) by Ciar Aon</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2395838286</link>
-<description>[Building] BPL Clipping Remover 3x3 (Snowfall compatible) by Ciar Aon</description>
-<guid isPermaLink="false">2395838286</guid>
-</item>
-<item>
-<title>[Vehicle] Freightliner M2-112 Flatbed Tow Truck by outstandinggamer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397204854</link>
-<description>[Vehicle] Freightliner M2-112 Flatbed Tow Truck by outstandinggamer</description>
-<guid isPermaLink="false">2397204854</guid>
-</item>
-<item>
-<title>[Building] Muggenhof Station 1 (Nuremberg U-Bahn) by Pewex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397205096</link>
-<description>[Building] Muggenhof Station 1 (Nuremberg U-Bahn) by Pewex</description>
-<guid isPermaLink="false">2397205096</guid>
-</item>
-<item>
-<title>[Building] Muggenhof Station 2 (Nuremberg U-Bahn) by Pewex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397205397</link>
-<description>[Building] Muggenhof Station 2 (Nuremberg U-Bahn) by Pewex</description>
-<guid isPermaLink="false">2397205397</guid>
-</item>
-<item>
-<title>[Prop] Muggenhof Station Glass Prop by Pewex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397205662</link>
-<description>[Prop] Muggenhof Station Glass Prop by Pewex</description>
-<guid isPermaLink="false">2397205662</guid>
-</item>
-</channel>
+    </channel>
 </rss>
