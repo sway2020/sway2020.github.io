@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] Rainfall - 20210217 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=698395457</link>
-<description>[Mod Update] Rainfall - 20210217 Update</description>
-<guid isPermaLink="false">698395457-20210217</guid>
-</item>
-</channel>
+    </channel>
 </rss>
