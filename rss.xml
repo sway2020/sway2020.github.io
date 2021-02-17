@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] カラオケビッグエコー_karaokebigecho by アザラシくん</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2398363112</link>
+<description>[Building] カラオケビッグエコー_karaokebigecho by アザラシくん</description>
+<guid isPermaLink="false">2398363112</guid>
+</item>
+<item>
+<title>[Building] カラオケビッグエコー看板_karaokebigecho by アザラシくん</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2398507279</link>
+<description>[Building] カラオケビッグエコー看板_karaokebigecho by アザラシくん</description>
+<guid isPermaLink="false">2398507279</guid>
+</item>
+</channel>
 </rss>
