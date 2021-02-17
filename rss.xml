@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Book-Off Store by Sakura Nation</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2398911414</link>
-<description>[Building] Book-Off Store by Sakura Nation</description>
-<guid isPermaLink="false">2398911414</guid>
-</item>
-</channel>
+    </channel>
 </rss>
