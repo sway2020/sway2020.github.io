@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] JP Ice Storage　製氷貯蔵庫 by Takamon27</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2397569017</link>
-<description>[Building] JP Ice Storage　製氷貯蔵庫 by Takamon27</description>
-<guid isPermaLink="false">2397569017</guid>
-</item>
-<item>
-<title>[Prop] HCMT - Props by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2398648456</link>
-<description>[Prop] HCMT - Props by Zekiarsu</description>
-<guid isPermaLink="false">2398648456</guid>
-</item>
-</channel>
+    </channel>
 </rss>
