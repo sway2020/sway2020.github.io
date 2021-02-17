@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] JP_TrashDisposal by sutaxa</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2398789398</link>
+<description>[Prop] JP_TrashDisposal by sutaxa</description>
+<guid isPermaLink="false">2398789398</guid>
+</item>
+</channel>
 </rss>
