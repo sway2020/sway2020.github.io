@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Petterøes Tobacco Adboard by Pewex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399112029</link>
-<description>[Prop] Petterøes Tobacco Adboard by Pewex</description>
-<guid isPermaLink="false">2399112029</guid>
+<title>[Building] 2x14 train station by Basco81</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399189220</link>
+<description>[Building] 2x14 train station by Basco81</description>
+<guid isPermaLink="false">2399189220</guid>
+</item>
+<item>
+<title>[Vehicle] Freightliner M2-112 City Wide Wrecker by outstandinggamer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399189305</link>
+<description>[Vehicle] Freightliner M2-112 City Wide Wrecker by outstandinggamer</description>
+<guid isPermaLink="false">2399189305</guid>
 </item>
 </channel>
 </rss>
