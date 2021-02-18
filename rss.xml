@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Plattenbau IW84 P-Halle No.1-2 by MeisterMonis</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399903900</link>
+<description>[Building] Plattenbau IW84 P-Halle No.1-2 by MeisterMonis</description>
+<guid isPermaLink="false">2399903900</guid>
+</item>
+<item>
+<title>[Building] Austrian Commercial 03 by ArturIalanski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399907902</link>
+<description>[Building] Austrian Commercial 03 by ArturIalanski</description>
+<guid isPermaLink="false">2399907902</guid>
+</item>
+</channel>
 </rss>
