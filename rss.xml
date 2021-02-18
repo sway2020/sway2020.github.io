@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Fiorella Bridal Shop by Gilded Age</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399445684</link>
-<description>[Building] Fiorella Bridal Shop by Gilded Age</description>
-<guid isPermaLink="false">2399445684</guid>
+<title>[Building] Morroni Custom Tailor by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399349283</link>
+<description>[Building] Morroni Custom Tailor by Gilded Age</description>
+<guid isPermaLink="false">2399349283</guid>
+</item>
+<item>
+<title>[Building] Giovanni Shoe Repair by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399349969</link>
+<description>[Building] Giovanni Shoe Repair by Gilded Age</description>
+<guid isPermaLink="false">2399349969</guid>
+</item>
+<item>
+<title>[Building] Del Monico Hatter by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2399352085</link>
+<description>[Building] Del Monico Hatter by Gilded Age</description>
+<guid isPermaLink="false">2399352085</guid>
 </item>
 </channel>
 </rss>
