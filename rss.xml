@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde LHD Bus Pack- Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400229227</link>
+<description>[Vehicle] Ryde LHD Bus Pack- Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2400229227</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD Bus Pack - E200 Expansion - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400231394</link>
+<description>[Vehicle] Ryde LHD Bus Pack - E200 Expansion - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2400231394</guid>
+</item>
+</channel>
 </rss>
