@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] EA18G LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401340234</link>
-<description>[Vehicle] EA18G LWP by WTigerTw</description>
-<guid isPermaLink="false">2401340234</guid>
-</item>
-<item>
-<title>[Vehicle] EA18G VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401340943</link>
-<description>[Vehicle] EA18G VWP by WTigerTw</description>
-<guid isPermaLink="false">2401340943</guid>
-</item>
-</channel>
+    </channel>
 </rss>
