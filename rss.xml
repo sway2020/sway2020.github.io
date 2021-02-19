@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] tactile slabs prop pack by Ligne 7</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400742848</link>
-<description>[Prop] tactile slabs prop pack by Ligne 7</description>
-<guid isPermaLink="false">2400742848</guid>
-</item>
-</channel>
+    </channel>
 </rss>
