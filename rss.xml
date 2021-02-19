@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Parking lot 4x4 (for electric) by AbbyWoo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400909138</link>
-<description>[Park] Parking lot 4x4 (for electric) by AbbyWoo</description>
-<guid isPermaLink="false">2400909138</guid>
-</item>
-<item>
-<title>[Vehicle] Volvo FH 4x2 FedEx by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400913026</link>
-<description>[Vehicle] Volvo FH 4x2 FedEx by ron_fu-ta</description>
-<guid isPermaLink="false">2400913026</guid>
-</item>
-</channel>
+    </channel>
 </rss>
