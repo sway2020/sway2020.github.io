@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Forestry Parking Lot 4x4 by MerleDixon</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401104011</link>
-<description>[Park] Forestry Parking Lot 4x4 by MerleDixon</description>
-<guid isPermaLink="false">2401104011</guid>
-</item>
-</channel>
+    </channel>
 </rss>
