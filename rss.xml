@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Compact Bike Lane Markings by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400264734</link>
-<description>[Prop] Compact Bike Lane Markings by Delta 5-1</description>
-<guid isPermaLink="false">2400264734</guid>
-</item>
-<item>
-<title>[Park] Industry Parking Lot 4x4 by MerleDixon</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400304895</link>
-<description>[Park] Industry Parking Lot 4x4 by MerleDixon</description>
-<guid isPermaLink="false">2400304895</guid>
-</item>
-<item>
-<title>[Road] Tiny 1-Lane One-Way Road with Bike Lanes by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2400327099</link>
-<description>[Road] Tiny 1-Lane One-Way Road with Bike Lanes by Delta 5-1</description>
-<guid isPermaLink="false">2400327099</guid>
-</item>
-</channel>
+    </channel>
 </rss>
