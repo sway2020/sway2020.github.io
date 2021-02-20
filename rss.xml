@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Shoji Amusement Park (障子天国) by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401976356</link>
+<description>[Building] Shoji Amusement Park (障子天国) by christinayan</description>
+<guid isPermaLink="false">2401976356</guid>
+</item>
+</channel>
 </rss>
