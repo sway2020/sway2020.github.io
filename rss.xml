@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Historical Chinese residence Pack by RyanCat</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402139083</link>
+<description>[Building] Historical Chinese residence Pack by RyanCat</description>
+<guid isPermaLink="false">2402139083</guid>
+</item>
+<item>
+<title>[Building] RATP Official Font Parisine - PO Ready by eyyTraxx</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402160419</link>
+<description>[Building] RATP Official Font Parisine - PO Ready by eyyTraxx</description>
+<guid isPermaLink="false">2402160419</guid>
+</item>
+<item>
+<title>[Building] Soviet Technikum by drundenfub</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402170400</link>
+<description>[Building] Soviet Technikum by drundenfub</description>
+<guid isPermaLink="false">2402170400</guid>
+</item>
+<item>
+<title>[Building] Indices de ligne IDFM - PO Ready by eyyTraxx</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402174707</link>
+<description>[Building] Indices de ligne IDFM - PO Ready by eyyTraxx</description>
+<guid isPermaLink="false">2402174707</guid>
+</item>
+</channel>
 </rss>
