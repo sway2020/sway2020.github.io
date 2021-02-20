@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Democracy Monument - อนุสาวรีย์ประชาธิปไตย by PalmsTime</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401741290</link>
-<description>[Building] Democracy Monument - อนุสาวรีย์ประชาธิปไตย by PalmsTime</description>
-<guid isPermaLink="false">2401741290</guid>
-</item>
-<item>
-<title>[Building] BCR5 [BETA] by Bad Brainz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401767052</link>
-<description>[Building] BCR5 [BETA] by Bad Brainz</description>
-<guid isPermaLink="false">2401767052</guid>
-</item>
-</channel>
+    </channel>
 </rss>
