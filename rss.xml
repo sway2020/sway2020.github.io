@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] FA18F L3WP by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402939635</link>
+<description>[Vehicle] FA18F L3WP by WTigerTw</description>
+<guid isPermaLink="false">2402939635</guid>
+</item>
+<item>
+<title>[Vehicle] FA18F V3WP by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402940190</link>
+<description>[Vehicle] FA18F V3WP by WTigerTw</description>
+<guid isPermaLink="false">2402940190</guid>
+</item>
+<item>
+<title>[Tree] Bigleaf Linden by MrMaison</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402946167</link>
+<description>[Tree] Bigleaf Linden by MrMaison</description>
+<guid isPermaLink="false">2402946167</guid>
+</item>
+</channel>
 </rss>
