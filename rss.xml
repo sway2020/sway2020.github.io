@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Skate Park 0.5 by 76561199030494670</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2401815352</link>
-<description>[Park] Skate Park 0.5 by 76561199030494670</description>
-<guid isPermaLink="false">2401815352</guid>
-</item>
-<item>
-<title>[Mod Update] Node controller V2.2  [Beta] - 20210221 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2085403475</link>
-<description>[Mod Update] Node controller V2.2  [Beta] - 20210221 Update</description>
-<guid isPermaLink="false">2085403475-20210221</guid>
-</item>
-</channel>
+    </channel>
 </rss>
