@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Random Train Trailers 2.3.0 - 20210221 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=870291141</link>
+<description>[Mod Update] Random Train Trailers 2.3.0 - 20210221 Update</description>
+<guid isPermaLink="false">870291141-20210221</guid>
+</item>
+</channel>
 </rss>
