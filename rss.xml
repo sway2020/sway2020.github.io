@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Mediterranean Train Station Sign Prop by High Explosive Serenade</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2404682461</link>
+<description>[Prop] Mediterranean Train Station Sign Prop by High Explosive Serenade</description>
+<guid isPermaLink="false">2404682461</guid>
+</item>
+<item>
+<title>[Building] Mediterranean Train Station 1 by High Explosive Serenade</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2404683604</link>
+<description>[Building] Mediterranean Train Station 1 by High Explosive Serenade</description>
+<guid isPermaLink="false">2404683604</guid>
+</item>
+</channel>
 </rss>
