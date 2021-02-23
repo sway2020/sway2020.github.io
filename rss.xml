@@ -9,10 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Road] 24m Five Lane Road by Eloso</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2404980271</link>
-<description>[Road] 24m Five Lane Road by Eloso</description>
-<guid isPermaLink="false">2404980271</guid>
+<title>[Prop] KBS 로고(kbslogo) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405002856</link>
+<description>[Prop] KBS 로고(kbslogo) by SCAR_Nice</description>
+<guid isPermaLink="false">2405002856</guid>
+</item>
+<item>
+<title>[Prop] SBS 로고(sbslogo) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405003667</link>
+<description>[Prop] SBS 로고(sbslogo) by SCAR_Nice</description>
+<guid isPermaLink="false">2405003667</guid>
+</item>
+<item>
+<title>[Prop] MBC 로고(mbclogo) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405004043</link>
+<description>[Prop] MBC 로고(mbclogo) by SCAR_Nice</description>
+<guid isPermaLink="false">2405004043</guid>
+</item>
+<item>
+<title>[Prop] JTBC 로고(jtbclogo) by SCAR_Nice</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405004369</link>
+<description>[Prop] JTBC 로고(jtbclogo) by SCAR_Nice</description>
+<guid isPermaLink="false">2405004369</guid>
 </item>
 </channel>
 </rss>
