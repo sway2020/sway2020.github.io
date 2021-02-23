@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Vehicle Effects Definition Pack DBAG - 20210223 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2008325200</link>
+<description>[Mod Update] Vehicle Effects Definition Pack DBAG - 20210223 Update</description>
+<guid isPermaLink="false">2008325200-20210223</guid>
+</item>
+</channel>
 </rss>
