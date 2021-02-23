@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde - School Bus Pack [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405145275</link>
-<description>[Vehicle] Ryde - School Bus Pack [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2405145275</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - School Bus Pack [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405145715</link>
-<description>[Vehicle] Ryde LHD - School Bus Pack [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2405145715</guid>
-</item>
-</channel>
+    </channel>
 </rss>
