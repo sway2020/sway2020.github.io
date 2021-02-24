@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - LHD - Evacuation Bus [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2406768783</link>
+<description>[Vehicle] Ryde - LHD - Evacuation Bus [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2406768783</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - Evacuation Bus [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2406776376</link>
+<description>[Vehicle] Ryde - Evacuation Bus [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2406776376</guid>
+</item>
+</channel>
 </rss>
