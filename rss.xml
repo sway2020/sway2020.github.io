@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] 2015 Mazda 6 Polisi by M.HA</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2402987684</link>
+<description>[Vehicle] 2015 Mazda 6 Polisi by M.HA</description>
+<guid isPermaLink="false">2402987684</guid>
+</item>
+<item>
+<title>[Mod] Independence FM + Grand Theft Auto IV ads by starscar12</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2406202513</link>
+<description>[Mod] Independence FM + Grand Theft Auto IV ads by starscar12</description>
+<guid isPermaLink="false">2406202513</guid>
+</item>
+<item>
+<title>[Building] Radar Site Pack レーダーサイトセット by Ezoshika</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2406232226</link>
+<description>[Building] Radar Site Pack レーダーサイトセット by Ezoshika</description>
+<guid isPermaLink="false">2406232226</guid>
+</item>
+</channel>
 </rss>
