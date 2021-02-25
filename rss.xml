@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] 2019 Volkswagen New Beetle by Californianyt</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407568695</link>
+<description>[Vehicle] 2019 Volkswagen New Beetle by Californianyt</description>
+<guid isPermaLink="false">2407568695</guid>
+</item>
+</channel>
 </rss>
