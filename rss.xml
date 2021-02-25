@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde LHD - AeroAce - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407656648</link>
-<description>[Vehicle] Ryde LHD - AeroAce - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2407656648</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - AeroAce - Coach Azure [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407667952</link>
-<description>[Vehicle] Ryde LHD - AeroAce - Coach Azure [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2407667952</guid>
-</item>
-</channel>
+    </channel>
 </rss>
