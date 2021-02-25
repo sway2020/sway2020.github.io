@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 115 kV Single Circuit Tubular Transmission + 12.47 kV Double Circuit Underbuild by jackskellington6_CS</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2406872681</link>
-<description>[Road] 115 kV Single Circuit Tubular Transmission + 12.47 kV Double Circuit Underbuild by jackskellington6_CS</description>
-<guid isPermaLink="false">2406872681</guid>
-</item>
-</channel>
+    </channel>
 </rss>
