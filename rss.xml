@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Net-Pier by #Kaiserderklaus</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408239549</link>
-<description>[Road] Net-Pier by #Kaiserderklaus</description>
-<guid isPermaLink="false">2408239549</guid>
-</item>
-</channel>
+    </channel>
 </rss>
