@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Brasov county Prefecture, Brasov - Romania by Raccoon</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408567881</link>
-<description>[Building] Brasov county Prefecture, Brasov - Romania by Raccoon</description>
-<guid isPermaLink="false">2408567881</guid>
-</item>
-</channel>
+    </channel>
 </rss>
