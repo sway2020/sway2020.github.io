@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Old market stalls with crowds - low commercial by macluk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408373681</link>
+<description>[Building] Old market stalls with crowds - low commercial by macluk</description>
+<guid isPermaLink="false">2408373681</guid>
+</item>
+<item>
+<title>[Building] Old market stalls - low commercial by macluk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408375443</link>
+<description>[Building] Old market stalls - low commercial by macluk</description>
+<guid isPermaLink="false">2408375443</guid>
+</item>
+</channel>
 </rss>
