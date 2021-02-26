@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] C17A P by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407989180</link>
-<description>[Prop] C17A P by WTigerTw</description>
-<guid isPermaLink="false">2407989180</guid>
-</item>
-<item>
-<title>[Prop] C17A P1B by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407989421</link>
-<description>[Prop] C17A P1B by WTigerTw</description>
-<guid isPermaLink="false">2407989421</guid>
-</item>
-<item>
-<title>[Vehicle] C17A PSCO by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407989591</link>
-<description>[Vehicle] C17A PSCO by WTigerTw</description>
-<guid isPermaLink="false">2407989591</guid>
-</item>
-<item>
-<title>[Vehicle] C17A VCO by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2407989760</link>
-<description>[Vehicle] C17A VCO by WTigerTw</description>
-<guid isPermaLink="false">2407989760</guid>
-</item>
-</channel>
+    </channel>
 </rss>
