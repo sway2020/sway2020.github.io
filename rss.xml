@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] JNR/JRW 419 Series Toast bread by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408026969</link>
+<description>[Vehicle] JNR/JRW 419 Series Toast bread by Chitoge</description>
+<guid isPermaLink="false">2408026969</guid>
+</item>
+<item>
+<title>[Prop] 青铜鼎（3号）-Bronze Ding (No.3) by Kiddle</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408046204</link>
+<description>[Prop] 青铜鼎（3号）-Bronze Ding (No.3) by Kiddle</description>
+<guid isPermaLink="false">2408046204</guid>
+</item>
+<item>
+<title>[Mod Update] Ploppable RICO Revisited TESTING - 20210225 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2131808622</link>
+<description>[Mod Update] Ploppable RICO Revisited TESTING - 20210225 Update</description>
+<guid isPermaLink="false">2131808622-20210225</guid>
+</item>
+</channel>
 </rss>
