@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] F35A L by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408937134</link>
-<description>[Vehicle] F35A L by WTigerTw</description>
-<guid isPermaLink="false">2408937134</guid>
-</item>
-<item>
-<title>[Vehicle] F35A V by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408937418</link>
-<description>[Vehicle] F35A V by WTigerTw</description>
-<guid isPermaLink="false">2408937418</guid>
-</item>
-<item>
-<title>[Vehicle] F35A LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408937631</link>
-<description>[Vehicle] F35A LWP by WTigerTw</description>
-<guid isPermaLink="false">2408937631</guid>
-</item>
-<item>
-<title>[Vehicle] F35A VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2408937883</link>
-<description>[Vehicle] F35A VWP by WTigerTw</description>
-<guid isPermaLink="false">2408937883</guid>
-</item>
-</channel>
+    </channel>
 </rss>
