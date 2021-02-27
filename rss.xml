@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Joshin Fushimi Store by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2409177498</link>
+<description>[Building] Joshin Fushimi Store by curr66</description>
+<guid isPermaLink="false">2409177498</guid>
+</item>
+<item>
+<title>[Vehicle] SMC Childrens Hospital Ford F350 Ambulance by Dying</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2409187654</link>
+<description>[Vehicle] SMC Childrens Hospital Ford F350 Ambulance by Dying</description>
+<guid isPermaLink="false">2409187654</guid>
+</item>
+</channel>
 </rss>
