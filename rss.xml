@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Truss EXPWY Light 1 by Bad Brainz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410385782</link>
-<description>[Road] Truss EXPWY Light 1 by Bad Brainz</description>
-<guid isPermaLink="false">2410385782</guid>
-</item>
-</channel>
+    </channel>
 </rss>
