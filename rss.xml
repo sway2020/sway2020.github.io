@@ -8,53 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] US 4+2L Road Red Dash by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410955763</link>
-<description>[Road] US 4+2L Road Red Dash by Grozunol</description>
-<guid isPermaLink="false">2410955763</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Concrete Dash by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410960743</link>
-<description>[Road] US 4+2L Road Concrete Dash by Grozunol</description>
-<guid isPermaLink="false">2410960743</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Grass Dash by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410963105</link>
-<description>[Road] US 4+2L Road Grass Dash by Grozunol</description>
-<guid isPermaLink="false">2410963105</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Red Solid by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410968058</link>
-<description>[Road] US 4+2L Road Red Solid by Grozunol</description>
-<guid isPermaLink="false">2410968058</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Concrete Solid by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410971905</link>
-<description>[Road] US 4+2L Road Concrete Solid by Grozunol</description>
-<guid isPermaLink="false">2410971905</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Grass Solid by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410974671</link>
-<description>[Road] US 4+2L Road Grass Solid by Grozunol</description>
-<guid isPermaLink="false">2410974671</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Drawn Solid by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410976919</link>
-<description>[Road] US 4+2L Road Drawn Solid by Grozunol</description>
-<guid isPermaLink="false">2410976919</guid>
-</item>
-<item>
-<title>[Road] US 4+2L Road Drawn Dash by Grozunol</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410980006</link>
-<description>[Road] US 4+2L Road Drawn Dash by Grozunol</description>
-<guid isPermaLink="false">2410980006</guid>
-</item>
-</channel>
+    </channel>
 </rss>
