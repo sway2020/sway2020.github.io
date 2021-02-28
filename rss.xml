@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Heunginjimun Gate of Korea(흥인지문) by sebong</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410675612</link>
+<description>[Building] Heunginjimun Gate of Korea(흥인지문) by sebong</description>
+<guid isPermaLink="false">2410675612</guid>
+</item>
+<item>
+<title>[Prop] JP_Instant_GongCha_Prop by sutaxa</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410722092</link>
+<description>[Prop] JP_Instant_GongCha_Prop by sutaxa</description>
+<guid isPermaLink="false">2410722092</guid>
+</item>
+</channel>
 </rss>
