@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde - First Fleet - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410053950</link>
-<description>[Vehicle] Ryde - First Fleet - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2410053950</guid>
-</item>
-<item>
-<title>[Mod Update] Lifecycle Rebalance Revisited 1.5.2 - 20210227 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2097938060</link>
-<description>[Mod Update] Lifecycle Rebalance Revisited 1.5.2 - 20210227 Update</description>
-<guid isPermaLink="false">2097938060-20210227</guid>
-</item>
-</channel>
+    </channel>
 </rss>
