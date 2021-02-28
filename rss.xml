@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Vlocity - 5 Car - YumblTV Special Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410260859</link>
+<description>[Vehicle] Ryde - Vlocity - 5 Car - YumblTV Special Livery by BlueThunder796</description>
+<guid isPermaLink="false">2410260859</guid>
+</item>
+<item>
+<title>[Mod Update] (BETA) Traffic Light Replacer - 20210227 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2053924034</link>
+<description>[Mod Update] (BETA) Traffic Light Replacer - 20210227 Update</description>
+<guid isPermaLink="false">2053924034-20210227</guid>
+</item>
+</channel>
 </rss>
