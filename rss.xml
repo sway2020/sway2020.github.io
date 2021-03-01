@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Cyberpunk Tower 02 by 76561199030494670</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2410150856</link>
-<description>[Building] Cyberpunk Tower 02 by 76561199030494670</description>
-<guid isPermaLink="false">2410150856</guid>
-</item>
-</channel>
+    </channel>
 </rss>
