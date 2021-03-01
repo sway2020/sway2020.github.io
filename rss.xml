@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] EMD E8 Midnight Amtrak by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2411271838</link>
+<description>[Vehicle] EMD E8 Midnight Amtrak by Astro</description>
+<guid isPermaLink="false">2411271838</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E8 Phase 1 Amtrak by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2411272390</link>
+<description>[Vehicle] EMD E8 Phase 1 Amtrak by Astro</description>
+<guid isPermaLink="false">2411272390</guid>
+</item>
+</channel>
 </rss>
