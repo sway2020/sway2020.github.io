@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Freightliner M2-112 Skylines Fire Pumper by outstandinggamer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2412266218</link>
-<description>[Vehicle] Freightliner M2-112 Skylines Fire Pumper by outstandinggamer</description>
-<guid isPermaLink="false">2412266218</guid>
-</item>
-<item>
-<title>[Park] Modern Warehouse Collection by Shindosi</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2412274571</link>
-<description>[Park] Modern Warehouse Collection by Shindosi</description>
-<guid isPermaLink="false">2412274571</guid>
-</item>
-</channel>
+    </channel>
 </rss>
