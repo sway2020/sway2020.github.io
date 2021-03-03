@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] Ploppable RICO Revisited TESTING - 20210302 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2131808622</link>
-<description>[Mod Update] Ploppable RICO Revisited TESTING - 20210302 Update</description>
-<guid isPermaLink="false">2131808622-20210302</guid>
+<title>[Vehicle] Oregon Rail Pricefield Flyer by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2413301325</link>
+<description>[Vehicle] Oregon Rail Pricefield Flyer by Astro</description>
+<guid isPermaLink="false">2413301325</guid>
+</item>
+<item>
+<title>[Prop] Pricefield Flyer Prop Pack by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2413305299</link>
+<description>[Prop] Pricefield Flyer Prop Pack by Astro</description>
+<guid isPermaLink="false">2413305299</guid>
+</item>
+<item>
+<title>[Mod Update] Ploppable RICO Revisited 2.4.1 - 20210302 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2016920607</link>
+<description>[Mod Update] Ploppable RICO Revisited 2.4.1 - 20210302 Update</description>
+<guid isPermaLink="false">2016920607-20210302</guid>
 </item>
 </channel>
 </rss>
