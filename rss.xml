@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Belgian railroad catenaries by Ella the Octopus</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2413935394</link>
-<description>[Prop] Belgian railroad catenaries by Ella the Octopus</description>
-<guid isPermaLink="false">2413935394</guid>
+<title>[Prop] Belgian traffic lights 2 by Ella the Octopus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2413940459</link>
+<description>[Prop] Belgian traffic lights 2 by Ella the Octopus</description>
+<guid isPermaLink="false">2413940459</guid>
+</item>
+<item>
+<title>[Mod Update] Improved Lane Connections - 20210303 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2119310640</link>
+<description>[Mod Update] Improved Lane Connections - 20210303 Update</description>
+<guid isPermaLink="false">2119310640-20210303</guid>
 </item>
 </channel>
 </rss>
