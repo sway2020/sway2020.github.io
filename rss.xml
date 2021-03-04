@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Seoul House by borg2003</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414660828</link>
-<description>[Building] Seoul House by borg2003</description>
-<guid isPermaLink="false">2414660828</guid>
-</item>
-<item>
-<title>[Road] BIG Urban Roads 2 Lane (unmarked) by hockenheim95</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414685108</link>
-<description>[Road] BIG Urban Roads 2 Lane (unmarked) by hockenheim95</description>
-<guid isPermaLink="false">2414685108</guid>
-</item>
-</channel>
+    </channel>
 </rss>
