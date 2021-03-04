@@ -9,16 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] R.M.S. TITANIC (ship asset) by hpt94</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414432973</link>
-<description>[Vehicle] R.M.S. TITANIC (ship asset) by hpt94</description>
-<guid isPermaLink="false">2414432973</guid>
+<title>[Building] [Grow+RICO] Tour Temple A (Clichy, France) by Alexgazz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414470571</link>
+<description>[Building] [Grow+RICO] Tour Temple A (Clichy, France) by Alexgazz</description>
+<guid isPermaLink="false">2414470571</guid>
 </item>
 <item>
-<title>[Building] Hagia Sofia by Lemire</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414438576</link>
-<description>[Building] Hagia Sofia by Lemire</description>
-<guid isPermaLink="false">2414438576</guid>
+<title>[Building] [Grow+RICO] Tours Temple B-C (Clichy, France) by Alexgazz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414471876</link>
+<description>[Building] [Grow+RICO] Tours Temple B-C (Clichy, France) by Alexgazz</description>
+<guid isPermaLink="false">2414471876</guid>
+</item>
+<item>
+<title>[Building] [Grow+RICO] Tour Temple D (Clichy, France) by Alexgazz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414473032</link>
+<description>[Building] [Grow+RICO] Tour Temple D (Clichy, France) by Alexgazz</description>
+<guid isPermaLink="false">2414473032</guid>
+</item>
+<item>
+<title>[Prop] TPriusGUProp by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414478117</link>
+<description>[Prop] TPriusGUProp by TecniRanger</description>
+<guid isPermaLink="false">2414478117</guid>
 </item>
 </channel>
 </rss>
