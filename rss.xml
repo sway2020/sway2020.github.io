@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] MAN TGS Dump prop by K_Green</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414578623</link>
+<description>[Prop] MAN TGS Dump prop by K_Green</description>
+<guid isPermaLink="false">2414578623</guid>
+</item>
+<item>
+<title>[Prop] Busan Line1 Old Chopper Train Prop Set by K_Green</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414579859</link>
+<description>[Prop] Busan Line1 Old Chopper Train Prop Set by K_Green</description>
+<guid isPermaLink="false">2414579859</guid>
+</item>
+</channel>
 </rss>
