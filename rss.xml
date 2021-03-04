@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Alfa Romeo F1 Flag by Alu Bot</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414828701</link>
+<description>[Prop] Alfa Romeo F1 Flag by Alu Bot</description>
+<guid isPermaLink="false">2414828701</guid>
+</item>
+<item>
+<title>[Prop] Alpha Tauri F1 Flag by Alu Bot</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414832842</link>
+<description>[Prop] Alpha Tauri F1 Flag by Alu Bot</description>
+<guid isPermaLink="false">2414832842</guid>
+</item>
+</channel>
 </rss>
