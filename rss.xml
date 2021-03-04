@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 鶴屋（音衛門ビルヂング）JP Tsuruya-Otoemon by koma</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414255252</link>
-<description>[Building] 鶴屋（音衛門ビルヂング）JP Tsuruya-Otoemon by koma</description>
-<guid isPermaLink="false">2414255252</guid>
-</item>
-</channel>
+    </channel>
 </rss>
