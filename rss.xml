@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] R.M.S. TITANIC (ship asset) by hpt94</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414432973</link>
+<description>[Vehicle] R.M.S. TITANIC (ship asset) by hpt94</description>
+<guid isPermaLink="false">2414432973</guid>
+</item>
+<item>
+<title>[Building] Hagia Sofia by Lemire</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414438576</link>
+<description>[Building] Hagia Sofia by Lemire</description>
+<guid isPermaLink="false">2414438576</guid>
+</item>
+</channel>
 </rss>
