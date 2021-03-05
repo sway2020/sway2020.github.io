@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Casino Hotel by Basco81</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415580874</link>
-<description>[Building] Casino Hotel by Basco81</description>
-<guid isPermaLink="false">2415580874</guid>
+<title>[Vehicle] RUNTEC Truck by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415632971</link>
+<description>[Vehicle] RUNTEC Truck by jaijai</description>
+<guid isPermaLink="false">2415632971</guid>
+</item>
+<item>
+<title>[Building] Hennepin County Courthouse by Keith3201</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415677056</link>
+<description>[Building] Hennepin County Courthouse by Keith3201</description>
+<guid isPermaLink="false">2415677056</guid>
 </item>
 </channel>
 </rss>
