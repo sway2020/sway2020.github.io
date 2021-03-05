@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] C17A P RAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415088808</link>
+<description>[Prop] C17A P RAF by WTigerTw</description>
+<guid isPermaLink="false">2415088808</guid>
+</item>
+<item>
+<title>[Prop] C17A P1B RAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415089199</link>
+<description>[Prop] C17A P1B RAF by WTigerTw</description>
+<guid isPermaLink="false">2415089199</guid>
+</item>
+<item>
+<title>[Vehicle] C17A PSCO RAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415089371</link>
+<description>[Vehicle] C17A PSCO RAF by WTigerTw</description>
+<guid isPermaLink="false">2415089371</guid>
+</item>
+<item>
+<title>[Vehicle] C17A VCO RAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415089523</link>
+<description>[Vehicle] C17A VCO RAF by WTigerTw</description>
+<guid isPermaLink="false">2415089523</guid>
+</item>
+</channel>
 </rss>
