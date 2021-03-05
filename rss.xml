@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 2021 Volkswagen Golf GTI by LinkingDan</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414590270</link>
-<description>[Vehicle] 2021 Volkswagen Golf GTI by LinkingDan</description>
-<guid isPermaLink="false">2414590270</guid>
-</item>
-<item>
-<title>[Building] Block of Flats (P1.PCD11) by Jopy</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2414886900</link>
-<description>[Building] Block of Flats (P1.PCD11) by Jopy</description>
-<guid isPermaLink="false">2414886900</guid>
-</item>
-</channel>
+    </channel>
 </rss>
