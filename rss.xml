@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Sake brewery (酒蔵) by christinayan</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416366590</link>
-<description>[Building] Sake brewery (酒蔵) by christinayan</description>
-<guid isPermaLink="false">2416366590</guid>
+<title>[Building] II-68 Open Balcony by Putins palace!</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416273658</link>
+<description>[Building] II-68 Open Balcony by Putins palace!</description>
+<guid isPermaLink="false">2416273658</guid>
+</item>
+<item>
+<title>[Building] II-68 Glass Balcony by Putins palace!</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416274456</link>
+<description>[Building] II-68 Glass Balcony by Putins palace!</description>
+<guid isPermaLink="false">2416274456</guid>
 </item>
 </channel>
 </rss>
