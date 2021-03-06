@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde LHD - Airport Express - K320 [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416025162</link>
+<description>[Vehicle] Ryde LHD - Airport Express - K320 [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2416025162</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Airport Express - E500 [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416029869</link>
+<description>[Vehicle] Ryde LHD - Airport Express - E500 [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2416029869</guid>
+</item>
+</channel>
 </rss>
