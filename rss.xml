@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Logan Self-Drive Trucks by Jopy</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416292945</link>
-<description>[Vehicle] Logan Self-Drive Trucks by Jopy</description>
-<guid isPermaLink="false">2416292945</guid>
+<title>[Prop] Taru A (酒樽) [Prop] by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416365762</link>
+<description>[Prop] Taru A (酒樽) [Prop] by christinayan</description>
+<guid isPermaLink="false">2416365762</guid>
+</item>
+<item>
+<title>[Prop] Taru B (酒樽) [Prop] by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2416366203</link>
+<description>[Prop] Taru B (酒樽) [Prop] by christinayan</description>
+<guid isPermaLink="false">2416366203</guid>
 </item>
 </channel>
 </rss>
