@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 8-Lane Avenue without Parking by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417027550</link>
-<description>[Road] 8-Lane Avenue without Parking by Delta 5-1</description>
-<guid isPermaLink="false">2417027550</guid>
-</item>
-<item>
-<title>[Road] 8-Lane Avenue with Grass without Parking by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417029072</link>
-<description>[Road] 8-Lane Avenue with Grass without Parking by Delta 5-1</description>
-<guid isPermaLink="false">2417029072</guid>
-</item>
-<item>
-<title>[Road] 8-Lane Avenue with Trees without Parking by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417030152</link>
-<description>[Road] 8-Lane Avenue with Trees without Parking by Delta 5-1</description>
-<guid isPermaLink="false">2417030152</guid>
-</item>
-</channel>
+    </channel>
 </rss>
