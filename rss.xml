@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - LHD - E200MMC - Beach Livery [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417266158</link>
+<description>[Vehicle] Ryde - LHD - E200MMC - Beach Livery [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2417266158</guid>
+</item>
+</channel>
 </rss>
