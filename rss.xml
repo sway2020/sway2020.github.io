@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] JP Old Train Approach Indicator (not animating) 列車接近表示機 by exy94</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417625532</link>
-<description>[Prop] JP Old Train Approach Indicator (not animating) 列車接近表示機 by exy94</description>
-<guid isPermaLink="false">2417625532</guid>
-</item>
-<item>
-<title>[Vehicle] F16C VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417658758</link>
-<description>[Vehicle] F16C VWP by WTigerTw</description>
-<guid isPermaLink="false">2417658758</guid>
-</item>
-<item>
-<title>[Vehicle] F16C LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417659120</link>
-<description>[Vehicle] F16C LWP by WTigerTw</description>
-<guid isPermaLink="false">2417659120</guid>
-</item>
-</channel>
+    </channel>
 </rss>
