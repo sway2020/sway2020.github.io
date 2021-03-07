@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Hotel Casino by Basco81</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415661277</link>
-<description>[Park] Hotel Casino by Basco81</description>
-<guid isPermaLink="false">2415661277</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - Skoda30TR - Rapid Transport Livery [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417550702</link>
-<description>[Vehicle] Ryde LHD - Skoda30TR - Rapid Transport Livery [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2417550702</guid>
-</item>
-<item>
-<title>[Prop] XTrapolis 100 EMU - Props by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417572140</link>
-<description>[Prop] XTrapolis 100 EMU - Props by Zekiarsu</description>
-<guid isPermaLink="false">2417572140</guid>
-</item>
-</channel>
+    </channel>
 </rss>
