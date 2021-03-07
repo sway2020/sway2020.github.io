@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Chateau deau amélioré - Improved water tower by baptistedeterries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417441040</link>
-<description>[Building] Chateau deau amélioré - Improved water tower by baptistedeterries</description>
-<guid isPermaLink="false">2417441040</guid>
-</item>
-<item>
-<title>[Building] Sarawak State Legislative Assembly Building by xonedl</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417833018</link>
-<description>[Building] Sarawak State Legislative Assembly Building by xonedl</description>
-<guid isPermaLink="false">2417833018</guid>
-</item>
-<item>
-<title>[Building] Villa Giorgi by Mons</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2417846576</link>
-<description>[Building] Villa Giorgi by Mons</description>
-<guid isPermaLink="false">2417846576</guid>
-</item>
-</channel>
+    </channel>
 </rss>
