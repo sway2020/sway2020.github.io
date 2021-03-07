@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Corner Unit (L1 3x3) by Lemire</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2418019066</link>
+<description>[Building] Corner Unit (L1 3x3) by Lemire</description>
+<guid isPermaLink="false">2418019066</guid>
+</item>
+</channel>
 </rss>
