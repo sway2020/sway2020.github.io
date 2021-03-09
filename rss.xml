@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] MUROO Truck Prop by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2419666047</link>
+<description>[Prop] MUROO Truck Prop by jaijai</description>
+<guid isPermaLink="false">2419666047</guid>
+</item>
+<item>
+<title>[Mod Update] Network detective (for debuggin mods) - 20210309 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2152013104</link>
+<description>[Mod Update] Network detective (for debuggin mods) - 20210309 Update</description>
+<guid isPermaLink="false">2152013104-20210309</guid>
+</item>
+</channel>
 </rss>
