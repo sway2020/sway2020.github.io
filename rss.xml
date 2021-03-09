@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 白天鹅宾馆 The White Swan Hotel by HooHeeHaa</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2419700040</link>
-<description>[Building] 白天鹅宾馆 The White Swan Hotel by HooHeeHaa</description>
-<guid isPermaLink="false">2419700040</guid>
-</item>
-<item>
-<title>[Prop] GEC Z9545 Brick by PelusoNN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2419730446</link>
-<description>[Prop] GEC Z9545 Brick by PelusoNN</description>
-<guid isPermaLink="false">2419730446</guid>
-</item>
-</channel>
+    </channel>
 </rss>
