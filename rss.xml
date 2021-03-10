@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] 9x9 City Park (connectable to paths) by max_klein24</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420128716</link>
-<description>[Park] 9x9 City Park (connectable to paths) by max_klein24</description>
-<guid isPermaLink="false">2420128716</guid>
-</item>
-</channel>
+    </channel>
 </rss>
