@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Albuquerque Plaza by SvenBerlin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2419988856</link>
-<description>[Building] Albuquerque Plaza by SvenBerlin</description>
-<guid isPermaLink="false">2419988856</guid>
-</item>
-</channel>
+    </channel>
 </rss>
