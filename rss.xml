@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Fageol Coach Intercity Version by codaho</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420640351</link>
+<description>[Vehicle] Fageol Coach Intercity Version by codaho</description>
+<guid isPermaLink="false">2420640351</guid>
+</item>
+<item>
+<title>[Prop] Faegol Coach Intercity Version Prop by codaho</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420644523</link>
+<description>[Prop] Faegol Coach Intercity Version Prop by codaho</description>
+<guid isPermaLink="false">2420644523</guid>
+</item>
+</channel>
 </rss>
