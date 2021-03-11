@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Samseong-dong I-Park 103（seoul) by 76561198110834199</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2418484712</link>
-<description>[Building] Samseong-dong I-Park 103（seoul) by 76561198110834199</description>
-<guid isPermaLink="false">2418484712</guid>
-</item>
-<item>
-<title>[Prop] Metal floor Decal by Norek Beat</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421467718</link>
-<description>[Prop] Metal floor Decal by Norek Beat</description>
-<guid isPermaLink="false">2421467718</guid>
-</item>
-</channel>
+    </channel>
 </rss>
