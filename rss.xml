@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Halfpipe 1.0 by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420823518</link>
+<description>[Building] Halfpipe 1.0 by indapni</description>
+<guid isPermaLink="false">2420823518</guid>
+</item>
+<item>
+<title>[Vehicle] Dodge Panel Wagon Hearse by codaho</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420825635</link>
+<description>[Vehicle] Dodge Panel Wagon Hearse by codaho</description>
+<guid isPermaLink="false">2420825635</guid>
+</item>
+</channel>
 </rss>
