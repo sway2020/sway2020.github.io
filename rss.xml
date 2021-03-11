@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde - LHD - Ferry Shuttle - E200XLB [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421127744</link>
-<description>[Vehicle] Ryde - LHD - Ferry Shuttle - E200XLB [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2421127744</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - E200XLB - Airport Connect [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421132147</link>
-<description>[Vehicle] Ryde - E200XLB - Airport Connect [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2421132147</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - E200XLB - Airport Connect [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421133433</link>
-<description>[Vehicle] Ryde LHD - E200XLB - Airport Connect [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2421133433</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - 12.223 - Park  Ryde [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421135194</link>
-<description>[Vehicle] Ryde - 12.223 - Park  Ryde [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2421135194</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde-LHD-12.223-Park  Ryde [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421136211</link>
-<description>[Vehicle] Ryde-LHD-12.223-Park  Ryde [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2421136211</guid>
-</item>
-<item>
-<title>[Building] Ryde Bus Stop by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421143733</link>
-<description>[Building] Ryde Bus Stop by BlueThunder796</description>
-<guid isPermaLink="false">2421143733</guid>
-</item>
-</channel>
+    </channel>
 </rss>
