@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - E200XLB - YumblTV Special Livery [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2421675169</link>
+<description>[Vehicle] Ryde - E200XLB - YumblTV Special Livery [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2421675169</guid>
+</item>
+<item>
+<title>[Mod Update] Picker - 20210311 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2172488844</link>
+<description>[Mod Update] Picker - 20210311 Update</description>
+<guid isPermaLink="false">2172488844-20210311</guid>
+</item>
+</channel>
 </rss>
