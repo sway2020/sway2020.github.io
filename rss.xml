@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Barre Nose Truck [different Industries] by codaho</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2420976530</link>
-<description>[Vehicle] Barre Nose Truck [different Industries] by codaho</description>
-<guid isPermaLink="false">2420976530</guid>
-</item>
-</channel>
+    </channel>
 </rss>
