@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Cobblestone pavement Decal by Norek Beat</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422407042</link>
-<description>[Prop] Cobblestone pavement Decal by Norek Beat</description>
-<guid isPermaLink="false">2422407042</guid>
+<title>[Vehicle] MercedesE300de19TaxiBCN by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422467389</link>
+<description>[Vehicle] MercedesE300de19TaxiBCN by TecniRanger</description>
+<guid isPermaLink="false">2422467389</guid>
+</item>
+<item>
+<title>[Mod Update] Extended Asset Editor 0.5.0 - 20210312 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=800820816</link>
+<description>[Mod Update] Extended Asset Editor 0.5.0 - 20210312 Update</description>
+<guid isPermaLink="false">800820816-20210312</guid>
 </item>
 </channel>
 </rss>
