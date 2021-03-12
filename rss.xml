@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Dutch House #15 by Ploefke</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422578352</link>
-<description>[Building] Dutch House #15 by Ploefke</description>
-<guid isPermaLink="false">2422578352</guid>
-</item>
-</channel>
+    </channel>
 </rss>
