@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] 1964 Vapid Stryker by Wolf</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422862901</link>
+<description>[Vehicle] 1964 Vapid Stryker by Wolf</description>
+<guid isPermaLink="false">2422862901</guid>
+</item>
+<item>
+<title>[Vehicle] 1957 Vapid Riata by Wolf</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422892417</link>
+<description>[Vehicle] 1957 Vapid Riata by Wolf</description>
+<guid isPermaLink="false">2422892417</guid>
+</item>
+</channel>
 </rss>
