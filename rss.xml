@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Los Angeles River channel network (middle pit / straight walls ) by #Kaiserderklaus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2423644473</link>
+<description>[Road] Los Angeles River channel network (middle pit / straight walls ) by #Kaiserderklaus</description>
+<guid isPermaLink="false">2423644473</guid>
+</item>
+</channel>
 </rss>
