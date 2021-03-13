@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Hoboken Terminal Interlocking Tower by Strategy Nerd</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422702512</link>
-<description>[Building] Hoboken Terminal Interlocking Tower by Strategy Nerd</description>
-<guid isPermaLink="false">2422702512</guid>
-</item>
-<item>
-<title>[Building] Headingley Flats - Leeds, UK by Mntoes</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2422760289</link>
-<description>[Building] Headingley Flats - Leeds, UK by Mntoes</description>
-<guid isPermaLink="false">2422760289</guid>
-</item>
-</channel>
+    </channel>
 </rss>
