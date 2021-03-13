@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] SMC Durastar Mobile Stroke Unit (Ambulance) by Dying</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2423251577</link>
+<description>[Vehicle] SMC Durastar Mobile Stroke Unit (Ambulance) by Dying</description>
+<guid isPermaLink="false">2423251577</guid>
+</item>
+</channel>
 </rss>
