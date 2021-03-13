@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] MINAZUKI HOTARU by Flaymore</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2423118843</link>
-<description>[Prop] MINAZUKI HOTARU by Flaymore</description>
-<guid isPermaLink="false">2423118843</guid>
+<title>[Vehicle] EMD E8 Wabash Cannonball by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2423144100</link>
+<description>[Vehicle] EMD E8 Wabash Cannonball by Astro</description>
+<guid isPermaLink="false">2423144100</guid>
+</item>
+<item>
+<title>[Vehicle] EMD F7 Wabash Cannonball by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2423144393</link>
+<description>[Vehicle] EMD F7 Wabash Cannonball by Astro</description>
+<guid isPermaLink="false">2423144393</guid>
 </item>
 </channel>
 </rss>
