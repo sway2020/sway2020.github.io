@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] [CSPL] Public Transport Stops Modern Pack no.2 by SzaraVytra</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424380807</link>
-<description>[Prop] [CSPL] Public Transport Stops Modern Pack no.2 by SzaraVytra</description>
-<guid isPermaLink="false">2424380807</guid>
-</item>
-<item>
-<title>[Prop] [CSPL] Public Transport Stops Retro Pack no.3 by SzaraVytra</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424382132</link>
-<description>[Prop] [CSPL] Public Transport Stops Retro Pack no.3 by SzaraVytra</description>
-<guid isPermaLink="false">2424382132</guid>
-</item>
-<item>
-<title>[Prop] [CSPL] Ticket Machine by SzaraVytra</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424383703</link>
-<description>[Prop] [CSPL] Ticket Machine by SzaraVytra</description>
-<guid isPermaLink="false">2424383703</guid>
-</item>
-</channel>
+    </channel>
 </rss>
