@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] F77A P by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424257079</link>
-<description>[Prop] F77A P by WTigerTw</description>
-<guid isPermaLink="false">2424257079</guid>
-</item>
-<item>
-<title>[Prop] F77A P1B by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424257342</link>
-<description>[Prop] F77A P1B by WTigerTw</description>
-<guid isPermaLink="false">2424257342</guid>
-</item>
-<item>
-<title>[Vehicle] F77A LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424257498</link>
-<description>[Vehicle] F77A LWP by WTigerTw</description>
-<guid isPermaLink="false">2424257498</guid>
-</item>
-<item>
-<title>[Vehicle] F77A VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424257716</link>
-<description>[Vehicle] F77A VWP by WTigerTw</description>
-<guid isPermaLink="false">2424257716</guid>
-</item>
-<item>
-<title>[Vehicle] EMD E8 Missouri Pacific Passenger Train by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424264969</link>
-<description>[Vehicle] EMD E8 Missouri Pacific Passenger Train by Astro</description>
-<guid isPermaLink="false">2424264969</guid>
-</item>
-</channel>
+    </channel>
 </rss>
