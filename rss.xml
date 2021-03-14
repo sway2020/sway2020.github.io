@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Audi A3·2009 by TecniRanger</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424088665</link>
+<description>[Vehicle] Audi A3·2009 by TecniRanger</description>
+<guid isPermaLink="false">2424088665</guid>
+</item>
+<item>
+<title>[Park] 6x9 Grid City Park (connectable) by max_klein24</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424101858</link>
+<description>[Park] 6x9 Grid City Park (connectable) by max_klein24</description>
+<guid isPermaLink="false">2424101858</guid>
+</item>
+</channel>
 </rss>
