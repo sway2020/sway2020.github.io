@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] BKM-333 Syabar 11 / БКМ-333 Сябар 11 by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2424593897</link>
+<description>[Vehicle] BKM-333 Syabar 11 / БКМ-333 Сябар 11 by Oleg Faktor</description>
+<guid isPermaLink="false">2424593897</guid>
+</item>
+<item>
+<title>[Vehicle] ZiU-620520 / ЗиУ-620520 by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2425429349</link>
+<description>[Vehicle] ZiU-620520 / ЗиУ-620520 by Oleg Faktor</description>
+<guid isPermaLink="false">2425429349</guid>
+</item>
+</channel>
 </rss>
