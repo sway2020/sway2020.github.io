@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Chongqing World Financial Center 2.0 by RyanCat</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2425418202</link>
+<description>[Building] Chongqing World Financial Center 2.0 by RyanCat</description>
+<guid isPermaLink="false">2425418202</guid>
+</item>
+</channel>
 </rss>
