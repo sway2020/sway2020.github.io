@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] CNW E7 and E8 Props by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2425291000</link>
-<description>[Prop] CNW E7 and E8 Props by Astro</description>
-<guid isPermaLink="false">2425291000</guid>
-</item>
-</channel>
+    </channel>
 </rss>
