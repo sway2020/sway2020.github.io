@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] EMC AA MoPac Delta Eagle by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2426256905</link>
-<description>[Vehicle] EMC AA MoPac Delta Eagle by Astro</description>
-<guid isPermaLink="false">2426256905</guid>
-</item>
-</channel>
+    </channel>
 </rss>
