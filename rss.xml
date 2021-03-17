@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] UK Props - Table  Chairs #1 by rik4000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427272424</link>
+<description>[Prop] UK Props - Table  Chairs #1 by rik4000</description>
+<guid isPermaLink="false">2427272424</guid>
+</item>
+<item>
+<title>[Mod Update] Realistic Population 2 PUBLIC BETA - 20210317 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2243670411</link>
+<description>[Mod Update] Realistic Population 2 PUBLIC BETA - 20210317 Update</description>
+<guid isPermaLink="false">2243670411-20210317</guid>
+</item>
+</channel>
 </rss>
