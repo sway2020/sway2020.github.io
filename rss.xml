@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 日本中型公寓B（ミディアムアパートメント  B） by curr66</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427138794</link>
-<description>[Building] 日本中型公寓B（ミディアムアパートメント  B） by curr66</description>
-<guid isPermaLink="false">2427138794</guid>
-</item>
-<item>
-<title>[Building] Tacking Point Lighthouse by Robert</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427147606</link>
-<description>[Building] Tacking Point Lighthouse by Robert</description>
-<guid isPermaLink="false">2427147606</guid>
-</item>
-</channel>
+    </channel>
 </rss>
