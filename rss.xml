@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Urban abstract pattern Decal 1 by Norek Beat</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427813276</link>
-<description>[Prop] Urban abstract pattern Decal 1 by Norek Beat</description>
-<guid isPermaLink="false">2427813276</guid>
+<title>[Prop] Berlin cobblestone decal by Norek Beat</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427812720</link>
+<description>[Prop] Berlin cobblestone decal by Norek Beat</description>
+<guid isPermaLink="false">2427812720</guid>
+</item>
+<item>
+<title>[Mod Update] TollPriceIncreaserMod - 20210317 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2152662763</link>
+<description>[Mod Update] TollPriceIncreaserMod - 20210317 Update</description>
+<guid isPermaLink="false">2152662763-20210317</guid>
 </item>
 </channel>
 </rss>
