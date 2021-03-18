@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Taxi Aveo Puebla Pro by y0rxhd3x</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2428491109</link>
-<description>[Vehicle] Taxi Aveo Puebla Pro by y0rxhd3x</description>
-<guid isPermaLink="false">2428491109</guid>
-</item>
-<item>
-<title>[Vehicle] Patrulla Militar DN-III by y0rxhd3x</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2428491678</link>
-<description>[Vehicle] Patrulla Militar DN-III by y0rxhd3x</description>
-<guid isPermaLink="false">2428491678</guid>
-</item>
-<item>
-<title>[Vehicle] Mercedes Correos de México Nueva Imagen by y0rxhd3x</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2428492399</link>
-<description>[Vehicle] Mercedes Correos de México Nueva Imagen by y0rxhd3x</description>
-<guid isPermaLink="false">2428492399</guid>
-</item>
-<item>
-<title>[Vehicle] Camion Correos de México Nueva Imagen by y0rxhd3x</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2428492889</link>
-<description>[Vehicle] Camion Correos de México Nueva Imagen by y0rxhd3x</description>
-<guid isPermaLink="false">2428492889</guid>
-</item>
-<item>
-<title>[Vehicle] Taxi Aveo Texcoco by y0rxhd3x</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2428493469</link>
-<description>[Vehicle] Taxi Aveo Texcoco by y0rxhd3x</description>
-<guid isPermaLink="false">2428493469</guid>
-</item>
-</channel>
+    </channel>
 </rss>
