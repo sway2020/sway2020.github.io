@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Train Station modular, freely placeable by ArkenbergeJoe</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2427645148</link>
-<description>[Building] Train Station modular, freely placeable by ArkenbergeJoe</description>
-<guid isPermaLink="false">2427645148</guid>
-</item>
-<item>
-<title>[Building] Soviet Palace of Sports by Brammered</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429477114</link>
-<description>[Building] Soviet Palace of Sports by Brammered</description>
-<guid isPermaLink="false">2429477114</guid>
-</item>
-</channel>
+    </channel>
 </rss>
