@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Electrostraat 1917 semidetached by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429304626</link>
-<description>[Building] Electrostraat 1917 semidetached by Jass</description>
-<guid isPermaLink="false">2429304626</guid>
-</item>
-</channel>
+    </channel>
 </rss>
