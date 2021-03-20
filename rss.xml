@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Ethan Carter Dam by Ronyx69</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430222748</link>
+<description>[Prop] Ethan Carter Dam by Ronyx69</description>
+<guid isPermaLink="false">2430222748</guid>
+</item>
+<item>
+<title>[Building] 115 kv Utility Pole (Pack) [For decoration only] by marconok19</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430345569</link>
+<description>[Building] 115 kv Utility Pole (Pack) [For decoration only] by marconok19</description>
+<guid isPermaLink="false">2430345569</guid>
+</item>
+</channel>
 </rss>
