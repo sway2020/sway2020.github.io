@@ -9,10 +9,34 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Park] Park 8x1 Vanilla by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430707573</link>
-<description>[Park] Park 8x1 Vanilla by OlexX</description>
-<guid isPermaLink="false">2430707573</guid>
+<title>[Vehicle] MVG TypA-Prototype 1975 Batch, U1 Line (Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430771055</link>
+<description>[Vehicle] MVG TypA-Prototype 1975 Batch, U1 Line (Pack) by REV0</description>
+<guid isPermaLink="false">2430771055</guid>
+</item>
+<item>
+<title>[Vehicle] MVG TypA-100 1975 Batch, U7 Line (Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430772659</link>
+<description>[Vehicle] MVG TypA-100 1975 Batch, U7 Line (Pack) by REV0</description>
+<guid isPermaLink="false">2430772659</guid>
+</item>
+<item>
+<title>[Vehicle] MVG TypA-100 1975 Batch, U8 Line (Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430773843</link>
+<description>[Vehicle] MVG TypA-100 1975 Batch, U8 Line (Pack) by REV0</description>
+<guid isPermaLink="false">2430773843</guid>
+</item>
+<item>
+<title>[Vehicle] MVG TypA-200 Generic (Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430777258</link>
+<description>[Vehicle] MVG TypA-200 Generic (Pack) by REV0</description>
+<guid isPermaLink="false">2430777258</guid>
+</item>
+<item>
+<title>[Vehicle] MVG TypA-200 Generic (Train Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430778510</link>
+<description>[Vehicle] MVG TypA-200 Generic (Train Pack) by REV0</description>
+<guid isPermaLink="false">2430778510</guid>
 </item>
 </channel>
 </rss>
