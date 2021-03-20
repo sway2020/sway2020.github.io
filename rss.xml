@@ -9,16 +9,40 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Ethan Carter Dam by Ronyx69</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430222748</link>
-<description>[Prop] Ethan Carter Dam by Ronyx69</description>
-<guid isPermaLink="false">2430222748</guid>
+<title>[Building] Former Heat Transfer Station Pub by damatez</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430364659</link>
+<description>[Building] Former Heat Transfer Station Pub by damatez</description>
+<guid isPermaLink="false">2430364659</guid>
 </item>
 <item>
-<title>[Building] 115 kv Utility Pole (Pack) [For decoration only] by marconok19</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430345569</link>
-<description>[Building] 115 kv Utility Pole (Pack) [For decoration only] by marconok19</description>
-<guid isPermaLink="false">2430345569</guid>
+<title>[Building] Trafostation by damatez</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430373031</link>
+<description>[Building] Trafostation by damatez</description>
+<guid isPermaLink="false">2430373031</guid>
+</item>
+<item>
+<title>[Vehicle] F77A L by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430451123</link>
+<description>[Vehicle] F77A L by WTigerTw</description>
+<guid isPermaLink="false">2430451123</guid>
+</item>
+<item>
+<title>[Vehicle] F77A V by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2430451374</link>
+<description>[Vehicle] F77A V by WTigerTw</description>
+<guid isPermaLink="false">2430451374</guid>
+</item>
+<item>
+<title>[Mod Update] Transport Lines Manager 13.5 - 20210320 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1312767991</link>
+<description>[Mod Update] Transport Lines Manager 13.5 - 20210320 Update</description>
+<guid isPermaLink="false">1312767991-20210320</guid>
+</item>
+<item>
+<title>[Mod Update] Building Usage - 20210320 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2048266761</link>
+<description>[Mod Update] Building Usage - 20210320 Update</description>
+<guid isPermaLink="false">2048266761-20210320</guid>
 </item>
 </channel>
 </rss>
