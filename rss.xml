@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Tourismo - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429912073</link>
+<description>[Vehicle] Ryde - Tourismo - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2429912073</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Tourismo - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429913743</link>
+<description>[Vehicle] Ryde LHD - Tourismo - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2429913743</guid>
+</item>
+</channel>
 </rss>
