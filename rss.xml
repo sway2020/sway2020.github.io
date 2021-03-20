@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] JP Sannami post office-u / 三波（さんなみ）簡易郵便局 by koma</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429923281</link>
-<description>[Building] JP Sannami post office-u / 三波（さんなみ）簡易郵便局 by koma</description>
-<guid isPermaLink="false">2429923281</guid>
-</item>
-<item>
-<title>[Building] JP Sannami post office-i / 三波簡易郵便局　Industries版 by koma</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2429928159</link>
-<description>[Building] JP Sannami post office-i / 三波簡易郵便局　Industries版 by koma</description>
-<guid isPermaLink="false">2429928159</guid>
-</item>
-</channel>
+    </channel>
 </rss>
