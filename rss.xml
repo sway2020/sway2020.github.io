@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Whitehaven Mansions by Ionwind</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431524136</link>
-<description>[Building] Whitehaven Mansions by Ionwind</description>
-<guid isPermaLink="false">2431524136</guid>
-</item>
-<item>
-<title>[Building] II-32 by 4ertanex</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431739067</link>
-<description>[Building] II-32 by 4ertanex</description>
-<guid isPermaLink="false">2431739067</guid>
-</item>
-</channel>
+    </channel>
 </rss>
