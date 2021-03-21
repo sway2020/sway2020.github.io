@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Hong Kong minibus signs (green and red) by JeremyChit</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431301252</link>
+<description>[Prop] Hong Kong minibus signs (green and red) by JeremyChit</description>
+<guid isPermaLink="false">2431301252</guid>
+</item>
+<item>
+<title>[Park] UK Holiday Park - Cabin #4 by rik4000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431314763</link>
+<description>[Park] UK Holiday Park - Cabin #4 by rik4000</description>
+<guid isPermaLink="false">2431314763</guid>
+</item>
+<item>
+<title>[Park] UK Holiday Park - Cabin #5 by rik4000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431317410</link>
+<description>[Park] UK Holiday Park - Cabin #5 by rik4000</description>
+<guid isPermaLink="false">2431317410</guid>
+</item>
+<item>
+<title>[Park] UK Holiday Park - Cabin #6 by rik4000</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431319448</link>
+<description>[Park] UK Holiday Park - Cabin #6 by rik4000</description>
+<guid isPermaLink="false">2431319448</guid>
+</item>
+</channel>
 </rss>
