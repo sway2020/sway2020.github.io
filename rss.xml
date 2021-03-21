@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Kennebec Lift Bridge by Kearsarge</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431096548</link>
-<description>[Road] Kennebec Lift Bridge by Kearsarge</description>
-<guid isPermaLink="false">2431096548</guid>
-</item>
-<item>
-<title>[Road] Lift Bridge Rail by Kearsarge</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431104363</link>
-<description>[Road] Lift Bridge Rail by Kearsarge</description>
-<guid isPermaLink="false">2431104363</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - O405NH - Azure Livery [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431106382</link>
-<description>[Vehicle] Ryde - O405NH - Azure Livery [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2431106382</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - LHD - O405NH - Azure Livery [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431108942</link>
-<description>[Vehicle] Ryde - LHD - O405NH - Azure Livery [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2431108942</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - Tourliner - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431111684</link>
-<description>[Vehicle] Ryde LHD - Tourliner - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2431111684</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - Tourliner - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431113635</link>
-<description>[Vehicle] Ryde - Tourliner - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2431113635</guid>
-</item>
-</channel>
+    </channel>
 </rss>
