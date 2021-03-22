@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] 现代小区住宅楼 by 逍遥子掌门人</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432270202</link>
-<description>[Building] 现代小区住宅楼 by 逍遥子掌门人</description>
-<guid isPermaLink="false">2432270202</guid>
+<title>[Park] 3x11 Park Pathway by Lakilele</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432298314</link>
+<description>[Park] 3x11 Park Pathway by Lakilele</description>
+<guid isPermaLink="false">2432298314</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - Gillig BRT40 - Azure Livery [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432302713</link>
+<description>[Vehicle] Ryde - Gillig BRT40 - Azure Livery [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2432302713</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - LHD - Gillig BRT40 - Azure Livery [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432304547</link>
+<description>[Vehicle] Ryde - LHD - Gillig BRT40 - Azure Livery [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2432304547</guid>
 </item>
 </channel>
 </rss>
