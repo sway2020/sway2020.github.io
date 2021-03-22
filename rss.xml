@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Generic Arena by N2J</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432443519</link>
-<description>[Building] Generic Arena by N2J</description>
-<guid isPermaLink="false">2432443519</guid>
-</item>
-</channel>
+    </channel>
 </rss>
