@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] 115 kv Utility Pole (Network version) by marconok19</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432075818</link>
+<description>[Road] 115 kv Utility Pole (Network version) by marconok19</description>
+<guid isPermaLink="false">2432075818</guid>
+</item>
+</channel>
 </rss>
