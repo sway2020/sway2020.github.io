@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Wooden Bench by ccy016</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432683047</link>
+<description>[Prop] Wooden Bench by ccy016</description>
+<guid isPermaLink="false">2432683047</guid>
+</item>
+<item>
+<title>[Building] metro_tower _ _ _ korea_seoul  _ _ yunseul by yunseul</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432688027</link>
+<description>[Building] metro_tower _ _ _ korea_seoul  _ _ yunseul by yunseul</description>
+<guid isPermaLink="false">2432688027</guid>
+</item>
+<item>
+<title>[Vehicle] Skoda Octavia III Combi by [FR]Charlieco89</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432706481</link>
+<description>[Vehicle] Skoda Octavia III Combi by [FR]Charlieco89</description>
+<guid isPermaLink="false">2432706481</guid>
+</item>
+<item>
+<title>[Prop] Skoda Octavia III Combi Props by [FR]Charlieco89</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432707582</link>
+<description>[Prop] Skoda Octavia III Combi Props by [FR]Charlieco89</description>
+<guid isPermaLink="false">2432707582</guid>
+</item>
+</channel>
 </rss>
