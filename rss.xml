@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Sydney Trains Chopper C Set - (8 Car Version) by JenperTC</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432287073</link>
+<description>[Vehicle] Sydney Trains Chopper C Set - (8 Car Version) by JenperTC</description>
+<guid isPermaLink="false">2432287073</guid>
+</item>
+<item>
+<title>[Vehicle] Sydney Trains Chopper C Set - (4-Car Version) by JenperTC</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432291511</link>
+<description>[Vehicle] Sydney Trains Chopper C Set - (4-Car Version) by JenperTC</description>
+<guid isPermaLink="false">2432291511</guid>
+</item>
+<item>
+<title>[Building] Rural Small Cargo Airport by Basco81</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432363301</link>
+<description>[Building] Rural Small Cargo Airport by Basco81</description>
+<guid isPermaLink="false">2432363301</guid>
+</item>
+<item>
+<title>[Prop] Spanish Highway Signs + PO Fonts by Murie</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432393294</link>
+<description>[Prop] Spanish Highway Signs + PO Fonts by Murie</description>
+<guid isPermaLink="false">2432393294</guid>
+</item>
+</channel>
 </rss>
