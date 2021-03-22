@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] The Mister Rogers Neighborhood Television House by DarKnight</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432709859</link>
-<description>[Building] The Mister Rogers Neighborhood Television House by DarKnight</description>
-<guid isPermaLink="false">2432709859</guid>
-</item>
-<item>
-<title>[Building] Rogers Centre - Toronto (Dome Closed) by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432728088</link>
-<description>[Building] Rogers Centre - Toronto (Dome Closed) by luminou</description>
-<guid isPermaLink="false">2432728088</guid>
-</item>
-<item>
-<title>[Building] Rogers Centre - Toronto (Dome Open) by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2432729565</link>
-<description>[Building] Rogers Centre - Toronto (Dome Open) by luminou</description>
-<guid isPermaLink="false">2432729565</guid>
-</item>
-</channel>
+    </channel>
 </rss>
