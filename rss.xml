@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Tree] European White Elm by MrMaison</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433508757</link>
+<description>[Tree] European White Elm by MrMaison</description>
+<guid isPermaLink="false">2433508757</guid>
+</item>
+</channel>
 </rss>
