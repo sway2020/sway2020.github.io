@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Southern Railways Southerner Props by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433108958</link>
-<description>[Prop] Southern Railways Southerner Props by Astro</description>
-<guid isPermaLink="false">2433108958</guid>
-</item>
-<item>
-<title>[Vehicle] EMD E6 Southern Railway Southerner by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433109235</link>
-<description>[Vehicle] EMD E6 Southern Railway Southerner by Astro</description>
-<guid isPermaLink="false">2433109235</guid>
-</item>
-</channel>
+    </channel>
 </rss>
