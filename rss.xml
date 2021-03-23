@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Ryde - Rivercat - Azure Livery - Prop by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433213528</link>
+<description>[Prop] Ryde - Rivercat - Azure Livery - Prop by BlueThunder796</description>
+<guid isPermaLink="false">2433213528</guid>
+</item>
+<item>
+<title>[Building] Stadtbahnhof Hackescher Markt by jens</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433223796</link>
+<description>[Building] Stadtbahnhof Hackescher Markt by jens</description>
+<guid isPermaLink="false">2433223796</guid>
+</item>
+<item>
+<title>[Mod Update] Ploppable RICO Revisited 2.4.2 - 20210323 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2016920607</link>
+<description>[Mod Update] Ploppable RICO Revisited 2.4.2 - 20210323 Update</description>
+<guid isPermaLink="false">2016920607-20210323</guid>
+</item>
+</channel>
 </rss>
