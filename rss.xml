@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Kurfürstendamm 59-60 (RICO) by jens</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2433278100</link>
-<description>[Building] Kurfürstendamm 59-60 (RICO) by jens</description>
-<guid isPermaLink="false">2433278100</guid>
-</item>
-</channel>
+    </channel>
 </rss>
