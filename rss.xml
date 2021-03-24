@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Custom Milestones - 20210324 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=534440333</link>
+<description>[Mod Update] Custom Milestones - 20210324 Update</description>
+<guid isPermaLink="false">534440333-20210324</guid>
+</item>
+</channel>
 </rss>
