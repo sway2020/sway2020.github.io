@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] MRTC 3100 Class LRV 3+3+3 3 Car set by GilbertRoyAlva by GilbertRoyAlva</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431251005</link>
+<description>[Vehicle] MRTC 3100 Class LRV 3+3+3 3 Car set by GilbertRoyAlva by GilbertRoyAlva</description>
+<guid isPermaLink="false">2431251005</guid>
+</item>
+<item>
+<title>[Vehicle] MRTC 3100 Class LRV 3+3+3+3 3 Car set by GilbertRoyAlva by GilbertRoyAlva</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2431252154</link>
+<description>[Vehicle] MRTC 3100 Class LRV 3+3+3+3 3 Car set by GilbertRoyAlva by GilbertRoyAlva</description>
+<guid isPermaLink="false">2431252154</guid>
+</item>
+<item>
+<title>[Building] Bar Sportivo by Gilded Age</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2434281151</link>
+<description>[Building] Bar Sportivo by Gilded Age</description>
+<guid isPermaLink="false">2434281151</guid>
+</item>
+</channel>
 </rss>
