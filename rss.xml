@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Burlington Route Nightcrawler Props by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2434045460</link>
+<description>[Prop] Burlington Route Nightcrawler Props by Astro</description>
+<guid isPermaLink="false">2434045460</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E5 Nightcrawler Burlington Route by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2434045824</link>
+<description>[Vehicle] EMD E5 Nightcrawler Burlington Route by Astro</description>
+<guid isPermaLink="false">2434045824</guid>
+</item>
+</channel>
 </rss>
