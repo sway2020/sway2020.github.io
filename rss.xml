@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Ryde Bus Stop [Alternate] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2435513708</link>
+<description>[Building] Ryde Bus Stop [Alternate] by BlueThunder796</description>
+<guid isPermaLink="false">2435513708</guid>
+</item>
+</channel>
 </rss>
