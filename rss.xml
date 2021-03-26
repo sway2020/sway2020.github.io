@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Solaris Urbino 12 Mk2 by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436008860</link>
+<description>[Vehicle] Solaris Urbino 12 Mk2 by Oleg Faktor</description>
+<guid isPermaLink="false">2436008860</guid>
+</item>
+<item>
+<title>[Vehicle] Solaris Urbino 15 Mk2 by Oleg Faktor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436009237</link>
+<description>[Vehicle] Solaris Urbino 15 Mk2 by Oleg Faktor</description>
+<guid isPermaLink="false">2436009237</guid>
+</item>
+<item>
+<title>[Vehicle] Daelim Citi Ace II by ahiu00102</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436274796</link>
+<description>[Vehicle] Daelim Citi Ace II by ahiu00102</description>
+<guid isPermaLink="false">2436274796</guid>
+</item>
+</channel>
 </rss>
