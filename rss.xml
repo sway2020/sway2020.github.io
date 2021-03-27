@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Cable Car - Azure [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437131748</link>
+<description>[Vehicle] Ryde - Cable Car - Azure [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2437131748</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Cable Car - Azure [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437132516</link>
+<description>[Vehicle] Ryde LHD - Cable Car - Azure [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2437132516</guid>
+</item>
+</channel>
 </rss>
