@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 三田ネクサスビル ８階 by curr66</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436958431</link>
-<description>[Building] 三田ネクサスビル ８階 by curr66</description>
-<guid isPermaLink="false">2436958431</guid>
-</item>
-</channel>
+    </channel>
 </rss>
