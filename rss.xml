@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Deutsche Bahn ICE 3 Europa (Prop Pack) by REV0</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437439778</link>
-<description>[Prop] Deutsche Bahn ICE 3 Europa (Prop Pack) by REV0</description>
-<guid isPermaLink="false">2437439778</guid>
-</item>
-<item>
-<title>[Prop] NS/DBAG ICE 3 Amsterdam (Prop Pack) by REV0</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437441051</link>
-<description>[Prop] NS/DBAG ICE 3 Amsterdam (Prop Pack) by REV0</description>
-<guid isPermaLink="false">2437441051</guid>
-</item>
-<item>
-<title>[Vehicle] Opel Astra Nordland Police Force by Cheezime</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437441415</link>
-<description>[Vehicle] Opel Astra Nordland Police Force by Cheezime</description>
-<guid isPermaLink="false">2437441415</guid>
-</item>
-<item>
-<title>[Prop] Opel Astra Nordland Police Force Prop by Cheezime</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437443512</link>
-<description>[Prop] Opel Astra Nordland Police Force Prop by Cheezime</description>
-<guid isPermaLink="false">2437443512</guid>
-</item>
-</channel>
+    </channel>
 </rss>
