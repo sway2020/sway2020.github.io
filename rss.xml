@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Fyrkat Ivar by macluk</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436687457</link>
-<description>[Building] Fyrkat Ivar by macluk</description>
-<guid isPermaLink="false">2436687457</guid>
-</item>
-<item>
-<title>[Prop] Metra Prop Pack by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436738124</link>
-<description>[Prop] Metra Prop Pack by Astro</description>
-<guid isPermaLink="false">2436738124</guid>
-</item>
-<item>
-<title>[Vehicle] EMD F40PH Metra Commuter by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436738551</link>
-<description>[Vehicle] EMD F40PH Metra Commuter by Astro</description>
-<guid isPermaLink="false">2436738551</guid>
-</item>
-<item>
-<title>[Prop] US Navy Flag (Waving) by Actiaeon</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2436739525</link>
-<description>[Prop] US Navy Flag (Waving) by Actiaeon</description>
-<guid isPermaLink="false">2436739525</guid>
-</item>
-</channel>
+    </channel>
 </rss>
