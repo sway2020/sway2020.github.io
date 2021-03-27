@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Entergy 138kv Pack by dphinton2003</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437695531</link>
-<description>[Road] Entergy 138kv Pack by dphinton2003</description>
-<guid isPermaLink="false">2437695531</guid>
-</item>
-<item>
-<title>[Road] Entergy 138 kv Concrete Monopole Pack by dphinton2003</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437722036</link>
-<description>[Road] Entergy 138 kv Concrete Monopole Pack by dphinton2003</description>
-<guid isPermaLink="false">2437722036</guid>
-</item>
-</channel>
+    </channel>
 </rss>
