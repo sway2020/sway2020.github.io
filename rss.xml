@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde - VW T6 Taxi - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438503736</link>
-<description>[Vehicle] Ryde - VW T6 Taxi - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2438503736</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - Toyota Prius Taxi - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438509144</link>
-<description>[Vehicle] Ryde - Toyota Prius Taxi - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2438509144</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - Honda Civic Taxi - Azure Livery by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438513081</link>
-<description>[Vehicle] Ryde - Honda Civic Taxi - Azure Livery by BlueThunder796</description>
-<guid isPermaLink="false">2438513081</guid>
-</item>
-<item>
-<title>[Road] New RTW Fence [BETA] by PelusoNN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438515374</link>
-<description>[Road] New RTW Fence [BETA] by PelusoNN</description>
-<guid isPermaLink="false">2438515374</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - B40 Coaster - Azure Livery [RHD/LHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438538430</link>
-<description>[Vehicle] Ryde - B40 Coaster - Azure Livery [RHD/LHT] by BlueThunder796</description>
-<guid isPermaLink="false">2438538430</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde - LHD - B40 Coaster - Azure Livery [LHD/RHT] by BlueThunder796</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438541043</link>
-<description>[Vehicle] Ryde - LHD - B40 Coaster - Azure Livery [LHD/RHT] by BlueThunder796</description>
-<guid isPermaLink="false">2438541043</guid>
-</item>
-</channel>
+    </channel>
 </rss>
