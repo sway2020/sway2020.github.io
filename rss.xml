@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] 小区蓝色围栏 by 红米</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438110805</link>
+<description>[Road] 小区蓝色围栏 by 红米</description>
+<guid isPermaLink="false">2438110805</guid>
+</item>
+</channel>
 </rss>
