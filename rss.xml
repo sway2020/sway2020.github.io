@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] General purpose asset pack vol.05 by 001HANNO</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2437217759</link>
-<description>[Building] General purpose asset pack vol.05 by 001HANNO</description>
-<guid isPermaLink="false">2437217759</guid>
+<title>[Vehicle] Volvo FH 4x2 Tipper (Ore) by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438217331</link>
+<description>[Vehicle] Volvo FH 4x2 Tipper (Ore) by ron_fu-ta</description>
+<guid isPermaLink="false">2438217331</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - OH 1626 - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438240377</link>
+<description>[Vehicle] Ryde - OH 1626 - Intercity - Azure Livery [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2438240377</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - OH 1626 - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438240886</link>
+<description>[Vehicle] Ryde LHD - OH 1626 - Intercity - Azure Livery [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2438240886</guid>
 </item>
 </channel>
 </rss>
