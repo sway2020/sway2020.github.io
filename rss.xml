@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Graffiti 149 by Krimssone</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2438864741</link>
+<description>[Prop] Graffiti 149 by Krimssone</description>
+<guid isPermaLink="false">2438864741</guid>
+</item>
+</channel>
 </rss>
