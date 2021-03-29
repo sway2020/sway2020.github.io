@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Minimalistic House E (RICO) by Pixel_monster</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2439516042</link>
-<description>[Building] Minimalistic House E (RICO) by Pixel_monster</description>
-<guid isPermaLink="false">2439516042</guid>
-</item>
-</channel>
+    </channel>
 </rss>
