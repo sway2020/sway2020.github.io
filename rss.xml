@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] XBRT Bus - XMQ6127G by Streamer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2439888066</link>
-<description>[Vehicle] XBRT Bus - XMQ6127G by Streamer</description>
-<guid isPermaLink="false">2439888066</guid>
-</item>
-</channel>
+    </channel>
 </rss>
