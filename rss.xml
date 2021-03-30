@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Macluk wooden park bench A by macluk</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440968679</link>
-<description>[Park] Macluk wooden park bench A by macluk</description>
-<guid isPermaLink="false">2440968679</guid>
-</item>
-<item>
-<title>[Building] Mercedes-Benz Arena - Berlin by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440991849</link>
-<description>[Building] Mercedes-Benz Arena - Berlin by luminou</description>
-<guid isPermaLink="false">2440991849</guid>
-</item>
-</channel>
+    </channel>
 </rss>
