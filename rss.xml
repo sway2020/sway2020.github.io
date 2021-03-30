@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Cobblestone Retaining Wall by sebnichols</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440496243</link>
+<description>[Road] Cobblestone Retaining Wall by sebnichols</description>
+<guid isPermaLink="false">2440496243</guid>
+</item>
+</channel>
 </rss>
