@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] 天下为公横匾 Plaque “The whole world as one community by HooHeeHaa</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440688156</link>
+<description>[Prop] 天下为公横匾 Plaque “The whole world as one community by HooHeeHaa</description>
+<guid isPermaLink="false">2440688156</guid>
+</item>
+<item>
+<title>[Building] [EB31Xh8] type3 Elevated Extension module by konfox0527</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440707174</link>
+<description>[Building] [EB31Xh8] type3 Elevated Extension module by konfox0527</description>
+<guid isPermaLink="false">2440707174</guid>
+</item>
+</channel>
 </rss>
