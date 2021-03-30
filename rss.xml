@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Vanilla Sound Barrier by PastaGaming</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440716011</link>
-<description>[Road] Vanilla Sound Barrier by PastaGaming</description>
-<guid isPermaLink="false">2440716011</guid>
-</item>
-<item>
-<title>[Building] NZ Masterton train station by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440743959</link>
-<description>[Building] NZ Masterton train station by AliTarGz</description>
-<guid isPermaLink="false">2440743959</guid>
-</item>
-<item>
-<title>[Building] Brazilian Home 5 by Redoze</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2440758843</link>
-<description>[Building] Brazilian Home 5 by Redoze</description>
-<guid isPermaLink="false">2440758843</guid>
-</item>
-</channel>
+    </channel>
 </rss>
