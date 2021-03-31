@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Plattenbau Berlin QP71-10 No.1 by MeisterMonis</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441624043</link>
-<description>[Building] Plattenbau Berlin QP71-10 No.1 by MeisterMonis</description>
-<guid isPermaLink="false">2441624043</guid>
-</item>
-</channel>
+    </channel>
 </rss>
