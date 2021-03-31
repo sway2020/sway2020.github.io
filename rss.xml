@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] EMD F40PH Metra Commuter 2015 Scheme by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441387018</link>
-<description>[Vehicle] EMD F40PH Metra Commuter 2015 Scheme by Astro</description>
-<guid isPermaLink="false">2441387018</guid>
-</item>
-<item>
-<title>[Tree] Western Redcedar Pack Remastered by Greyflame</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441391280</link>
-<description>[Tree] Western Redcedar Pack Remastered by Greyflame</description>
-<guid isPermaLink="false">2441391280</guid>
-</item>
-</channel>
+    </channel>
 </rss>
