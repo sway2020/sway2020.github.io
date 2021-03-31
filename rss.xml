@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] P-51D-20 Dakota by EvametryE</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441944136</link>
+<description>[Vehicle] P-51D-20 Dakota by EvametryE</description>
+<guid isPermaLink="false">2441944136</guid>
+</item>
+</channel>
 </rss>
