@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - E500 - Intercity -  MegaRyde [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441471395</link>
+<description>[Vehicle] Ryde - E500 - Intercity -  MegaRyde [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2441471395</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - E500 - Intercity - MegaRyde [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2441473229</link>
+<description>[Vehicle] Ryde LHD - E500 - Intercity - MegaRyde [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2441473229</guid>
+</item>
+</channel>
 </rss>
