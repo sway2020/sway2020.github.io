@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Scrolling Billboard Pack by indapni</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443125206</link>
-<description>[Prop] Scrolling Billboard Pack by indapni</description>
-<guid isPermaLink="false">2443125206</guid>
-</item>
-<item>
-<title>[Building] PACK : Mercedes-Benz Arena Campus +  MBA Campus [DLC Campus] by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443126644</link>
-<description>[Building] PACK : Mercedes-Benz Arena Campus +  MBA Campus [DLC Campus] by luminou</description>
-<guid isPermaLink="false">2443126644</guid>
-</item>
-</channel>
+    </channel>
 </rss>
