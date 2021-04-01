@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Citizen] Chubby Lucoa Citizen and Props by stockjr97</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2442737408</link>
-<description>[Citizen] Chubby Lucoa Citizen and Props by stockjr97</description>
-<guid isPermaLink="false">2442737408</guid>
-</item>
-<item>
-<title>[Building] NZ Featherston train station by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2442748089</link>
-<description>[Building] NZ Featherston train station by AliTarGz</description>
-<guid isPermaLink="false">2442748089</guid>
-</item>
-<item>
-<title>[Building] Medium Office 1 by Keith3201</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2442773732</link>
-<description>[Building] Medium Office 1 by Keith3201</description>
-<guid isPermaLink="false">2442773732</guid>
-</item>
-</channel>
+    </channel>
 </rss>
