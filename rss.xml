@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] PTV Volgren Optimus - Transdev Expansion Pack by Zekiarsu</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443501446</link>
+<description>[Vehicle] PTV Volgren Optimus - Transdev Expansion Pack by Zekiarsu</description>
+<guid isPermaLink="false">2443501446</guid>
+</item>
+<item>
+<title>[Prop] Ryde LHD Prop Pack - Azure Livery by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443514981</link>
+<description>[Prop] Ryde LHD Prop Pack - Azure Livery by BlueThunder796</description>
+<guid isPermaLink="false">2443514981</guid>
+</item>
+</channel>
 </rss>
