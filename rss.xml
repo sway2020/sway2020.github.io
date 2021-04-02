@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Berlin Type font for Procedural Objects by Himmelslinien</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443979455</link>
-<description>[Prop] Berlin Type font for Procedural Objects by Himmelslinien</description>
-<guid isPermaLink="false">2443979455</guid>
-</item>
-<item>
-<title>[Building] Brazilian Apartment and Commerce by john tuppo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444075152</link>
-<description>[Building] Brazilian Apartment and Commerce by john tuppo</description>
-<guid isPermaLink="false">2444075152</guid>
-</item>
-<item>
-<title>[Building] Brazilian Pharmacy by john tuppo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444079045</link>
-<description>[Building] Brazilian Pharmacy by john tuppo</description>
-<guid isPermaLink="false">2444079045</guid>
-</item>
-<item>
-<title>[Mod Update] Building Usage - 20210402 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2048266761</link>
-<description>[Mod Update] Building Usage - 20210402 Update</description>
-<guid isPermaLink="false">2048266761-20210402</guid>
-</item>
-</channel>
+    </channel>
 </rss>
