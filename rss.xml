@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Spartan Diamond Chassis Skylines Fire Hazmat Response by outstandinggamer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443281596</link>
-<description>[Vehicle] Spartan Diamond Chassis Skylines Fire Hazmat Response by outstandinggamer</description>
-<guid isPermaLink="false">2443281596</guid>
-</item>
-<item>
-<title>[Building] Doomsday Suburbs by indapni</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443294436</link>
-<description>[Building] Doomsday Suburbs by indapni</description>
-<guid isPermaLink="false">2443294436</guid>
-</item>
-</channel>
+    </channel>
 </rss>
