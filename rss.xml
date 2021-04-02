@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] NZ Datacom office by AliTarGz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443859369</link>
+<description>[Building] NZ Datacom office by AliTarGz</description>
+<guid isPermaLink="false">2443859369</guid>
+</item>
+<item>
+<title>[Park] Macluk wooden park bench B by macluk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443867514</link>
+<description>[Park] Macluk wooden park bench B by macluk</description>
+<guid isPermaLink="false">2443867514</guid>
+</item>
+<item>
+<title>[Building] Birchmount Garage by JSF-1</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443881810</link>
+<description>[Building] Birchmount Garage by JSF-1</description>
+<guid isPermaLink="false">2443881810</guid>
+</item>
+<item>
+<title>[Mod Update] Python Console - 20210402 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2415465635</link>
+<description>[Mod Update] Python Console - 20210402 Update</description>
+<guid isPermaLink="false">2415465635-20210402</guid>
+</item>
+</channel>
 </rss>
