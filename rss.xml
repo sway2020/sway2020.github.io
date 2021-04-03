@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Ryde Building Signage - International Airport by Nochin98</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444499791</link>
+<description>[Prop] Ryde Building Signage - International Airport by Nochin98</description>
+<guid isPermaLink="false">2444499791</guid>
+</item>
+<item>
+<title>[Mod] Catenary Replacer Updated by cylis</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444511901</link>
+<description>[Mod] Catenary Replacer Updated by cylis</description>
+<guid isPermaLink="false">2444511901</guid>
+</item>
+</channel>
 </rss>
