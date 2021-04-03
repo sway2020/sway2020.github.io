@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Opel Astra J Kantonspolizei Bergbar by Cheezime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445016581</link>
+<description>[Vehicle] Opel Astra J Kantonspolizei Bergbar by Cheezime</description>
+<guid isPermaLink="false">2445016581</guid>
+</item>
+<item>
+<title>[Prop] Opel Astra J Kantonspolizei Bergbar Prop by Cheezime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445018438</link>
+<description>[Prop] Opel Astra J Kantonspolizei Bergbar Prop by Cheezime</description>
+<guid isPermaLink="false">2445018438</guid>
+</item>
+<item>
+<title>[Park] ÖBB 1116 (Parked) by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445057817</link>
+<description>[Park] ÖBB 1116 (Parked) by ron_fu-ta</description>
+<guid isPermaLink="false">2445057817</guid>
+</item>
+</channel>
 </rss>
