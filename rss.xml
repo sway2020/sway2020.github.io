@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Soviet Navy Cruiser Lazo by Umi_Cyrus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445213231</link>
+<description>[Building] Soviet Navy Cruiser Lazo by Umi_Cyrus</description>
+<guid isPermaLink="false">2445213231</guid>
+</item>
+<item>
+<title>[Vehicle] Spartan Diamond Chassis Skylines Fire Heavy Rescue by outstandinggamer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445243071</link>
+<description>[Vehicle] Spartan Diamond Chassis Skylines Fire Heavy Rescue by outstandinggamer</description>
+<guid isPermaLink="false">2445243071</guid>
+</item>
+</channel>
 </rss>
