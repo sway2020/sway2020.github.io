@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Shachimaru Schleier ES0A by Tommy V Kochiya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444623766</link>
-<description>[Vehicle] Shachimaru Schleier ES0A by Tommy V Kochiya</description>
-<guid isPermaLink="false">2444623766</guid>
-</item>
-<item>
-<title>[Vehicle] Volvo V60 Recharged by Tommy V Kochiya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444626457</link>
-<description>[Vehicle] Volvo V60 Recharged by Tommy V Kochiya</description>
-<guid isPermaLink="false">2444626457</guid>
-</item>
-<item>
-<title>[Vehicle] Nissan MAXIMA (A36) by Tommy V Kochiya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444629070</link>
-<description>[Vehicle] Nissan MAXIMA (A36) by Tommy V Kochiya</description>
-<guid isPermaLink="false">2444629070</guid>
-</item>
-<item>
-<title>[Vehicle] HONDA : e by Tommy V Kochiya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444631124</link>
-<description>[Vehicle] HONDA : e by Tommy V Kochiya</description>
-<guid isPermaLink="false">2444631124</guid>
-</item>
-<item>
-<title>[Vehicle] Subaru Impreza Sport (GK) by Tommy V Kochiya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444633333</link>
-<description>[Vehicle] Subaru Impreza Sport (GK) by Tommy V Kochiya</description>
-<guid isPermaLink="false">2444633333</guid>
-</item>
-</channel>
+    </channel>
 </rss>
