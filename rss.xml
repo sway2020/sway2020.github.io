@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Scania P320 6x2*4 Refrigerated (Fish 2) by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445058069</link>
-<description>[Vehicle] Scania P320 6x2*4 Refrigerated (Fish 2) by ron_fu-ta</description>
-<guid isPermaLink="false">2445058069</guid>
-</item>
-<item>
-<title>[Mod Update] Intersection Marking Tool 1.7 - 20210403 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2140418403</link>
-<description>[Mod Update] Intersection Marking Tool 1.7 - 20210403 Update</description>
-<guid isPermaLink="false">2140418403-20210403</guid>
-</item>
-</channel>
+    </channel>
 </rss>
