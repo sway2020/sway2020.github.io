@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] 现代住宅楼20层 by 红米</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444824623</link>
+<description>[Building] 现代住宅楼20层 by 红米</description>
+<guid isPermaLink="false">2444824623</guid>
+</item>
+</channel>
 </rss>
