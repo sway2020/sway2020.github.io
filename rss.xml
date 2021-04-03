@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Kit Homes - Sears - The Hollywood by Bungalow Man</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444405558</link>
+<description>[Building] Kit Homes - Sears - The Hollywood by Bungalow Man</description>
+<guid isPermaLink="false">2444405558</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD Bus Pack 2 - Snowy Peaks Livery [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2444438724</link>
+<description>[Vehicle] Ryde LHD Bus Pack 2 - Snowy Peaks Livery [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2444438724</guid>
+</item>
+</channel>
 </rss>
