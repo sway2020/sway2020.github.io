@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Hangar 1938 by Jass</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445572603</link>
+<description>[Building] Hangar 1938 by Jass</description>
+<guid isPermaLink="false">2445572603</guid>
+</item>
+<item>
+<title>[Building] Modern Office Berlin by Abstract</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445599300</link>
+<description>[Building] Modern Office Berlin by Abstract</description>
+<guid isPermaLink="false">2445599300</guid>
+</item>
+</channel>
 </rss>
