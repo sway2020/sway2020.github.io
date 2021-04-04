@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Mediterranean Urba Pack 2 by High Explosive Serenade</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446047139</link>
+<description>[Building] Mediterranean Urba Pack 2 by High Explosive Serenade</description>
+<guid isPermaLink="false">2446047139</guid>
+</item>
+</channel>
 </rss>
