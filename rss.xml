@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] MH60R FI by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446441708</link>
-<description>[Vehicle] MH60R FI by WTigerTw</description>
-<guid isPermaLink="false">2446441708</guid>
-</item>
-<item>
-<title>[Prop] Fokker T.VIII-w by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446471490</link>
-<description>[Prop] Fokker T.VIII-w by Jass</description>
-<guid isPermaLink="false">2446471490</guid>
-</item>
-</channel>
+    </channel>
 </rss>
