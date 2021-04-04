@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] 安全出口指示灯 Emergency Exit Light by SteinsGateSG</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2445020555</link>
+<description>[Prop] 安全出口指示灯 Emergency Exit Light by SteinsGateSG</description>
+<guid isPermaLink="false">2445020555</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Rapid Transport Bus [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446268483</link>
+<description>[Vehicle] Ryde LHD - Rapid Transport Bus [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2446268483</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - Rapid Transport Bendy Bus [RHD/LHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446272566</link>
+<description>[Vehicle] Ryde - Rapid Transport Bendy Bus [RHD/LHT] by BlueThunder796</description>
+<guid isPermaLink="false">2446272566</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Rapid Transport Bendy Bus [LHD/RHT] by BlueThunder796</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2446275422</link>
+<description>[Vehicle] Ryde LHD - Rapid Transport Bendy Bus [LHD/RHT] by BlueThunder796</description>
+<guid isPermaLink="false">2446275422</guid>
+</item>
+</channel>
 </rss>
