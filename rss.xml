@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 2-Lane Two-Way Road with Median and Parking by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447915769</link>
-<description>[Road] 2-Lane Two-Way Road with Median and Parking by Delta 5-1</description>
-<guid isPermaLink="false">2447915769</guid>
-</item>
-<item>
-<title>[Road] 2-Lane Two-Way Road with Median without Parking by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447916595</link>
-<description>[Road] 2-Lane Two-Way Road with Median without Parking by Delta 5-1</description>
-<guid isPermaLink="false">2447916595</guid>
-</item>
-<item>
-<title>[Road] 2-Lane Two-Way Road with Median and Grass by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447917438</link>
-<description>[Road] 2-Lane Two-Way Road with Median and Grass by Delta 5-1</description>
-<guid isPermaLink="false">2447917438</guid>
-</item>
-<item>
-<title>[Road] 2-Lane Two-Way Road with Median and Trees by Delta 5-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447918327</link>
-<description>[Road] 2-Lane Two-Way Road with Median and Trees by Delta 5-1</description>
-<guid isPermaLink="false">2447918327</guid>
-</item>
-</channel>
+    </channel>
 </rss>
