@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Yakult Truck - Indonesia [Vehicle] by Maxxx</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447510435</link>
-<description>[Vehicle] Yakult Truck - Indonesia [Vehicle] by Maxxx</description>
-<guid isPermaLink="false">2447510435</guid>
+<title>[Prop] Yakult Truck - Indonesia [Prop] by Maxxx</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447510988</link>
+<description>[Prop] Yakult Truck - Indonesia [Prop] by Maxxx</description>
+<guid isPermaLink="false">2447510988</guid>
+</item>
+<item>
+<title>[Park] Franz Schubert by Don B</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2447538186</link>
+<description>[Park] Franz Schubert by Don B</description>
+<guid isPermaLink="false">2447538186</guid>
 </item>
 </channel>
 </rss>
