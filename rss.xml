@@ -9,10 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Leica Los Angeles by Stringer Bell</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448266522</link>
-<description>[Building] Leica Los Angeles by Stringer Bell</description>
-<guid isPermaLink="false">2448266522</guid>
+<title>[Building] ヒューリック三田ビル by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448288504</link>
+<description>[Building] ヒューリック三田ビル by curr66</description>
+<guid isPermaLink="false">2448288504</guid>
+</item>
+<item>
+<title>[Prop] New GEC Z9545 Brick by PelusoNN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448310416</link>
+<description>[Prop] New GEC Z9545 Brick by PelusoNN</description>
+<guid isPermaLink="false">2448310416</guid>
+</item>
+<item>
+<title>[Mod Update] Unlimited Outside Connections Revisited - 20210406 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2367735356</link>
+<description>[Mod Update] Unlimited Outside Connections Revisited - 20210406 Update</description>
+<guid isPermaLink="false">2367735356-20210406</guid>
+</item>
+<item>
+<title>[Mod Update] Repaint 1.2.2 - 20210406 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2101551127</link>
+<description>[Mod Update] Repaint 1.2.2 - 20210406 Update</description>
+<guid isPermaLink="false">2101551127-20210406</guid>
 </item>
 </channel>
 </rss>
