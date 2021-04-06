@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Quad Dorico by Quad Rioters</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448482143</link>
-<description>[Building] Quad Dorico by Quad Rioters</description>
-<guid isPermaLink="false">2448482143</guid>
-</item>
-</channel>
+    </channel>
 </rss>
