@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Ore Exploration and Drilling Rig by Basco81</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448692832</link>
+<description>[Building] Ore Exploration and Drilling Rig by Basco81</description>
+<guid isPermaLink="false">2448692832</guid>
+</item>
+<item>
+<title>[Building] Ore Extraction Drilling Rig by Basco81</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448693868</link>
+<description>[Building] Ore Extraction Drilling Rig by Basco81</description>
+<guid isPermaLink="false">2448693868</guid>
+</item>
+</channel>
 </rss>
