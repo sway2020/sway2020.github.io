@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] New RTW Fence by PelusoNN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2443737946</link>
+<description>[Road] New RTW Fence by PelusoNN</description>
+<guid isPermaLink="false">2443737946</guid>
+</item>
+<item>
+<title>[Vehicle] Volkswagen T6 Bundespolizei Österreich by Cheezime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448356763</link>
+<description>[Vehicle] Volkswagen T6 Bundespolizei Österreich by Cheezime</description>
+<guid isPermaLink="false">2448356763</guid>
+</item>
+<item>
+<title>[Prop] Volkswagen T6 Bundespolizei Österreich Prop by Cheezime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448358084</link>
+<description>[Prop] Volkswagen T6 Bundespolizei Österreich Prop by Cheezime</description>
+<guid isPermaLink="false">2448358084</guid>
+</item>
+</channel>
 </rss>
