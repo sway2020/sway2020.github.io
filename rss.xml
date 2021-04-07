@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Adam Jurkowskis Tenement House by Robal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2449263587</link>
-<description>[Building] Adam Jurkowskis Tenement House by Robal</description>
-<guid isPermaLink="false">2449263587</guid>
+<title>[Building] The Watchtower by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2449298558</link>
+<description>[Building] The Watchtower by indapni</description>
+<guid isPermaLink="false">2449298558</guid>
+</item>
+<item>
+<title>[Park] Allotment Garden by SendlokPL</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2449304657</link>
+<description>[Park] Allotment Garden by SendlokPL</description>
+<guid isPermaLink="false">2449304657</guid>
 </item>
 </channel>
 </rss>
