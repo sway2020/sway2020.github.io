@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod] Yet Another Toolbar [TEST] by sway</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448994345</link>
-<description>[Mod] Yet Another Toolbar [TEST] by sway</description>
-<guid isPermaLink="false">2448994345</guid>
+<title>[Mod Update] Find It! 2 - 20210406 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2133885971</link>
+<description>[Mod Update] Find It! 2 - 20210406 Update</description>
+<guid isPermaLink="false">2133885971-20210406</guid>
+</item>
+<item>
+<title>[Mod Update] Lifecycle Rebalance Revisited 1.5.2 - 20210406 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2027161563</link>
+<description>[Mod Update] Lifecycle Rebalance Revisited 1.5.2 - 20210406 Update</description>
+<guid isPermaLink="false">2027161563-20210406</guid>
 </item>
 </channel>
 </rss>
