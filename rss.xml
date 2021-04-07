@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Adam Jurkowskis Tenement House by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2449263587</link>
+<description>[Building] Adam Jurkowskis Tenement House by Robal</description>
+<guid isPermaLink="false">2449263587</guid>
+</item>
+</channel>
 </rss>
