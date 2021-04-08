@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Cottesloe beach ocean pylon by Cyber Scythe X</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450778417</link>
-<description>[Prop] Cottesloe beach ocean pylon by Cyber Scythe X</description>
-<guid isPermaLink="false">2450778417</guid>
+<title>[Building] Puerta de Europa Este (Madrid) by Armesto</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450809456</link>
+<description>[Building] Puerta de Europa Este (Madrid) by Armesto</description>
+<guid isPermaLink="false">2450809456</guid>
+</item>
+<item>
+<title>[Building] Puerta de Europa Oeste (Madrid) by Armesto</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450810544</link>
+<description>[Building] Puerta de Europa Oeste (Madrid) by Armesto</description>
+<guid isPermaLink="false">2450810544</guid>
 </item>
 </channel>
 </rss>
