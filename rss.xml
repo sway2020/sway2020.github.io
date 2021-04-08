@@ -8,5 +8,41 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] JNR/JRE 485 Series (6Cars) by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450153336</link>
+<description>[Vehicle] JNR/JRE 485 Series (6Cars) by Chitoge</description>
+<guid isPermaLink="false">2450153336</guid>
+</item>
+<item>
+<title>[Vehicle] JNR/JRE 485 Series (9Cars) by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450153726</link>
+<description>[Vehicle] JNR/JRE 485 Series (9Cars) by Chitoge</description>
+<guid isPermaLink="false">2450153726</guid>
+</item>
+<item>
+<title>[Vehicle] JNR/JRE 485 Series: Kami-Nuttari Livery by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450154110</link>
+<description>[Vehicle] JNR/JRE 485 Series: Kami-Nuttari Livery by Chitoge</description>
+<guid isPermaLink="false">2450154110</guid>
+</item>
+<item>
+<title>[Vehicle] JNR/JRK 485 Series (3Cars) by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450154406</link>
+<description>[Vehicle] JNR/JRK 485 Series (3Cars) by Chitoge</description>
+<guid isPermaLink="false">2450154406</guid>
+</item>
+<item>
+<title>[Vehicle] JNR/JRK 485 Series (3+5Cars) by Chitoge</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450154689</link>
+<description>[Vehicle] JNR/JRK 485 Series (3+5Cars) by Chitoge</description>
+<guid isPermaLink="false">2450154689</guid>
+</item>
+<item>
+<title>[Building] Laika Monument by Brammered</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2450193986</link>
+<description>[Building] Laika Monument by Brammered</description>
+<guid isPermaLink="false">2450193986</guid>
+</item>
+</channel>
 </rss>
