@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Puffed Star II - Museo do Amanha, Rio - sculpture by crmaro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2451656316</link>
+<description>[Prop] Puffed Star II - Museo do Amanha, Rio - sculpture by crmaro</description>
+<guid isPermaLink="false">2451656316</guid>
+</item>
+</channel>
 </rss>
