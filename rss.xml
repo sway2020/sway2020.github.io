@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 千葉都市モノレール0形 アーバンフライヤー by shibakata</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2451381828</link>
-<description>[Vehicle] 千葉都市モノレール0形 アーバンフライヤー by shibakata</description>
-<guid isPermaLink="false">2451381828</guid>
-</item>
-<item>
-<title>[Prop] Terex-Peiner SK 415 68m tower crane by Shady311</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2451391582</link>
-<description>[Prop] Terex-Peiner SK 415 68m tower crane by Shady311</description>
-<guid isPermaLink="false">2451391582</guid>
-</item>
-</channel>
+    </channel>
 </rss>
