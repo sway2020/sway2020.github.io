@@ -9,10 +9,34 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Ryde - Class 710 - 5 Car - Azure Livery [Metro] by BlueThunder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452266113</link>
-<description>[Vehicle] Ryde - Class 710 - 5 Car - Azure Livery [Metro] by BlueThunder</description>
-<guid isPermaLink="false">2452266113</guid>
+<title>[Prop] Office Mittelacker (Mural-Pack) by Yosh</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452284450</link>
+<description>[Prop] Office Mittelacker (Mural-Pack) by Yosh</description>
+<guid isPermaLink="false">2452284450</guid>
+</item>
+<item>
+<title>[Building] Office Mittelacker (Pack) by Yosh</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452294812</link>
+<description>[Building] Office Mittelacker (Pack) by Yosh</description>
+<guid isPermaLink="false">2452294812</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - E200XLB - Hospital Livery [LHD/RHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452302642</link>
+<description>[Vehicle] Ryde LHD - E200XLB - Hospital Livery [LHD/RHT] by BlueThunder</description>
+<guid isPermaLink="false">2452302642</guid>
+</item>
+<item>
+<title>[Park] Park 12x1 vanilla follow terrain by OlexX</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452317973</link>
+<description>[Park] Park 12x1 vanilla follow terrain by OlexX</description>
+<guid isPermaLink="false">2452317973</guid>
+</item>
+<item>
+<title>[Mod Update] Ploppable RICO Revisited TESTING - 20210410 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2131808622</link>
+<description>[Mod Update] Ploppable RICO Revisited TESTING - 20210410 Update</description>
+<guid isPermaLink="false">2131808622-20210410</guid>
 </item>
 </channel>
 </rss>
