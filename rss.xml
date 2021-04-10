@@ -8,5 +8,35 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] C17A P RCAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452152151</link>
+<description>[Prop] C17A P RCAF by WTigerTw</description>
+<guid isPermaLink="false">2452152151</guid>
+</item>
+<item>
+<title>[Prop] C17A P1B RCAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452152409</link>
+<description>[Prop] C17A P1B RCAF by WTigerTw</description>
+<guid isPermaLink="false">2452152409</guid>
+</item>
+<item>
+<title>[Vehicle] C17A L RCAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452152822</link>
+<description>[Vehicle] C17A L RCAF by WTigerTw</description>
+<guid isPermaLink="false">2452152822</guid>
+</item>
+<item>
+<title>[Vehicle] C17A PSCO RCAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452153225</link>
+<description>[Vehicle] C17A PSCO RCAF by WTigerTw</description>
+<guid isPermaLink="false">2452153225</guid>
+</item>
+<item>
+<title>[Vehicle] C17A VCO RCAF by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452153391</link>
+<description>[Vehicle] C17A VCO RCAF by WTigerTw</description>
+<guid isPermaLink="false">2452153391</guid>
+</item>
+</channel>
 </rss>
