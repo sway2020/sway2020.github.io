@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Pueblo Magico House 1 by alecsvaldez</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452927246</link>
-<description>[Building] Pueblo Magico House 1 by alecsvaldez</description>
-<guid isPermaLink="false">2452927246</guid>
-</item>
-<item>
-<title>[Building] Pueblo Magico House 2 by alecsvaldez</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452938363</link>
-<description>[Building] Pueblo Magico House 2 by alecsvaldez</description>
-<guid isPermaLink="false">2452938363</guid>
-</item>
-<item>
-<title>[Building] Pueblo Mágico House 3 by alecsvaldez</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452942587</link>
-<description>[Building] Pueblo Mágico House 3 by alecsvaldez</description>
-<guid isPermaLink="false">2452942587</guid>
-</item>
-<item>
-<title>[Building] Pueblo Magico House 4 by alecsvaldez</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452951680</link>
-<description>[Building] Pueblo Magico House 4 by alecsvaldez</description>
-<guid isPermaLink="false">2452951680</guid>
-</item>
-</channel>
+    </channel>
 </rss>
