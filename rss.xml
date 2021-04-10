@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Futuristic Monorail Station (Suspended Track) by Nickayz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452437878</link>
-<description>[Building] Futuristic Monorail Station (Suspended Track) by Nickayz</description>
-<guid isPermaLink="false">2452437878</guid>
+<title>[Vehicle] 2019 MTA New Flyer XE60 +selectbusservice by Ay</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452447611</link>
+<description>[Vehicle] 2019 MTA New Flyer XE60 +selectbusservice by Ay</description>
+<guid isPermaLink="false">2452447611</guid>
+</item>
+<item>
+<title>[Prop] Japanese Noise Barrier (JPNB) by Ryuichi Kaminogi</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452461101</link>
+<description>[Prop] Japanese Noise Barrier (JPNB) by Ryuichi Kaminogi</description>
+<guid isPermaLink="false">2452461101</guid>
+</item>
+<item>
+<title>[Building] CPN Petrol Station (Generic) by Pewex</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452499512</link>
+<description>[Building] CPN Petrol Station (Generic) by Pewex</description>
+<guid isPermaLink="false">2452499512</guid>
 </item>
 </channel>
 </rss>
