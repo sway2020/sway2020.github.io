@@ -8,5 +8,35 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Citea 120 - Azure Livery [RHD/LHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452215497</link>
+<description>[Vehicle] Ryde - Citea 120 - Azure Livery [RHD/LHT] by BlueThunder</description>
+<guid isPermaLink="false">2452215497</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Citea 120 - Azure Livery [LHD/RHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452215813</link>
+<description>[Vehicle] Ryde LHD - Citea 120 - Azure Livery [LHD/RHT] by BlueThunder</description>
+<guid isPermaLink="false">2452215813</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - Citea 180 - Azure Livery [RHD/LHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452225400</link>
+<description>[Vehicle] Ryde - Citea 180 - Azure Livery [RHD/LHT] by BlueThunder</description>
+<guid isPermaLink="false">2452225400</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Citea 180 - Azure Livery [LHD/RHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2452225744</link>
+<description>[Vehicle] Ryde LHD - Citea 180 - Azure Livery [LHD/RHT] by BlueThunder</description>
+<guid isPermaLink="false">2452225744</guid>
+</item>
+<item>
+<title>[Mod Update] Find It! 2 [BETA] - 20210409 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2187834843</link>
+<description>[Mod Update] Find It! 2 [BETA] - 20210409 Update</description>
+<guid isPermaLink="false">2187834843-20210409</guid>
+</item>
+</channel>
 </rss>
