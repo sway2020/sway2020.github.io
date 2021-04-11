@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] PTV Volgren CR228L Bus by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2453371397</link>
-<description>[Vehicle] PTV Volgren CR228L Bus by Zekiarsu</description>
-<guid isPermaLink="false">2453371397</guid>
-</item>
-<item>
-<title>[Mod Update] BOB, the Tree and Prop Replacer 0.6.1 - 20210410 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2197863850</link>
-<description>[Mod Update] BOB, the Tree and Prop Replacer 0.6.1 - 20210410 Update</description>
-<guid isPermaLink="false">2197863850-20210410</guid>
-</item>
-</channel>
+    </channel>
 </rss>
