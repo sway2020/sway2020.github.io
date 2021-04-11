@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] D3S Volgabus-5270.05 Perm by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454435927</link>
-<description>[Vehicle] D3S Volgabus-5270.05 Perm by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2454435927</guid>
-</item>
-<item>
-<title>[Vehicle] D3S LiAZ-5292.65 Perm by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454436316</link>
-<description>[Vehicle] D3S LiAZ-5292.65 Perm by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2454436316</guid>
-</item>
-</channel>
+    </channel>
 </rss>
