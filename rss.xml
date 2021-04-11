@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Desert Spring Medical Center by DieHardHunter</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2453831600</link>
-<description>[Building] Desert Spring Medical Center by DieHardHunter</description>
-<guid isPermaLink="false">2453831600</guid>
+<title>[Vehicle] Ryde - CR228L - Azure Livery [RHD/LHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2453871016</link>
+<description>[Vehicle] Ryde - CR228L - Azure Livery [RHD/LHT] by BlueThunder</description>
+<guid isPermaLink="false">2453871016</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - CR228L - Azure Livery [LHD/RHT] by BlueThunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2453872193</link>
+<description>[Vehicle] Ryde LHD - CR228L - Azure Livery [LHD/RHT] by BlueThunder</description>
+<guid isPermaLink="false">2453872193</guid>
 </item>
 </channel>
 </rss>
