@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 4L Monorail Trees Bikes no Prkng by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2453982030</link>
-<description>[Road] 4L Monorail Trees Bikes no Prkng by OlexX</description>
-<guid isPermaLink="false">2453982030</guid>
-</item>
-<item>
-<title>[Prop] Australian retail signs pack #2 by Cyber Scythe X</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454061900</link>
-<description>[Prop] Australian retail signs pack #2 by Cyber Scythe X</description>
-<guid isPermaLink="false">2454061900</guid>
-</item>
-<item>
-<title>[Vehicle] Sutter Health Ford E350 Type II by sliN</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454070369</link>
-<description>[Vehicle] Sutter Health Ford E350 Type II by sliN</description>
-<guid isPermaLink="false">2454070369</guid>
-</item>
-</channel>
+    </channel>
 </rss>
