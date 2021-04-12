@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] GUM + dependency For school 222-1-197 by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454239990</link>
-<description>[Building] GUM + dependency For school 222-1-197 by FantasticVitalii !</description>
-<guid isPermaLink="false">2454239990</guid>
-</item>
-<item>
-<title>[Building] School 222-1-197 small | inverted by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454240753</link>
-<description>[Building] School 222-1-197 small | inverted by FantasticVitalii !</description>
-<guid isPermaLink="false">2454240753</guid>
-</item>
-<item>
-<title>[Building] School 222-1-197 small by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454241310</link>
-<description>[Building] School 222-1-197 small by FantasticVitalii !</description>
-<guid isPermaLink="false">2454241310</guid>
-</item>
-<item>
-<title>[Building] School 222-1-197 large | Inverted by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454241843</link>
-<description>[Building] School 222-1-197 large | Inverted by FantasticVitalii !</description>
-<guid isPermaLink="false">2454241843</guid>
-</item>
-<item>
-<title>[Building] School 222-1-197 Large by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454242406</link>
-<description>[Building] School 222-1-197 Large by FantasticVitalii !</description>
-<guid isPermaLink="false">2454242406</guid>
-</item>
-</channel>
+    </channel>
 </rss>
