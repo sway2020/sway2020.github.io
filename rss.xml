@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Greek PCP Box by notDONEyet</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454928718</link>
-<description>[Prop] Greek PCP Box by notDONEyet</description>
-<guid isPermaLink="false">2454928718</guid>
-</item>
-<item>
-<title>[Building] Relocatable Aircraft Hangar (Building) by Ezoshika</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454957867</link>
-<description>[Building] Relocatable Aircraft Hangar (Building) by Ezoshika</description>
-<guid isPermaLink="false">2454957867</guid>
-</item>
-<item>
-<title>[Prop] Relocatable  Military Aircraft Hangar (Prop) by Ezoshika</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454958658</link>
-<description>[Prop] Relocatable  Military Aircraft Hangar (Prop) by Ezoshika</description>
-<guid isPermaLink="false">2454958658</guid>
-</item>
-</channel>
+    </channel>
 </rss>
