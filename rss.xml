@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Arcos de Ribeirão Claro by Erilius</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454458530</link>
-<description>[Prop] Arcos de Ribeirão Claro by Erilius</description>
-<guid isPermaLink="false">2454458530</guid>
-</item>
-</channel>
+    </channel>
 </rss>
