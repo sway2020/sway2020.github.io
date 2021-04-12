@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Soviet Office by drundenfub</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454537319</link>
-<description>[Building] Soviet Office by drundenfub</description>
-<guid isPermaLink="false">2454537319</guid>
-</item>
-<item>
-<title>[Vehicle] D3S NefAZ-5299-40-57 by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454543184</link>
-<description>[Vehicle] D3S NefAZ-5299-40-57 by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2454543184</guid>
-</item>
-<item>
-<title>[Vehicle] D3S NefAZ-5299-40-57 Perm by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454543425</link>
-<description>[Vehicle] D3S NefAZ-5299-40-57 Perm by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2454543425</guid>
-</item>
-</channel>
+    </channel>
 </rss>
