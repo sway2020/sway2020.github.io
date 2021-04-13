@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Honda Civic Royal Malaysian Police by Hafiz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2455734301</link>
-<description>[Vehicle] Honda Civic Royal Malaysian Police by Hafiz</description>
-<guid isPermaLink="false">2455734301</guid>
-</item>
-</channel>
+    </channel>
 </rss>
