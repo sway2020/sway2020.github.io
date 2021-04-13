@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Soviet Bas-relief 2 by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454573390</link>
-<description>[Prop] Soviet Bas-relief 2 by FantasticVitalii !</description>
-<guid isPermaLink="false">2454573390</guid>
-</item>
-<item>
-<title>[Prop] Soviet Bas-relief 3 by FantasticVitalii !</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2454575290</link>
-<description>[Prop] Soviet Bas-relief 3 by FantasticVitalii !</description>
-<guid isPermaLink="false">2454575290</guid>
-</item>
-<item>
-<title>[Building] Poplar Plantation by ArkenbergeJoe</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456150606</link>
-<description>[Building] Poplar Plantation by ArkenbergeJoe</description>
-<guid isPermaLink="false">2456150606</guid>
-</item>
-</channel>
+    </channel>
 </rss>
