@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] 中内眼科医院 by koma</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2455811208</link>
+<description>[Building] 中内眼科医院 by koma</description>
+<guid isPermaLink="false">2455811208</guid>
+</item>
+</channel>
 </rss>
