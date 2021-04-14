@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Pingyao Chinese City wall by newp</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456535972</link>
-<description>[Prop] Pingyao Chinese City wall by newp</description>
-<guid isPermaLink="false">2456535972</guid>
-</item>
-<item>
-<title>[Tree] American Elm by MrMaison</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456536855</link>
-<description>[Tree] American Elm by MrMaison</description>
-<guid isPermaLink="false">2456536855</guid>
-</item>
-<item>
-<title>[Building] [Grow+RIOC] Tours Pagel (Ile-St-Denis, France) by Alexgazz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456538557</link>
-<description>[Building] [Grow+RIOC] Tours Pagel (Ile-St-Denis, France) by Alexgazz</description>
-<guid isPermaLink="false">2456538557</guid>
-</item>
-</channel>
+    </channel>
 </rss>
