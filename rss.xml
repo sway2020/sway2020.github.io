@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Gas and electrical box [PL] by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457122487</link>
+<description>[Prop] Gas and electrical box [PL] by Robal</description>
+<guid isPermaLink="false">2457122487</guid>
+</item>
+<item>
+<title>[Prop] 18 Kościuszko square signs by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457214616</link>
+<description>[Prop] 18 Kościuszko square signs by Robal</description>
+<guid isPermaLink="false">2457214616</guid>
+</item>
+</channel>
 </rss>
