@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Ryde - Volvo 7900 - Azure Livery [RHD/LHT] by Blue Thunder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456778261</link>
-<description>[Vehicle] Ryde - Volvo 7900 - Azure Livery [RHD/LHT] by Blue Thunder</description>
-<guid isPermaLink="false">2456778261</guid>
-</item>
-<item>
-<title>[Vehicle] Ryde LHD - Volvo 7900 - Azure Livery [LHD/RHT] by Blue Thunder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456779199</link>
-<description>[Vehicle] Ryde LHD - Volvo 7900 - Azure Livery [LHD/RHT] by Blue Thunder</description>
-<guid isPermaLink="false">2456779199</guid>
-</item>
-</channel>
+    </channel>
 </rss>
