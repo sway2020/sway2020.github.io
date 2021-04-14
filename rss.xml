@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Plattenbau IW70 P2-11 No.3-5 by MeisterMonis</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456953412</link>
-<description>[Building] Plattenbau IW70 P2-11 No.3-5 by MeisterMonis</description>
-<guid isPermaLink="false">2456953412</guid>
-</item>
-<item>
-<title>[Park] Sunset Harbor Apartments by KingLeno</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456980535</link>
-<description>[Park] Sunset Harbor Apartments by KingLeno</description>
-<guid isPermaLink="false">2456980535</guid>
-</item>
-</channel>
+    </channel>
 </rss>
