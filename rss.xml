@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 神田鍛冶町千歳ビル by curr66</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456709237</link>
-<description>[Building] 神田鍛冶町千歳ビル by curr66</description>
-<guid isPermaLink="false">2456709237</guid>
-</item>
-<item>
-<title>[Vehicle] Enviro 200 GoKL RHD by Hafiz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456715541</link>
-<description>[Vehicle] Enviro 200 GoKL RHD by Hafiz</description>
-<guid isPermaLink="false">2456715541</guid>
-</item>
-<item>
-<title>[Vehicle] Enviro 200 GoKL LHD by Hafiz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2456715929</link>
-<description>[Vehicle] Enviro 200 GoKL LHD by Hafiz</description>
-<guid isPermaLink="false">2456715929</guid>
-</item>
-</channel>
+    </channel>
 </rss>
