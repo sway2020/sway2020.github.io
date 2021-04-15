@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Scarborough Beach Clock Tower by Cyber Scythe X</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457842124</link>
+<description>[Prop] Scarborough Beach Clock Tower by Cyber Scythe X</description>
+<guid isPermaLink="false">2457842124</guid>
+</item>
+<item>
+<title>[Vehicle] Scania R Highline (Oil) by Oyass3</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457842266</link>
+<description>[Vehicle] Scania R Highline (Oil) by Oyass3</description>
+<guid isPermaLink="false">2457842266</guid>
+</item>
+</channel>
 </rss>
