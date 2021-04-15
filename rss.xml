@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Suburban Road with expansion joints by Postal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457351796</link>
-<description>[Road] Suburban Road with expansion joints by Postal</description>
-<guid isPermaLink="false">2457351796</guid>
-</item>
-</channel>
+    </channel>
 </rss>
