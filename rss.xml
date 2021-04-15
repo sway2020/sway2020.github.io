@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Tree] Douglas Fir 2 by Greyflame</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458224677</link>
-<description>[Tree] Douglas Fir 2 by Greyflame</description>
-<guid isPermaLink="false">2458224677</guid>
-</item>
-<item>
-<title>[Building] forklift animated 1 by SvenBerlin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458226222</link>
-<description>[Building] forklift animated 1 by SvenBerlin</description>
-<guid isPermaLink="false">2458226222</guid>
-</item>
-</channel>
+    </channel>
 </rss>
