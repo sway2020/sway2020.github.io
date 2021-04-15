@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Viaduct 78 by Flash Player</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457438593</link>
-<description>[Building] Viaduct 78 by Flash Player</description>
-<guid isPermaLink="false">2457438593</guid>
-</item>
-<item>
-<title>[Building] The Suburban by Flash Player</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457438962</link>
-<description>[Building] The Suburban by Flash Player</description>
-<guid isPermaLink="false">2457438962</guid>
-</item>
-<item>
-<title>[Building] Royal Victoria Building by Flash Player</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2457439913</link>
-<description>[Building] Royal Victoria Building by Flash Player</description>
-<guid isPermaLink="false">2457439913</guid>
-</item>
-</channel>
+    </channel>
 </rss>
