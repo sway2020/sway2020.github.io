@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Megabuilding No.10 by Elektrotek</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458543477</link>
-<description>[Building] Megabuilding No.10 by Elektrotek</description>
-<guid isPermaLink="false">2458543477</guid>
-</item>
-</channel>
+    </channel>
 </rss>
