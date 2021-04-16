@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Ryde BRT Island Station by Nochin98</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458319403</link>
+<description>[Building] Ryde BRT Island Station by Nochin98</description>
+<guid isPermaLink="false">2458319403</guid>
+</item>
+<item>
+<title>[Vehicle] 2021 Aston Martin DBX by LinkingDan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458325272</link>
+<description>[Vehicle] 2021 Aston Martin DBX by LinkingDan</description>
+<guid isPermaLink="false">2458325272</guid>
+</item>
+</channel>
 </rss>
