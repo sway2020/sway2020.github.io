@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] BOB, the Tree and Prop Replacer 0.6.1 - 20210416 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2197863850</link>
+<description>[Mod Update] BOB, the Tree and Prop Replacer 0.6.1 - 20210416 Update</description>
+<guid isPermaLink="false">2197863850-20210416</guid>
+</item>
+</channel>
 </rss>
