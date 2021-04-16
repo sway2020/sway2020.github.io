@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - XN40 - Azure Livery [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458523060</link>
+<description>[Vehicle] Ryde - XN40 - Azure Livery [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2458523060</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - XN40 - Azure Livery [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458524499</link>
+<description>[Vehicle] Ryde LHD - XN40 - Azure Livery [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2458524499</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - XN60 - Azure Livery [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458525665</link>
+<description>[Vehicle] Ryde - XN60 - Azure Livery [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2458525665</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - XN60 - Azure Livery [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458526303</link>
+<description>[Vehicle] Ryde LHD - XN60 - Azure Livery [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2458526303</guid>
+</item>
+</channel>
 </rss>
