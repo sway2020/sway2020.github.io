@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] DF4D东风4D货运版 by 阳光男神</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2458438429</link>
+<description>[Vehicle] DF4D东风4D货运版 by 阳光男神</description>
+<guid isPermaLink="false">2458438429</guid>
+</item>
+</channel>
 </rss>
