@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Extra Landscaping Tools - 20210417 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=502750307</link>
+<description>[Mod Update] Extra Landscaping Tools - 20210417 Update</description>
+<guid isPermaLink="false">502750307-20210417</guid>
+</item>
+</channel>
 </rss>
