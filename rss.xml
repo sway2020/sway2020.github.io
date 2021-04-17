@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] [Korea] KR Office builng 1 신한은행 by 시린시</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2459678153</link>
+<description>[Building] [Korea] KR Office builng 1 신한은행 by 시린시</description>
+<guid isPermaLink="false">2459678153</guid>
+</item>
+</channel>
 </rss>
