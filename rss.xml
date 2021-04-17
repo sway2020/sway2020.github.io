@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Monterey Fishing Boat - Ploppable by RoomMic</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2460112231</link>
-<description>[Building] Monterey Fishing Boat - Ploppable by RoomMic</description>
-<guid isPermaLink="false">2460112231</guid>
-</item>
-<item>
-<title>[Mod Update] ModTools (Stable) - 20210417 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=450877484</link>
-<description>[Mod Update] ModTools (Stable) - 20210417 Update</description>
-<guid isPermaLink="false">450877484-20210417</guid>
-</item>
-</channel>
+    </channel>
 </rss>
