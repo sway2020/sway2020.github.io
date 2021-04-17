@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Mod Update] Extra Landscaping Tools - 20210417 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=502750307</link>
-<description>[Mod Update] Extra Landscaping Tools - 20210417 Update</description>
-<guid isPermaLink="false">502750307-20210417</guid>
+<title>[Building] seesaw animated by SvenBerlin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2460343478</link>
+<description>[Building] seesaw animated by SvenBerlin</description>
+<guid isPermaLink="false">2460343478</guid>
+</item>
+<item>
+<title>[Mod Update] More Aspect Ratios - 20210417 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=561218257</link>
+<description>[Mod Update] More Aspect Ratios - 20210417 Update</description>
+<guid isPermaLink="false">561218257-20210417</guid>
 </item>
 </channel>
 </rss>
