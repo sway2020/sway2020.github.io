@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Orion V Bus (TTC Livery) by JSF-1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2460819591</link>
-<description>[Vehicle] Orion V Bus (TTC Livery) by JSF-1</description>
-<guid isPermaLink="false">2460819591</guid>
-</item>
-</channel>
+    </channel>
 </rss>
