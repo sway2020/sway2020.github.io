@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] ms airport random vending machines by propermike</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2460121198</link>
-<description>[Prop] ms airport random vending machines by propermike</description>
-<guid isPermaLink="false">2460121198</guid>
-</item>
-<item>
-<title>[Building] Hoorn 1751 by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2461144381</link>
-<description>[Building] Hoorn 1751 by Jass</description>
-<guid isPermaLink="false">2461144381</guid>
-</item>
-</channel>
+    </channel>
 </rss>
