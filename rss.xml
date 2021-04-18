@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Park] 4x2 Playground by Lielanthris</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2460796579</link>
+<description>[Park] 4x2 Playground by Lielanthris</description>
+<guid isPermaLink="false">2460796579</guid>
+</item>
+</channel>
 </rss>
