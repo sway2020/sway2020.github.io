@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] Zoning Adjuster 1.1.1 - 20210419 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2389414419</link>
-<description>[Mod Update] Zoning Adjuster 1.1.1 - 20210419 Update</description>
-<guid isPermaLink="false">2389414419-20210419</guid>
-</item>
-</channel>
+    </channel>
 </rss>
