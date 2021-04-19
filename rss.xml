@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Caulfields Central Passenger Prop Pack by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2461678965</link>
-<description>[Prop] Caulfields Central Passenger Prop Pack by Astro</description>
-<guid isPermaLink="false">2461678965</guid>
-</item>
-<item>
-<title>[Vehicle] EMD E8 Caulfields Central Green Ridge Express by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2461680422</link>
-<description>[Vehicle] EMD E8 Caulfields Central Green Ridge Express by Astro</description>
-<guid isPermaLink="false">2461680422</guid>
-</item>
-</channel>
+    </channel>
 </rss>
