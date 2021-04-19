@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Torpedo bomber props by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2461579408</link>
-<description>[Prop] Torpedo bomber props by Jass</description>
-<guid isPermaLink="false">2461579408</guid>
-</item>
-</channel>
+    </channel>
 </rss>
