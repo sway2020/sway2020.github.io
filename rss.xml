@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Australian retail sign pack #3 by Cyber Scythe X</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462250533</link>
-<description>[Prop] Australian retail sign pack #3 by Cyber Scythe X</description>
-<guid isPermaLink="false">2462250533</guid>
-</item>
-<item>
-<title>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrows - Medium by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462262856</link>
-<description>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrows - Medium by GhostRaiderMX</description>
-<guid isPermaLink="false">2462262856</guid>
-</item>
-<item>
-<title>[Building] 59 Maiden Lane - New York [RICO] by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462265902</link>
-<description>[Building] 59 Maiden Lane - New York [RICO] by luminou</description>
-<guid isPermaLink="false">2462265902</guid>
-</item>
-</channel>
+    </channel>
 </rss>
