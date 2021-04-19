@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Kirnitzschtalbahn (1928) by Nostrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462398339</link>
-<description>[Vehicle] Kirnitzschtalbahn (1928) by Nostrix</description>
-<guid isPermaLink="false">2462398339</guid>
+<title>[Building] Caserma Carabinieri (Italian Police Station) by Zarrix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462513911</link>
+<description>[Building] Caserma Carabinieri (Italian Police Station) by Zarrix</description>
+<guid isPermaLink="false">2462513911</guid>
+</item>
+<item>
+<title>[Tree] Weeping Silver Birch 2 by MrMaison</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462542609</link>
+<description>[Tree] Weeping Silver Birch 2 by MrMaison</description>
+<guid isPermaLink="false">2462542609</guid>
+</item>
+<item>
+<title>[Building] Gallows by PineScentX</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462547254</link>
+<description>[Building] Gallows by PineScentX</description>
+<guid isPermaLink="false">2462547254</guid>
 </item>
 </channel>
 </rss>
