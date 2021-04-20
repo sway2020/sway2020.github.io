@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Scania R Highline (Forest) by Oyass3</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462807827</link>
-<description>[Vehicle] Scania R Highline (Forest) by Oyass3</description>
-<guid isPermaLink="false">2462807827</guid>
-</item>
-<item>
-<title>[Building] Middle school teaching building by 红米</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462821492</link>
-<description>[Building] Middle school teaching building by 红米</description>
-<guid isPermaLink="false">2462821492</guid>
-</item>
-</channel>
+    </channel>
 </rss>
