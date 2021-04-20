@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Orangerie Rheda by JustJay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463030594</link>
-<description>[Building] Orangerie Rheda by JustJay</description>
-<guid isPermaLink="false">2463030594</guid>
-</item>
-<item>
-<title>[Building] Italian Flats [Rome] Corner 4x3 by Zarrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463037841</link>
-<description>[Building] Italian Flats [Rome] Corner 4x3 by Zarrix</description>
-<guid isPermaLink="false">2463037841</guid>
-</item>
-</channel>
+    </channel>
 </rss>
