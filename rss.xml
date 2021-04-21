@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] [Korea] Suwon Centraus Apartment1 [RICO] by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463929843</link>
-<description>[Building] [Korea] Suwon Centraus Apartment1 [RICO] by 시린시</description>
-<guid isPermaLink="false">2463929843</guid>
-</item>
-<item>
-<title>[Building] [Korea] Suwon Centraus Apartment 2 [RICO] by 시린시</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463930942</link>
-<description>[Building] [Korea] Suwon Centraus Apartment 2 [RICO] by 시린시</description>
-<guid isPermaLink="false">2463930942</guid>
-</item>
-</channel>
+    </channel>
 </rss>
