@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Invisible Solar Farm by Ciar Aon</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464825298</link>
+<description>[Building] Invisible Solar Farm by Ciar Aon</description>
+<guid isPermaLink="false">2464825298</guid>
+</item>
+<item>
+<title>[Building] Pyongyang Ice Rink by Brammered</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464862483</link>
+<description>[Building] Pyongyang Ice Rink by Brammered</description>
+<guid isPermaLink="false">2464862483</guid>
+</item>
+<item>
+<title>[Prop] Holo Sci-fi Poster Variations by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464870422</link>
+<description>[Prop] Holo Sci-fi Poster Variations by indapni</description>
+<guid isPermaLink="false">2464870422</guid>
+</item>
+</channel>
 </rss>
