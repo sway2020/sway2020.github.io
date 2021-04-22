@@ -8,47 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] Park 5x6 by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463236434</link>
-<description>[Park] Park 5x6 by the_goyito</description>
-<guid isPermaLink="false">2463236434</guid>
-</item>
-<item>
-<title>[Park] Pink Park 8x12 by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2463504947</link>
-<description>[Park] Pink Park 8x12 by the_goyito</description>
-<guid isPermaLink="false">2463504947</guid>
-</item>
-<item>
-<title>[Park] Tiny Central Park by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464174180</link>
-<description>[Park] Tiny Central Park by the_goyito</description>
-<guid isPermaLink="false">2464174180</guid>
-</item>
-<item>
-<title>[Park] Tiny Central Park 2 by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464174751</link>
-<description>[Park] Tiny Central Park 2 by the_goyito</description>
-<guid isPermaLink="false">2464174751</guid>
-</item>
-<item>
-<title>[Park] Tiny Central Park 3 by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464175286</link>
-<description>[Park] Tiny Central Park 3 by the_goyito</description>
-<guid isPermaLink="false">2464175286</guid>
-</item>
-<item>
-<title>[Park] Small Park for Childrens  by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464178042</link>
-<description>[Park] Small Park for Childrens  by the_goyito</description>
-<guid isPermaLink="false">2464178042</guid>
-</item>
-<item>
-<title>[Park] Small Park for Childrens 2 by the_goyito</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464178677</link>
-<description>[Park] Small Park for Childrens 2 by the_goyito</description>
-<guid isPermaLink="false">2464178677</guid>
-</item>
-</channel>
+    </channel>
 </rss>
