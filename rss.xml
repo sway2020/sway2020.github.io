@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Harbin Vientiane哈尔滨万象汇 by 红米</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464574896</link>
-<description>[Building] Harbin Vientiane哈尔滨万象汇 by 红米</description>
-<guid isPermaLink="false">2464574896</guid>
-</item>
-</channel>
+    </channel>
 </rss>
