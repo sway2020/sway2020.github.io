@@ -8,47 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Marinehaus Nummer 2 by jens</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464989806</link>
-<description>[Building] Marinehaus Nummer 2 by jens</description>
-<guid isPermaLink="false">2464989806</guid>
-</item>
-<item>
-<title>[Building] Marinehaus Nummer 1 by jens</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2464994757</link>
-<description>[Building] Marinehaus Nummer 1 by jens</description>
-<guid isPermaLink="false">2464994757</guid>
-</item>
-<item>
-<title>[Building] Landesversicherungsanstalt by jens</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465002301</link>
-<description>[Building] Landesversicherungsanstalt by jens</description>
-<guid isPermaLink="false">2465002301</guid>
-</item>
-<item>
-<title>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrow Right Exit Only - Medium by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465098760</link>
-<description>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrow Right Exit Only - Medium by GhostRaiderMX</description>
-<guid isPermaLink="false">2465098760</guid>
-</item>
-<item>
-<title>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrow Left Exit Only - Medium by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465099004</link>
-<description>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Arrow Left Exit Only - Medium by GhostRaiderMX</description>
-<guid isPermaLink="false">2465099004</guid>
-</item>
-<item>
-<title>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Right Arrow Right Exit Only - Medium by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465099163</link>
-<description>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Right Arrow Right Exit Only - Medium by GhostRaiderMX</description>
-<guid isPermaLink="false">2465099163</guid>
-</item>
-<item>
-<title>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Left Arrow Left Exit Only - Medium by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465099304</link>
-<description>[Prop] California Freeway (Highway) HR Sign - 3 Lane - Blank Left Arrow Left Exit Only - Medium by GhostRaiderMX</description>
-<guid isPermaLink="false">2465099304</guid>
-</item>
-</channel>
+    </channel>
 </rss>
