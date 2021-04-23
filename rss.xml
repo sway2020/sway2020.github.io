@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - K270 - Theme Park Livery [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465592181</link>
+<description>[Vehicle] Ryde - K270 - Theme Park Livery [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2465592181</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - K270 - Theme Park Livery [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465594160</link>
+<description>[Vehicle] Ryde LHD - K270 - Theme Park Livery [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2465594160</guid>
+</item>
+</channel>
 </rss>
