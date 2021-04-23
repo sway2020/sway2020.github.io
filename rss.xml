@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 日本の商店４Packs by koma</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465432867</link>
-<description>[Building] 日本の商店４Packs by koma</description>
-<guid isPermaLink="false">2465432867</guid>
-</item>
-<item>
-<title>[Park] Grange Park 2 by Seeker337</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465462437</link>
-<description>[Park] Grange Park 2 by Seeker337</description>
-<guid isPermaLink="false">2465462437</guid>
-</item>
-<item>
-<title>[Park] Grange Park 1 by Seeker337</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465462664</link>
-<description>[Park] Grange Park 1 by Seeker337</description>
-<guid isPermaLink="false">2465462664</guid>
-</item>
-</channel>
+    </channel>
 </rss>
