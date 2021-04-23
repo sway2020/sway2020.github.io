@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 蔚来 NIO ET7 智能电动旗舰轿车 by JenkinsLiu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465503745</link>
-<description>[Vehicle] 蔚来 NIO ET7 智能电动旗舰轿车 by JenkinsLiu</description>
-<guid isPermaLink="false">2465503745</guid>
-</item>
-</channel>
+    </channel>
 </rss>
