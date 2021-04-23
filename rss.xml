@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Kirnitzschtalbahn Prop Pack by Nostrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465890686</link>
-<description>[Prop] Kirnitzschtalbahn Prop Pack by Nostrix</description>
-<guid isPermaLink="false">2465890686</guid>
-</item>
-</channel>
+    </channel>
 </rss>
