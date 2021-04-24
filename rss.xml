@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Värtaterminalen by Ionwind</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2465871934</link>
+<description>[Building] Värtaterminalen by Ionwind</description>
+<guid isPermaLink="false">2465871934</guid>
+</item>
+<item>
+<title>[Building] Värtan walk bridges by Ionwind</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466353349</link>
+<description>[Building] Värtan walk bridges by Ionwind</description>
+<guid isPermaLink="false">2466353349</guid>
+</item>
+<item>
+<title>[Building] Haus am Köllnischen Park by jens</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466590510</link>
+<description>[Building] Haus am Köllnischen Park by jens</description>
+<guid isPermaLink="false">2466590510</guid>
+</item>
+</channel>
 </rss>
