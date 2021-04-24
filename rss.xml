@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 2LOW Monorail with parking lanes by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466961401</link>
-<description>[Road] 2LOW Monorail with parking lanes by OlexX</description>
-<guid isPermaLink="false">2466961401</guid>
-</item>
-<item>
-<title>[Road] 2LOW Monorail Grass no parking by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466963017</link>
-<description>[Road] 2LOW Monorail Grass no parking by OlexX</description>
-<guid isPermaLink="false">2466963017</guid>
-</item>
-<item>
-<title>[Road] 2LOW Monorail Trees no parking by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466964533</link>
-<description>[Road] 2LOW Monorail Trees no parking by OlexX</description>
-<guid isPermaLink="false">2466964533</guid>
-</item>
-<item>
-<title>[Road] 2LOW Monorail Bikes no parking by OlexX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2466965923</link>
-<description>[Road] 2LOW Monorail Bikes no parking by OlexX</description>
-<guid isPermaLink="false">2466965923</guid>
-</item>
-</channel>
+    </channel>
 </rss>
