@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Italian Flat [Rome] 4x4 Corner by Zarrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2467791284</link>
-<description>[Building] Italian Flat [Rome] 4x4 Corner by Zarrix</description>
-<guid isPermaLink="false">2467791284</guid>
-</item>
-<item>
-<title>[Mod Update] Building Usage - 20210425 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2048266761</link>
-<description>[Mod Update] Building Usage - 20210425 Update</description>
-<guid isPermaLink="false">2048266761-20210425</guid>
-</item>
-</channel>
+    </channel>
 </rss>
