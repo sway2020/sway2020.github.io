@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod] Better Highway Icons by Coldrifting</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2468668508</link>
-<description>[Mod] Better Highway Icons by Coldrifting</description>
-<guid isPermaLink="false">2468668508</guid>
-</item>
-<item>
-<title>[Prop] KB14 Botter by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2468670102</link>
-<description>[Prop] KB14 Botter by Jass</description>
-<guid isPermaLink="false">2468670102</guid>
-</item>
-</channel>
+    </channel>
 </rss>
