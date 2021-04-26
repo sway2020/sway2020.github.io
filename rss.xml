@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Nissa 1 by Zeno</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2461157594</link>
-<description>[Building] Nissa 1 by Zeno</description>
-<guid isPermaLink="false">2461157594</guid>
-</item>
-<item>
-<title>[Building] Yifu Laboratory building of Nanjing Forestry University by JenkinsLiu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2468537619</link>
-<description>[Building] Yifu Laboratory building of Nanjing Forestry University by JenkinsLiu</description>
-<guid isPermaLink="false">2468537619</guid>
-</item>
-</channel>
+    </channel>
 </rss>
