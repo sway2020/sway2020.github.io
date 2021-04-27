@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Philippine logo pack by SvenBerlin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2469415643</link>
+<description>[Prop] Philippine logo pack by SvenBerlin</description>
+<guid isPermaLink="false">2469415643</guid>
+</item>
+<item>
+<title>[Prop] Windows Set (prop version) by ArturIalanski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2469423659</link>
+<description>[Prop] Windows Set (prop version) by ArturIalanski</description>
+<guid isPermaLink="false">2469423659</guid>
+</item>
+<item>
+<title>[Building] Windows Set (building version) by ArturIalanski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2469424363</link>
+<description>[Building] Windows Set (building version) by ArturIalanski</description>
+<guid isPermaLink="false">2469424363</guid>
+</item>
+</channel>
 </rss>
