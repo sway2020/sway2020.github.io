@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Minimalistic House-F-L5-3Floor by Pixel_monster</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470231845</link>
-<description>[Building] Minimalistic House-F-L5-3Floor by Pixel_monster</description>
-<guid isPermaLink="false">2470231845</guid>
-</item>
-<item>
-<title>[Building] new yorker hotel by Milgram</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470237036</link>
-<description>[Building] new yorker hotel by Milgram</description>
-<guid isPermaLink="false">2470237036</guid>
-</item>
-<item>
-<title>[Vehicle] PTV Volgren Optimus Hybrid (Green Cities version) by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470242716</link>
-<description>[Vehicle] PTV Volgren Optimus Hybrid (Green Cities version) by Zekiarsu</description>
-<guid isPermaLink="false">2470242716</guid>
-</item>
-</channel>
+    </channel>
 </rss>
