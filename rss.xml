@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Office building Construction site B+ by yang_mie</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470085516</link>
-<description>[Building] Office building Construction site B+ by yang_mie</description>
-<guid isPermaLink="false">2470085516</guid>
-</item>
-<item>
-<title>[Vehicle] Edmonton Transit 2016 Newflyer XD40 by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470094378</link>
-<description>[Vehicle] Edmonton Transit 2016 Newflyer XD40 by AncientShay</description>
-<guid isPermaLink="false">2470094378</guid>
-</item>
-<item>
-<title>[Vehicle] Edmonton Police Service 2018 FPIU by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470103564</link>
-<description>[Vehicle] Edmonton Police Service 2018 FPIU by AncientShay</description>
-<guid isPermaLink="false">2470103564</guid>
-</item>
-<item>
-<title>[Vehicle] Edmonton Police 2011 Crown Victoria Police Interceptor by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470108623</link>
-<description>[Vehicle] Edmonton Police 2011 Crown Victoria Police Interceptor by AncientShay</description>
-<guid isPermaLink="false">2470108623</guid>
-</item>
-</channel>
+    </channel>
 </rss>
