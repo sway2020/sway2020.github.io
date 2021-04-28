@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Samoa Fale 3 by Othercakes</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2469997407</link>
+<description>[Building] Samoa Fale 3 by Othercakes</description>
+<guid isPermaLink="false">2469997407</guid>
+</item>
+<item>
+<title>[Prop] Meijer by Bad Brainz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470043455</link>
+<description>[Prop] Meijer by Bad Brainz</description>
+<guid isPermaLink="false">2470043455</guid>
+</item>
+</channel>
 </rss>
