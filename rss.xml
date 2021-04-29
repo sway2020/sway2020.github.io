@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Prop Volvo FH 4x2 Rigid by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2471339773</link>
+<description>[Prop] Prop Volvo FH 4x2 Rigid by ron_fu-ta</description>
+<guid isPermaLink="false">2471339773</guid>
+</item>
+</channel>
 </rss>
