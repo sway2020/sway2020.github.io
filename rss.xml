@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Prinzipalmarkt No 43 (Münster, Germany) by Lilienherz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2471994819</link>
+<description>[Building] Prinzipalmarkt No 43 (Münster, Germany) by Lilienherz</description>
+<guid isPermaLink="false">2471994819</guid>
+</item>
+<item>
+<title>[Park] Very Large Market Square by rotespapier</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472009165</link>
+<description>[Park] Very Large Market Square by rotespapier</description>
+<guid isPermaLink="false">2472009165</guid>
+</item>
+</channel>
 </rss>
