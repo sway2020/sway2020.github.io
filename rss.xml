@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Mosaic Art- Vol 1 - Large by Pixel_monster</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2471908364</link>
+<description>[Prop] Mosaic Art- Vol 1 - Large by Pixel_monster</description>
+<guid isPermaLink="false">2471908364</guid>
+</item>
+</channel>
 </rss>
