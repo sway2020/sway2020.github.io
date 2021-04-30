@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] newyorkerhotel by Milgram</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2471702518</link>
-<description>[Building] newyorkerhotel by Milgram</description>
-<guid isPermaLink="false">2471702518</guid>
-</item>
-</channel>
+    </channel>
 </rss>
