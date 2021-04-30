@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] NZ Office (no logos) by AliTarGz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472032736</link>
-<description>[Building] NZ Office (no logos) by AliTarGz</description>
-<guid isPermaLink="false">2472032736</guid>
-</item>
-</channel>
+    </channel>
 </rss>
