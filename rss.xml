@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod] Node Controller Renewal 3.0 by macsergey</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472062376</link>
+<description>[Mod] Node Controller Renewal 3.0 by macsergey</description>
+<guid isPermaLink="false">2472062376</guid>
+</item>
+<item>
+<title>[Building] Thai B-Quik by NKZ.</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472135728</link>
+<description>[Building] Thai B-Quik by NKZ.</description>
+<guid isPermaLink="false">2472135728</guid>
+</item>
+</channel>
 </rss>
