@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Tokyo Government Building 1:1 scale (東京都庁) by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2473244168</link>
+<description>[Building] Tokyo Government Building 1:1 scale (東京都庁) by christinayan</description>
+<guid isPermaLink="false">2473244168</guid>
+</item>
+<item>
+<title>[Prop] German Chimney Props: Chimney Tops by Rex_Luminor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2473280401</link>
+<description>[Prop] German Chimney Props: Chimney Tops by Rex_Luminor</description>
+<guid isPermaLink="false">2473280401</guid>
+</item>
+<item>
+<title>[Vehicle] Volvo FH 4x2 Rigid Industrial by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2473285095</link>
+<description>[Vehicle] Volvo FH 4x2 Rigid Industrial by ron_fu-ta</description>
+<guid isPermaLink="false">2473285095</guid>
+</item>
+<item>
+<title>[Prop] German Chimney Props: Brick 1x1 Chimneys by Rex_Luminor</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2473286681</link>
+<description>[Prop] German Chimney Props: Brick 1x1 Chimneys by Rex_Luminor</description>
+<guid isPermaLink="false">2473286681</guid>
+</item>
+</channel>
 </rss>
