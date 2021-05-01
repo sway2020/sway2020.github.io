@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] 中式住宅楼33层 by 红米</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472981408</link>
+<description>[Building] 中式住宅楼33层 by 红米</description>
+<guid isPermaLink="false">2472981408</guid>
+</item>
+<item>
+<title>[Vehicle] MAN TGS Tipper (Ore) by Oyass3</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2473015073</link>
+<description>[Vehicle] MAN TGS Tipper (Ore) by Oyass3</description>
+<guid isPermaLink="false">2473015073</guid>
+</item>
+</channel>
 </rss>
