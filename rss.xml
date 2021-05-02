@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] USS Michael Murphy(DDG112)_SBL by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474012527</link>
+<description>[Building] USS Michael Murphy(DDG112)_SBL by WTigerTw</description>
+<guid isPermaLink="false">2474012527</guid>
+</item>
+<item>
+<title>[Vehicle] TransPerth Volgren Optimus by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474020908</link>
+<description>[Vehicle] TransPerth Volgren Optimus by Blue Thunder</description>
+<guid isPermaLink="false">2474020908</guid>
+</item>
+<item>
+<title>[Prop] TransPerth Volgren Optimus Prop by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474023410</link>
+<description>[Prop] TransPerth Volgren Optimus Prop by Blue Thunder</description>
+<guid isPermaLink="false">2474023410</guid>
+</item>
+</channel>
 </rss>
