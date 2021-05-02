@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 8 Lane Road Tram and Trolleybus by psy1816</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474374305</link>
-<description>[Road] 8 Lane Road Tram and Trolleybus by psy1816</description>
-<guid isPermaLink="false">2474374305</guid>
-</item>
-</channel>
+    </channel>
 </rss>
