@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Alkmaar 1900 by Jass</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475035772</link>
-<description>[Building] Alkmaar 1900 by Jass</description>
-<guid isPermaLink="false">2475035772</guid>
+<title>[Prop] NJ Transit ALP-46 + Multilevel III [Prop] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474804587</link>
+<description>[Prop] NJ Transit ALP-46 + Multilevel III [Prop] by meshd</description>
+<guid isPermaLink="false">2474804587</guid>
+</item>
+<item>
+<title>[Vehicle] NJ Transit ALP-46 + 4-car Multilevel III [Train] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474805729</link>
+<description>[Vehicle] NJ Transit ALP-46 + 4-car Multilevel III [Train] by meshd</description>
+<guid isPermaLink="false">2474805729</guid>
+</item>
+<item>
+<title>[Vehicle] NJ Transit ALP-46 + 7-car Multilevel III [Train] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474806418</link>
+<description>[Vehicle] NJ Transit ALP-46 + 7-car Multilevel III [Train] by meshd</description>
+<guid isPermaLink="false">2474806418</guid>
 </item>
 </channel>
 </rss>
