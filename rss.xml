@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Railway Props (Chinese: Switch, derailer  electrical boxes) by uiop4869</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476158851</link>
+<description>[Prop] Railway Props (Chinese: Switch, derailer  electrical boxes) by uiop4869</description>
+<guid isPermaLink="false">2476158851</guid>
+</item>
+<item>
+<title>[Building] Dark Matter Reactor by Fun Noober</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476192292</link>
+<description>[Building] Dark Matter Reactor by Fun Noober</description>
+<guid isPermaLink="false">2476192292</guid>
+</item>
+</channel>
 </rss>
