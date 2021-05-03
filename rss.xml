@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Scania R Highline (Livestock) by Oyass3</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475200512</link>
+<description>[Vehicle] Scania R Highline (Livestock) by Oyass3</description>
+<guid isPermaLink="false">2475200512</guid>
+</item>
+<item>
+<title>[Park] Small Wooden Gazebo (Park) by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475201959</link>
+<description>[Park] Small Wooden Gazebo (Park) by indapni</description>
+<guid isPermaLink="false">2475201959</guid>
+</item>
+<item>
+<title>[Prop] Small Gazebo (2 Props) by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475203506</link>
+<description>[Prop] Small Gazebo (2 Props) by indapni</description>
+<guid isPermaLink="false">2475203506</guid>
+</item>
+</channel>
 </rss>
