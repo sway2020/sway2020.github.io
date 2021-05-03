@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Honda CRX HF by Archie Cuntingham</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475760054</link>
+<description>[Vehicle] Honda CRX HF by Archie Cuntingham</description>
+<guid isPermaLink="false">2475760054</guid>
+</item>
+<item>
+<title>[Building] Highrise Condo 63m by Smilies</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475769274</link>
+<description>[Building] Highrise Condo 63m by Smilies</description>
+<guid isPermaLink="false">2475769274</guid>
+</item>
+</channel>
 </rss>
