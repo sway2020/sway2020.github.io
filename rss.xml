@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Gaveliusgatan 5 by norlin.martin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476111077</link>
-<description>[Building] Gaveliusgatan 5 by norlin.martin</description>
-<guid isPermaLink="false">2476111077</guid>
-</item>
-</channel>
+    </channel>
 </rss>
