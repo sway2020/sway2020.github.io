@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod] CSL Commuter Destination by jkm</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2475986859</link>
-<description>[Mod] CSL Commuter Destination by jkm</description>
-<guid isPermaLink="false">2475986859</guid>
-</item>
-</channel>
+    </channel>
 </rss>
