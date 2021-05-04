@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Vladivostok LightHouse by AngelHeavenly</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476913617</link>
+<description>[Building] Vladivostok LightHouse by AngelHeavenly</description>
+<guid isPermaLink="false">2476913617</guid>
+</item>
+<item>
+<title>[Prop] Poste Liberdade by alexvibel</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477045540</link>
+<description>[Prop] Poste Liberdade by alexvibel</description>
+<guid isPermaLink="false">2477045540</guid>
+</item>
+</channel>
 </rss>
