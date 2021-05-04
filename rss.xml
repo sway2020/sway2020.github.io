@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Prinzipalmarkt 41 (Münster, Germany) by Lilienherz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476586930</link>
+<description>[Building] Prinzipalmarkt 41 (Münster, Germany) by Lilienherz</description>
+<guid isPermaLink="false">2476586930</guid>
+</item>
+</channel>
 </rss>
