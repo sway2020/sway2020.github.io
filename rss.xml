@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] American Samoa Buses by DieHardHunter</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476876332</link>
-<description>[Vehicle] American Samoa Buses by DieHardHunter</description>
-<guid isPermaLink="false">2476876332</guid>
-</item>
-<item>
-<title>[Vehicle] Honda CRX SiR glass top by Archie Cuntingham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476935174</link>
-<description>[Vehicle] Honda CRX SiR glass top by Archie Cuntingham</description>
-<guid isPermaLink="false">2476935174</guid>
-</item>
-</channel>
+    </channel>
 </rss>
