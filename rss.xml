@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Pedestrian Path #04 by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476475757</link>
+<description>[Road] Pedestrian Path #04 by clus</description>
+<guid isPermaLink="false">2476475757</guid>
+</item>
+<item>
+<title>[Road] Pedestrian Path #05 by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2476478359</link>
+<description>[Road] Pedestrian Path #05 by clus</description>
+<guid isPermaLink="false">2476478359</guid>
+</item>
+</channel>
 </rss>
