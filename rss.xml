@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Rapid Transport Bus 3 [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477462092</link>
+<description>[Vehicle] Ryde - Rapid Transport Bus 3 [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2477462092</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Rapid Transport Bus 3 [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477463331</link>
+<description>[Vehicle] Ryde LHD - Rapid Transport Bus 3 [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2477463331</guid>
+</item>
+</channel>
 </rss>
