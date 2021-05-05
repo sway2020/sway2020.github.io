@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Flat Pavement roads Connector  Segment Pack by Chamëleon</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477811084</link>
+<description>[Road] Flat Pavement roads Connector  Segment Pack by Chamëleon</description>
+<guid isPermaLink="false">2477811084</guid>
+</item>
+<item>
+<title>[Building] Texas Chicken by NKZ.</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477867019</link>
+<description>[Building] Texas Chicken by NKZ.</description>
+<guid isPermaLink="false">2477867019</guid>
+</item>
+<item>
+<title>[Building] Huddersfield Train Station by squirrelarmyuk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2477946203</link>
+<description>[Building] Huddersfield Train Station by squirrelarmyuk</description>
+<guid isPermaLink="false">2477946203</guid>
+</item>
+</channel>
 </rss>
