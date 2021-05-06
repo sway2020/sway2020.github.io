@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Freedom 80k charter (bus) by Archie Cuntingham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2478758899</link>
-<description>[Vehicle] Freedom 80k charter (bus) by Archie Cuntingham</description>
-<guid isPermaLink="false">2478758899</guid>
-</item>
-</channel>
+    </channel>
 </rss>
