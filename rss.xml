@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] Find It! 2 - 20210507 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2133885971</link>
-<description>[Mod Update] Find It! 2 - 20210507 Update</description>
-<guid isPermaLink="false">2133885971-20210507</guid>
-</item>
-</channel>
+    </channel>
 </rss>
