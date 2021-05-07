@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Rome Termini Central Station by Zarrix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2479674122</link>
+<description>[Building] Rome Termini Central Station by Zarrix</description>
+<guid isPermaLink="false">2479674122</guid>
+</item>
+<item>
+<title>[Prop] Inscription Sqr. Aug. 1 八一广场大字 by HooHeeHaa</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2479708189</link>
+<description>[Prop] Inscription Sqr. Aug. 1 八一广场大字 by HooHeeHaa</description>
+<guid isPermaLink="false">2479708189</guid>
+</item>
+</channel>
 </rss>
