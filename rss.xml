@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Cities Skylines Comunidad CS Comunidad by CHECO MX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2479426599</link>
-<description>[Building] Cities Skylines Comunidad CS Comunidad by CHECO MX</description>
-<guid isPermaLink="false">2479426599</guid>
-</item>
-</channel>
+    </channel>
 </rss>
