@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] House of Soviets by Brammered</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2479606818</link>
-<description>[Building] House of Soviets by Brammered</description>
-<guid isPermaLink="false">2479606818</guid>
-</item>
-</channel>
+    </channel>
 </rss>
