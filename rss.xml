@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] RYDE BRT Roads Props by Nochin98</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2469972073</link>
+<description>[Prop] RYDE BRT Roads Props by Nochin98</description>
+<guid isPermaLink="false">2469972073</guid>
+</item>
+<item>
+<title>[Building] Euro Modern High Res. 1 by Zeno</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480137661</link>
+<description>[Building] Euro Modern High Res. 1 by Zeno</description>
+<guid isPermaLink="false">2480137661</guid>
+</item>
+<item>
+<title>[Building] Metro Station Reggio Emilia (double tracks) by Nickayz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480191115</link>
+<description>[Building] Metro Station Reggio Emilia (double tracks) by Nickayz</description>
+<guid isPermaLink="false">2480191115</guid>
+</item>
+</channel>
 </rss>
