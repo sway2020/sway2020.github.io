@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] Elevated Metro Station Track (No Pillars) by Coldrifting</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480433738</link>
+<description>[Road] Elevated Metro Station Track (No Pillars) by Coldrifting</description>
+<guid isPermaLink="false">2480433738</guid>
+</item>
+<item>
+<title>[Building] Metro Over Road Elevated Station by Coldrifting</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480466674</link>
+<description>[Building] Metro Over Road Elevated Station by Coldrifting</description>
+<guid isPermaLink="false">2480466674</guid>
+</item>
+<item>
+<title>[Road] Metro Over Road Tracks by Coldrifting</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480473185</link>
+<description>[Road] Metro Over Road Tracks by Coldrifting</description>
+<guid isPermaLink="false">2480473185</guid>
+</item>
+</channel>
 </rss>
