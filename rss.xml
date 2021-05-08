@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Ace Combat Corporation Logos Pack by Grunder Industries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480643959</link>
+<description>[Prop] Ace Combat Corporation Logos Pack by Grunder Industries</description>
+<guid isPermaLink="false">2480643959</guid>
+</item>
+<item>
+<title>[Vehicle] DAF XF 2005 Garbage Truck by Oyass3</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480652448</link>
+<description>[Vehicle] DAF XF 2005 Garbage Truck by Oyass3</description>
+<guid isPermaLink="false">2480652448</guid>
+</item>
+</channel>
 </rss>
