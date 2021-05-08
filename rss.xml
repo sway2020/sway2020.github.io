@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Platform Light ( Lamp ) by Ryuichi Kaminogi</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2470327284</link>
-<description>[Prop] Platform Light ( Lamp ) by Ryuichi Kaminogi</description>
-<guid isPermaLink="false">2470327284</guid>
-</item>
-<item>
-<title>[Road] JP Platform Shelter Network by Ryuichi Kaminogi</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2480749258</link>
-<description>[Road] JP Platform Shelter Network by Ryuichi Kaminogi</description>
-<guid isPermaLink="false">2480749258</guid>
-</item>
-</channel>
+    </channel>
 </rss>
