@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] San Gimignano well by macluk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2481374915</link>
+<description>[Building] San Gimignano well by macluk</description>
+<guid isPermaLink="false">2481374915</guid>
+</item>
+</channel>
 </rss>
