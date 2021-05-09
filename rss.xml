@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] 三菱UFJ銀行秋葉原支店 by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2481676509</link>
+<description>[Building] 三菱UFJ銀行秋葉原支店 by curr66</description>
+<guid isPermaLink="false">2481676509</guid>
+</item>
+<item>
+<title>[Building] 三菱UFJ銀行秋葉原支店（subway） by curr66</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2481677088</link>
+<description>[Building] 三菱UFJ銀行秋葉原支店（subway） by curr66</description>
+<guid isPermaLink="false">2481677088</guid>
+</item>
+</channel>
 </rss>
