@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] TM:PE V11 STABLE (Traffic Manager: President Edition) - 20210509 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1637663252</link>
-<description>[Mod Update] TM:PE V11 STABLE (Traffic Manager: President Edition) - 20210509 Update</description>
-<guid isPermaLink="false">1637663252-20210509</guid>
-</item>
-</channel>
+    </channel>
 </rss>
