@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] UK Georgian Offices by Mntoes</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2482606218</link>
-<description>[Building] UK Georgian Offices by Mntoes</description>
-<guid isPermaLink="false">2482606218</guid>
-</item>
-<item>
-<title>[Building] Prinzipalmarkt No 5 (Münster, Germany) Double Corner by Lilienherz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2482637520</link>
-<description>[Building] Prinzipalmarkt No 5 (Münster, Germany) Double Corner by Lilienherz</description>
-<guid isPermaLink="false">2482637520</guid>
-</item>
-<item>
-<title>[Park] Parking 4x4 by catra</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2482645532</link>
-<description>[Park] Parking 4x4 by catra</description>
-<guid isPermaLink="false">2482645532</guid>
-</item>
-</channel>
+    </channel>
 </rss>
