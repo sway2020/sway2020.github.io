@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] ПАЗ-320402-03 by Captain Toof</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2482665520</link>
+<description>[Vehicle] ПАЗ-320402-03 by Captain Toof</description>
+<guid isPermaLink="false">2482665520</guid>
+</item>
+<item>
+<title>[Vehicle] Toyota Porte by Oyass3</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2482902139</link>
+<description>[Vehicle] Toyota Porte by Oyass3</description>
+<guid isPermaLink="false">2482902139</guid>
+</item>
+</channel>
 </rss>
