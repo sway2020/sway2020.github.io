@@ -8,47 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank - XXLarge by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484293632</link>
-<description>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank - XXLarge by GhostRaiderMX</description>
-<guid isPermaLink="false">2484293632</guid>
-</item>
-<item>
-<title>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Arrows - XXLarge by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484293893</link>
-<description>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Arrows - XXLarge by GhostRaiderMX</description>
-<guid isPermaLink="false">2484293893</guid>
-</item>
-<item>
-<title>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Right Arrows - XXLarge by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484294171</link>
-<description>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Right Arrows - XXLarge by GhostRaiderMX</description>
-<guid isPermaLink="false">2484294171</guid>
-</item>
-<item>
-<title>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Left Arrows - XXLarge by GhostRaiderMX</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484294353</link>
-<description>[Prop] Freeway (Highway) HR Sign - 3 Lane - Blank Left Arrows - XXLarge by GhostRaiderMX</description>
-<guid isPermaLink="false">2484294353</guid>
-</item>
-<item>
-<title>[Mod Update] Node Controller Renewal 3.0.1 - 20210511 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472062376</link>
-<description>[Mod Update] Node Controller Renewal 3.0.1 - 20210511 Update</description>
-<guid isPermaLink="false">2472062376-20210511</guid>
-</item>
-<item>
-<title>[Mod Update] ROTTERdam: Road Texture Terrain Edge Remover [BETA] - 20210511 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2474567113</link>
-<description>[Mod Update] ROTTERdam: Road Texture Terrain Edge Remover [BETA] - 20210511 Update</description>
-<guid isPermaLink="false">2474567113-20210511</guid>
-</item>
-<item>
-<title>[Mod Update] Parkify - 20210511 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1393452031</link>
-<description>[Mod Update] Parkify - 20210511 Update</description>
-<guid isPermaLink="false">1393452031-20210511</guid>
-</item>
-</channel>
+    </channel>
 </rss>
