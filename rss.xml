@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Cizeta V16T limo (vehicle) by Archie Cuntingham</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484143281</link>
+<description>[Vehicle] Cizeta V16T limo (vehicle) by Archie Cuntingham</description>
+<guid isPermaLink="false">2484143281</guid>
+</item>
+<item>
+<title>[Building] Set of Elevated Metro Stations by clus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484161950</link>
+<description>[Building] Set of Elevated Metro Stations by clus</description>
+<guid isPermaLink="false">2484161950</guid>
+</item>
+</channel>
 </rss>
