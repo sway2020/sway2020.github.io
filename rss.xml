@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Medium police station by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485094479</link>
+<description>[Building] Medium police station by Robal</description>
+<guid isPermaLink="false">2485094479</guid>
+</item>
+<item>
+<title>[Building] Robals offices pack #2 - different corner angles by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485097090</link>
+<description>[Building] Robals offices pack #2 - different corner angles by Robal</description>
+<guid isPermaLink="false">2485097090</guid>
+</item>
+<item>
+<title>[Mod Update] SharedStopEnabler - 20210512 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2096382380</link>
+<description>[Mod Update] SharedStopEnabler - 20210512 Update</description>
+<guid isPermaLink="false">2096382380-20210512</guid>
+</item>
+</channel>
 </rss>
