@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Tay Bay Brewing Co. prop pack by Cyber Scythe X</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484977761</link>
+<description>[Prop] Tay Bay Brewing Co. prop pack by Cyber Scythe X</description>
+<guid isPermaLink="false">2484977761</guid>
+</item>
+<item>
+<title>[Prop] Retro Newspaper Kiosk by Jopy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484990071</link>
+<description>[Prop] Retro Newspaper Kiosk by Jopy</description>
+<guid isPermaLink="false">2484990071</guid>
+</item>
+</channel>
 </rss>
