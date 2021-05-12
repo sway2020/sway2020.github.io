@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Painted Ladies by cbudd</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484751410</link>
-<description>[Building] Painted Ladies by cbudd</description>
-<guid isPermaLink="false">2484751410</guid>
-</item>
-<item>
-<title>[Building] Painted Ladies Retro by cbudd</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2484801680</link>
-<description>[Building] Painted Ladies Retro by cbudd</description>
-<guid isPermaLink="false">2484801680</guid>
-</item>
-</channel>
+    </channel>
 </rss>
