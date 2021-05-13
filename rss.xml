@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Robals generic 4x2 apartments by Robal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486136082</link>
-<description>[Building] Robals generic 4x2 apartments by Robal</description>
-<guid isPermaLink="false">2486136082</guid>
+<title>[Park] Modular Parking - Middle Piece by meehigh82</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486213260</link>
+<description>[Park] Modular Parking - Middle Piece by meehigh82</description>
+<guid isPermaLink="false">2486213260</guid>
+</item>
+<item>
+<title>[Park] Modular Parking - Road Piece by meehigh82</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486213596</link>
+<description>[Park] Modular Parking - Road Piece by meehigh82</description>
+<guid isPermaLink="false">2486213596</guid>
+</item>
+<item>
+<title>[Building] Edificio Espace - Curitiba (Brazil) by luminou</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486215115</link>
+<description>[Building] Edificio Espace - Curitiba (Brazil) by luminou</description>
+<guid isPermaLink="false">2486215115</guid>
 </item>
 </channel>
 </rss>
