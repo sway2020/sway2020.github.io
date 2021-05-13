@@ -8,15 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Lugia Statue by RAFARIO</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485987326</link>
-<description>[Building] Lugia Statue by RAFARIO</description>
-<guid isPermaLink="false">2485987326</guid>
-</item>
-<item>
-<title>[Prop] Patched Wall Cement 1 by Dave89</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486007256</link>
-<description>[Prop] Patched Wall Cement 1 by Dave89</description>
-<guid isPermaLink="false">2486007256</guid>
-</item>
+    </channel>
+</rss>
