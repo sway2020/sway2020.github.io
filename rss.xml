@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Ryde BRT Station Props by Nochin98</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486211405</link>
-<description>[Prop] Ryde BRT Station Props by Nochin98</description>
-<guid isPermaLink="false">2486211405</guid>
-</item>
-<item>
-<title>[Building] Ryde BRT Station - Stairs/Elevator by Nochin98</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486397096</link>
-<description>[Building] Ryde BRT Station - Stairs/Elevator by Nochin98</description>
-<guid isPermaLink="false">2486397096</guid>
-</item>
-<item>
-<title>[Road] Ryde BRT Road - 2L 2W by Nochin98</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486417528</link>
-<description>[Road] Ryde BRT Road - 2L 2W by Nochin98</description>
-<guid isPermaLink="false">2486417528</guid>
-</item>
-</channel>
+    </channel>
 </rss>
