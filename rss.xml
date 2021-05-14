@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Park] 1 x 1 Park by rjbstuff</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485618185</link>
+<description>[Park] 1 x 1 Park by rjbstuff</description>
+<guid isPermaLink="false">2485618185</guid>
+</item>
+<item>
+<title>[Mod] UI Resolution 1.0 by macsergey</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487213155</link>
+<description>[Mod] UI Resolution 1.0 by macsergey</description>
+<guid isPermaLink="false">2487213155</guid>
+</item>
+<item>
+<title>[Building] Hexa offices by Robal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487241704</link>
+<description>[Building] Hexa offices by Robal</description>
+<guid isPermaLink="false">2487241704</guid>
+</item>
+</channel>
 </rss>
