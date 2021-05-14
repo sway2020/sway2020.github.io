@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] International Space Elevator by Grunder Industries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486981448</link>
+<description>[Building] International Space Elevator by Grunder Industries</description>
+<guid isPermaLink="false">2486981448</guid>
+</item>
+<item>
+<title>[Vehicle] [Trolley Bus] New Flyer XT40 (Vancouver livery) by JSF-1</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487059306</link>
+<description>[Vehicle] [Trolley Bus] New Flyer XT40 (Vancouver livery) by JSF-1</description>
+<guid isPermaLink="false">2487059306</guid>
+</item>
+<item>
+<title>[Vehicle] [Trolley Bus] New Flyer XT60 (Vancouver livery) by JSF-1</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487059882</link>
+<description>[Vehicle] [Trolley Bus] New Flyer XT60 (Vancouver livery) by JSF-1</description>
+<guid isPermaLink="false">2487059882</guid>
+</item>
+</channel>
 </rss>
