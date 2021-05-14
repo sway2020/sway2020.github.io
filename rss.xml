@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Park] 5x4 - Park by rjbstuff</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485656689</link>
+<description>[Park] 5x4 - Park by rjbstuff</description>
+<guid isPermaLink="false">2485656689</guid>
+</item>
+</channel>
 </rss>
