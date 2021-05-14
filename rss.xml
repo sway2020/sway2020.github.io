@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] RJs Road 1 Alley Yellow by ruungji</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485966115</link>
-<description>[Road] RJs Road 1 Alley Yellow by ruungji</description>
-<guid isPermaLink="false">2485966115</guid>
-</item>
-<item>
-<title>[Road] RJs Road 1 One Way by ruungji</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2485966591</link>
-<description>[Road] RJs Road 1 One Way by ruungji</description>
-<guid isPermaLink="false">2485966591</guid>
-</item>
-<item>
-<title>[Road] Roadway Bike Roads (Pack) by REV0</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2486344417</link>
-<description>[Road] Roadway Bike Roads (Pack) by REV0</description>
-<guid isPermaLink="false">2486344417</guid>
-</item>
-</channel>
+    </channel>
 </rss>
