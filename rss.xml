@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Condo Eco Vita Ideale by Duhya</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487364801</link>
-<description>[Building] Condo Eco Vita Ideale by Duhya</description>
-<guid isPermaLink="false">2487364801</guid>
-</item>
-<item>
-<title>[Building] Kit Homes - Sears - The  Walton by Bungalow Man</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487399799</link>
-<description>[Building] Kit Homes - Sears - The  Walton by Bungalow Man</description>
-<guid isPermaLink="false">2487399799</guid>
-</item>
-</channel>
+    </channel>
 </rss>
