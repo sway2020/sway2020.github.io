@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] TWY: Cobblestone-Asphalt (Wired) by Pewex</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487561067</link>
+<description>[Road] TWY: Cobblestone-Asphalt (Wired) by Pewex</description>
+<guid isPermaLink="false">2487561067</guid>
+</item>
+<item>
+<title>[Road] TWY: Cobblestone-Asphalt (Wireless) by Pewex</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487562012</link>
+<description>[Road] TWY: Cobblestone-Asphalt (Wireless) by Pewex</description>
+<guid isPermaLink="false">2487562012</guid>
+</item>
+</channel>
 </rss>
