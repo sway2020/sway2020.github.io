@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] JP TRANSPORT Post Truck by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487677979</link>
+<description>[Vehicle] JP TRANSPORT Post Truck by jaijai</description>
+<guid isPermaLink="false">2487677979</guid>
+</item>
+<item>
+<title>[Prop] JP TRANSPORT Post Truck Prop by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487678093</link>
+<description>[Prop] JP TRANSPORT Post Truck Prop by jaijai</description>
+<guid isPermaLink="false">2487678093</guid>
+</item>
+<item>
+<title>[Building] House Koshino (小篠邸) by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487712748</link>
+<description>[Building] House Koshino (小篠邸) by christinayan</description>
+<guid isPermaLink="false">2487712748</guid>
+</item>
+</channel>
 </rss>
