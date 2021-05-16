@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] Yet Another Toolbar [TEST] - 20210516 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448994345</link>
-<description>[Mod Update] Yet Another Toolbar [TEST] - 20210516 Update</description>
-<guid isPermaLink="false">2448994345-20210516</guid>
-</item>
-<item>
-<title>[Mod Update] Broken Nodes Detector - 20210516 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1777173984</link>
-<description>[Mod Update] Broken Nodes Detector - 20210516 Update</description>
-<guid isPermaLink="false">1777173984-20210516</guid>
-</item>
-</channel>
+    </channel>
 </rss>
