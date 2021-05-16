@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] eswe verkehr logo by SvenBerlin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2488835829</link>
-<description>[Prop] eswe verkehr logo by SvenBerlin</description>
-<guid isPermaLink="false">2488835829</guid>
-</item>
-</channel>
+    </channel>
 </rss>
