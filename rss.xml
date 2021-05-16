@@ -9,22 +9,34 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Vanilla Style Pack - Modern Buses by Failer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489060156</link>
-<description>[Vehicle] Vanilla Style Pack - Modern Buses by Failer</description>
-<guid isPermaLink="false">2489060156</guid>
+<title>[Vehicle] Vanilla Style Pack - Contemporary Buses by Failer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489073979</link>
+<description>[Vehicle] Vanilla Style Pack - Contemporary Buses by Failer</description>
+<guid isPermaLink="false">2489073979</guid>
 </item>
 <item>
-<title>[Building] Pusher Boat by Ploefke</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489064108</link>
-<description>[Building] Pusher Boat by Ploefke</description>
-<guid isPermaLink="false">2489064108</guid>
+<title>[Vehicle] Vanilla Style Pack - Old Buses by Failer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489099020</link>
+<description>[Vehicle] Vanilla Style Pack - Old Buses by Failer</description>
+<guid isPermaLink="false">2489099020</guid>
 </item>
 <item>
-<title>[Vehicle] Vanilla Style Pack - Cubic Buses by Failer</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489066806</link>
-<description>[Vehicle] Vanilla Style Pack - Cubic Buses by Failer</description>
-<guid isPermaLink="false">2489066806</guid>
+<title>[Vehicle] Vanilla Style Pack - Auxiliary Buses by Failer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489105714</link>
+<description>[Vehicle] Vanilla Style Pack - Auxiliary Buses by Failer</description>
+<guid isPermaLink="false">2489105714</guid>
+</item>
+<item>
+<title>[Vehicle] Vanilla Style Pack - InterCity Buses [No DLC] by Failer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489115800</link>
+<description>[Vehicle] Vanilla Style Pack - InterCity Buses [No DLC] by Failer</description>
+<guid isPermaLink="false">2489115800</guid>
+</item>
+<item>
+<title>[Building] Empty Pushed Barge by Ploefke</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2489149507</link>
+<description>[Building] Empty Pushed Barge by Ploefke</description>
+<guid isPermaLink="false">2489149507</guid>
 </item>
 </channel>
 </rss>
