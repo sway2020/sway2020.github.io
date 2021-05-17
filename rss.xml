@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] 圆明园Royal Imperial Garden by Ming Yue</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2488166483</link>
-<description>[Park] 圆明园Royal Imperial Garden by Ming Yue</description>
-<guid isPermaLink="false">2488166483</guid>
-</item>
-</channel>
+    </channel>
 </rss>
