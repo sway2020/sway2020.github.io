@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] 1989 Buick Century coupe by Archie Cuntingham</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491103994</link>
+<description>[Vehicle] 1989 Buick Century coupe by Archie Cuntingham</description>
+<guid isPermaLink="false">2491103994</guid>
+</item>
+</channel>
 </rss>
