@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Small Startup Business by kaigun</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2490377186</link>
-<description>[Building] Small Startup Business by kaigun</description>
-<guid isPermaLink="false">2490377186</guid>
-</item>
-</channel>
+    </channel>
 </rss>
