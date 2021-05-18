@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Tropico villa1 by ercanasker1</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491114202</link>
-<description>[Building] Tropico villa1 by ercanasker1</description>
-<guid isPermaLink="false">2491114202</guid>
-</item>
-<item>
-<title>[Building] Pace University - New-Yok (Unique building version) by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491157559</link>
-<description>[Building] Pace University - New-Yok (Unique building version) by luminou</description>
-<guid isPermaLink="false">2491157559</guid>
-</item>
-<item>
-<title>[Building] Pace University - New-York (Version University) by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491159146</link>
-<description>[Building] Pace University - New-York (Version University) by luminou</description>
-<guid isPermaLink="false">2491159146</guid>
-</item>
-<item>
-<title>[Prop] 203 series - KAI Commuter [Prop] by meshd</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491183637</link>
-<description>[Prop] 203 series - KAI Commuter [Prop] by meshd</description>
-<guid isPermaLink="false">2491183637</guid>
-</item>
-<item>
-<title>[Vehicle] 203 series - KAI Commuter [Train] by meshd</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2491184672</link>
-<description>[Vehicle] 203 series - KAI Commuter [Train] by meshd</description>
-<guid isPermaLink="false">2491184672</guid>
-</item>
-<item>
-<title>[Mod Update] FPS Booster - 20210518 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2105755179</link>
-<description>[Mod Update] FPS Booster - 20210518 Update</description>
-<guid isPermaLink="false">2105755179-20210518</guid>
-</item>
-</channel>
+    </channel>
 </rss>
