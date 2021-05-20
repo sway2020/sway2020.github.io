@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Library  Old Book Shop by turbo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492693392</link>
+<description>[Building] Library  Old Book Shop by turbo</description>
+<guid isPermaLink="false">2492693392</guid>
+</item>
+</channel>
 </rss>
