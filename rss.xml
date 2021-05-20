@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Fifth Street Towers by Keith3201</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492870511</link>
-<description>[Building] Fifth Street Towers by Keith3201</description>
-<guid isPermaLink="false">2492870511</guid>
+<title>[Vehicle] 2021 Hyundai Santa Fe by LinkingDan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492596039</link>
+<description>[Vehicle] 2021 Hyundai Santa Fe by LinkingDan</description>
+<guid isPermaLink="false">2492596039</guid>
+</item>
+<item>
+<title>[Mod Update] 81 Tiles (Fixed for 1.2+) - 20210520 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=576327847</link>
+<description>[Mod Update] 81 Tiles (Fixed for 1.2+) - 20210520 Update</description>
+<guid isPermaLink="false">576327847-20210520</guid>
 </item>
 </channel>
 </rss>
