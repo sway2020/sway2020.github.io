@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] LED Billboar Pack - Hololive Talents by Angel_Fubuki</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492268588</link>
-<description>[Prop] LED Billboar Pack - Hololive Talents by Angel_Fubuki</description>
-<guid isPermaLink="false">2492268588</guid>
-</item>
-<item>
-<title>[Vehicle] Calgary Police Service 2018 FPIS by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492281334</link>
-<description>[Vehicle] Calgary Police Service 2018 FPIS by AncientShay</description>
-<guid isPermaLink="false">2492281334</guid>
-</item>
-<item>
-<title>[Vehicle] Calgary Police Service 2018 FPIS NP by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492282992</link>
-<description>[Vehicle] Calgary Police Service 2018 FPIS NP by AncientShay</description>
-<guid isPermaLink="false">2492282992</guid>
-</item>
-<item>
-<title>[Vehicle] Calgary Police Service 2018 FPIU by AncientShay</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2492283664</link>
-<description>[Vehicle] Calgary Police Service 2018 FPIU by AncientShay</description>
-<guid isPermaLink="false">2492283664</guid>
-</item>
-</channel>
+    </channel>
 </rss>
