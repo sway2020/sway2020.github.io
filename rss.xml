@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 1990 Oldsmobile Cutlass Ciera wagon by Archie Cuntingham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2493366686</link>
-<description>[Vehicle] 1990 Oldsmobile Cutlass Ciera wagon by Archie Cuntingham</description>
-<guid isPermaLink="false">2493366686</guid>
-</item>
-</channel>
+    </channel>
 </rss>
