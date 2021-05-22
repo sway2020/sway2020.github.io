@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Scania Citywide LF by Oyass3</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494211631</link>
-<description>[Vehicle] Scania Citywide LF by Oyass3</description>
-<guid isPermaLink="false">2494211631</guid>
+<title>[Vehicle] DMV931 bus Ver. by mirin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494272724</link>
+<description>[Vehicle] DMV931 bus Ver. by mirin</description>
+<guid isPermaLink="false">2494272724</guid>
+</item>
+<item>
+<title>[Vehicle] DMV931 train Ver. by mirin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494273532</link>
+<description>[Vehicle] DMV931 train Ver. by mirin</description>
+<guid isPermaLink="false">2494273532</guid>
 </item>
 </channel>
 </rss>
