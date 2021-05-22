@@ -9,16 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] DMV931 bus Ver. by mirin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494272724</link>
-<description>[Vehicle] DMV931 bus Ver. by mirin</description>
-<guid isPermaLink="false">2494272724</guid>
+<title>[Building] CIMFreight Dock (Barges Compatible) by squirrelarmyuk</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494344473</link>
+<description>[Building] CIMFreight Dock (Barges Compatible) by squirrelarmyuk</description>
+<guid isPermaLink="false">2494344473</guid>
 </item>
 <item>
-<title>[Vehicle] DMV931 train Ver. by mirin</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494273532</link>
-<description>[Vehicle] DMV931 train Ver. by mirin</description>
-<guid isPermaLink="false">2494273532</guid>
+<title>[Building] Lavos Dome (ラヴォスドーム) by christinayan</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2494364638</link>
+<description>[Building] Lavos Dome (ラヴォスドーム) by christinayan</description>
+<guid isPermaLink="false">2494364638</guid>
+</item>
+<item>
+<title>[Mod Update] Loading Screen Mod - 20210522 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=667342976</link>
+<description>[Mod Update] Loading Screen Mod - 20210522 Update</description>
+<guid isPermaLink="false">667342976-20210522</guid>
+</item>
+<item>
+<title>[Mod Update] Loading Screen Mod [Test] - 20210522 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=833779378</link>
+<description>[Mod Update] Loading Screen Mod [Test] - 20210522 Update</description>
+<guid isPermaLink="false">833779378-20210522</guid>
 </item>
 </channel>
 </rss>
