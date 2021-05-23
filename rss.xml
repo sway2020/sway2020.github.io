@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Tugboat A - ploppable version by [Delta ²k5]</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2495168875</link>
-<description>[Building] Tugboat A - ploppable version by [Delta ²k5]</description>
-<guid isPermaLink="false">2495168875</guid>
-</item>
-</channel>
+    </channel>
 </rss>
