@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] Nissan Tsuru GSI by gusi</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497654623</link>
-<description>[Vehicle] Nissan Tsuru GSI by gusi</description>
-<guid isPermaLink="false">2497654623</guid>
+<title>[Mod Update] Not So Unique Buildings - 20210525 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=466834228</link>
+<description>[Mod Update] Not So Unique Buildings - 20210525 Update</description>
+<guid isPermaLink="false">466834228-20210525</guid>
+</item>
+<item>
+<title>[Mod Update] Building Usage - 20210525 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2048266761</link>
+<description>[Mod Update] Building Usage - 20210525 Update</description>
+<guid isPermaLink="false">2048266761-20210525</guid>
 </item>
 </channel>
 </rss>
