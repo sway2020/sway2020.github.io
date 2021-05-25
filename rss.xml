@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 2012 Dodge Journey by Californianyt</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2496383214</link>
-<description>[Vehicle] 2012 Dodge Journey by Californianyt</description>
-<guid isPermaLink="false">2496383214</guid>
-</item>
-<item>
-<title>[Vehicle] 2010 Toyota Camry Hybrid by Californianyt</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2496386881</link>
-<description>[Vehicle] 2010 Toyota Camry Hybrid by Californianyt</description>
-<guid isPermaLink="false">2496386881</guid>
-</item>
-<item>
-<title>[Building] Glass Cover for DLC Station by 超究武神千千</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497216537</link>
-<description>[Building] Glass Cover for DLC Station by 超究武神千千</description>
-<guid isPermaLink="false">2497216537</guid>
-</item>
-<item>
-<title>[Prop] Texas Special Prop Pack by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497232969</link>
-<description>[Prop] Texas Special Prop Pack by Astro</description>
-<guid isPermaLink="false">2497232969</guid>
-</item>
-<item>
-<title>[Vehicle] EMD E8 Texas Special by Astro</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497233473</link>
-<description>[Vehicle] EMD E8 Texas Special by Astro</description>
-<guid isPermaLink="false">2497233473</guid>
-</item>
-</channel>
+    </channel>
 </rss>
