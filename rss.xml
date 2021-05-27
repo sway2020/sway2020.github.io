@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Steelers Pro Shop by yinzerr</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2498986381</link>
-<description>[Building] Steelers Pro Shop by yinzerr</description>
-<guid isPermaLink="false">2498986381</guid>
-</item>
-<item>
-<title>[Mod Update] RON, the network replacer 0.5 - 20210526 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2405917899</link>
-<description>[Mod Update] RON, the network replacer 0.5 - 20210526 Update</description>
-<guid isPermaLink="false">2405917899-20210526</guid>
-</item>
-<item>
-<title>[Mod Update] Advanced Building Level Control 0.9.1 - 20210526 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2133705267</link>
-<description>[Mod Update] Advanced Building Level Control 0.9.1 - 20210526 Update</description>
-<guid isPermaLink="false">2133705267-20210526</guid>
-</item>
-</channel>
+    </channel>
 </rss>
