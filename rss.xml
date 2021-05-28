@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] JPTS_Left turn permissible sign pack 常時左折可/左折可標識 by sean321c</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2499987375</link>
+<description>[Prop] JPTS_Left turn permissible sign pack 常時左折可/左折可標識 by sean321c</description>
+<guid isPermaLink="false">2499987375</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - MFAC - 3 Car - Airport Connect Livery by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2500015662</link>
+<description>[Vehicle] Ryde - MFAC - 3 Car - Airport Connect Livery by Blue Thunder</description>
+<guid isPermaLink="false">2500015662</guid>
+</item>
+</channel>
 </rss>
