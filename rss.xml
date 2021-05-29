@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Brentford Football Club Crest by Cheezime</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501752044</link>
-<description>[Prop] Brentford Football Club Crest by Cheezime</description>
-<guid isPermaLink="false">2501752044</guid>
-</item>
-<item>
-<title>[Building] Dorfhaus 11 by Accapulco</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501802394</link>
-<description>[Building] Dorfhaus 11 by Accapulco</description>
-<guid isPermaLink="false">2501802394</guid>
-</item>
-</channel>
+    </channel>
 </rss>
