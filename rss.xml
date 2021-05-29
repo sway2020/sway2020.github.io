@@ -8,5 +8,53 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Caio Apache Vip - São Paulo City Livery by Klyte45</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501412038</link>
+<description>[Vehicle] Caio Apache Vip - São Paulo City Livery by Klyte45</description>
+<guid isPermaLink="false">2501412038</guid>
+</item>
+<item>
+<title>[Building] S Parking Lot Easy by suginoko</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501493033</link>
+<description>[Building] S Parking Lot Easy by suginoko</description>
+<guid isPermaLink="false">2501493033</guid>
+</item>
+<item>
+<title>[Building] Brazilian terraced house 1 by alexvibel</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501537959</link>
+<description>[Building] Brazilian terraced house 1 by alexvibel</description>
+<guid isPermaLink="false">2501537959</guid>
+</item>
+<item>
+<title>[Building] Banana Store by GD Zsozso</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501563740</link>
+<description>[Building] Banana Store by GD Zsozso</description>
+<guid isPermaLink="false">2501563740</guid>
+</item>
+<item>
+<title>[Mod Update] Intersection Marking Tool 1.7.3 - 20210529 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2140418403</link>
+<description>[Mod Update] Intersection Marking Tool 1.7.3 - 20210529 Update</description>
+<guid isPermaLink="false">2140418403-20210529</guid>
+</item>
+<item>
+<title>[Mod Update] UI Resolution 1.1.1 - 20210529 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2487213155</link>
+<description>[Mod Update] UI Resolution 1.1.1 - 20210529 Update</description>
+<guid isPermaLink="false">2487213155-20210529</guid>
+</item>
+<item>
+<title>[Mod Update] No Big Truck 1.1 - 20210529 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2069057130</link>
+<description>[Mod Update] No Big Truck 1.1 - 20210529 Update</description>
+<guid isPermaLink="false">2069057130-20210529</guid>
+</item>
+<item>
+<title>[Mod Update] Node Controller Renewal 3.0.4 - 20210529 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2472062376</link>
+<description>[Mod Update] Node Controller Renewal 3.0.4 - 20210529 Update</description>
+<guid isPermaLink="false">2472062376-20210529</guid>
+</item>
+</channel>
 </rss>
