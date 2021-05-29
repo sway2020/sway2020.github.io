@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] tram Kirnitzschtalbahn T57-6 + 2x B2_62 by MeisterMonis</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501107959</link>
-<description>[Vehicle] tram Kirnitzschtalbahn T57-6 + 2x B2_62 by MeisterMonis</description>
-<guid isPermaLink="false">2501107959</guid>
-</item>
-<item>
-<title>[Building] PlayStation Station(プレステステーション) by christinayan</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501194430</link>
-<description>[Building] PlayStation Station(プレステステーション) by christinayan</description>
-<guid isPermaLink="false">2501194430</guid>
-</item>
-<item>
-<title>[Mod Update] Japanese Localization Mod (日本語化MOD) - 20210529 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=427164957</link>
-<description>[Mod Update] Japanese Localization Mod (日本語化MOD) - 20210529 Update</description>
-<guid isPermaLink="false">427164957-20210529</guid>
-</item>
-<item>
-<title>[Mod Update] Intersection Marking Tool 1.8 [BETA] - 20210529 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2159934925</link>
-<description>[Mod Update] Intersection Marking Tool 1.8 [BETA] - 20210529 Update</description>
-<guid isPermaLink="false">2159934925-20210529</guid>
-</item>
-</channel>
+    </channel>
 </rss>
