@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Alte Waiblinger Markthalle by Accapulco</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501946222</link>
-<description>[Building] Alte Waiblinger Markthalle by Accapulco</description>
-<guid isPermaLink="false">2501946222</guid>
+<title>[Road] NExt2 Six-Lane Road with Median by cylis</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501997608</link>
+<description>[Road] NExt2 Six-Lane Road with Median by cylis</description>
+<guid isPermaLink="false">2501997608</guid>
+</item>
+<item>
+<title>[Road] NExt2 Eight-Lane Road by cylis</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501998463</link>
+<description>[Road] NExt2 Eight-Lane Road by cylis</description>
+<guid isPermaLink="false">2501998463</guid>
+</item>
+<item>
+<title>[Mod Update] Mod Thai-Language Renewal - 20210529 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=417245527</link>
+<description>[Mod Update] Mod Thai-Language Renewal - 20210529 Update</description>
+<guid isPermaLink="false">417245527-20210529</guid>
 </item>
 </channel>
 </rss>
