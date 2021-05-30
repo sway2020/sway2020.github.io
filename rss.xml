@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] 86haruWindows by ham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497277181</link>
-<description>[Prop] 86haruWindows by ham</description>
-<guid isPermaLink="false">2497277181</guid>
-</item>
-<item>
-<title>[Building] Simple Apartment I , Unique Building. by ham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2497327751</link>
-<description>[Building] Simple Apartment I , Unique Building. by ham</description>
-<guid isPermaLink="false">2497327751</guid>
-</item>
-<item>
-<title>[Building] Simple Apartment I [TypeS] by ham</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2501760431</link>
-<description>[Building] Simple Apartment I [TypeS] by ham</description>
-<guid isPermaLink="false">2501760431</guid>
-</item>
-<item>
-<title>[Building] Xavier Hall by Grunder Industries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502153092</link>
-<description>[Building] Xavier Hall by Grunder Industries</description>
-<guid isPermaLink="false">2502153092</guid>
-</item>
-<item>
-<title>[Prop] TWTS_Fire Hydrant Sign 台灣消防栓標誌 by sean321c</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502225941</link>
-<description>[Prop] TWTS_Fire Hydrant Sign 台灣消防栓標誌 by sean321c</description>
-<guid isPermaLink="false">2502225941</guid>
-</item>
-</channel>
+    </channel>
 </rss>
