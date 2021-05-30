@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] ПИК - Люблинский парк. Башня. by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502412183</link>
+<description>[Building] ПИК - Люблинский парк. Башня. by arthaix</description>
+<guid isPermaLink="false">2502412183</guid>
+</item>
+<item>
+<title>[Building] ПИК - Люблинский парк. Прямой корпус. by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502441657</link>
+<description>[Building] ПИК - Люблинский парк. Прямой корпус. by arthaix</description>
+<guid isPermaLink="false">2502441657</guid>
+</item>
+<item>
+<title>[Prop] metro station prop pack by SvenBerlin</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502452677</link>
+<description>[Prop] metro station prop pack by SvenBerlin</description>
+<guid isPermaLink="false">2502452677</guid>
+</item>
+</channel>
 </rss>
