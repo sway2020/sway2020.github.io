@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Brazilian newsstand by alexvibel</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502863605</link>
-<description>[Prop] Brazilian newsstand by alexvibel</description>
-<guid isPermaLink="false">2502863605</guid>
-</item>
-</channel>
+    </channel>
 </rss>
