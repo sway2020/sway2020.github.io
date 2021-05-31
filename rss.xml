@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Quincy #2 Shaft  Rockhouse by ModZilla</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2503087777</link>
+<description>[Building] Quincy #2 Shaft  Rockhouse by ModZilla</description>
+<guid isPermaLink="false">2503087777</guid>
+</item>
+<item>
+<title>[Vehicle] F-51K Cavalier Mustang by EvametryE</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2503128562</link>
+<description>[Vehicle] F-51K Cavalier Mustang by EvametryE</description>
+<guid isPermaLink="false">2503128562</guid>
+</item>
+</channel>
 </rss>
