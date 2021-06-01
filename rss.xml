@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Taiwan Style Road Name Plate by Taipei Native</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2504261849</link>
+<description>[Prop] Taiwan Style Road Name Plate by Taipei Native</description>
+<guid isPermaLink="false">2504261849</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde - ICE 4 - 13 Car - Azure Livery by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2504360403</link>
+<description>[Vehicle] Ryde - ICE 4 - 13 Car - Azure Livery by Blue Thunder</description>
+<guid isPermaLink="false">2504360403</guid>
+</item>
+</channel>
 </rss>
