@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Traffic Light Pack- Tampa, FL by potato24x7</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502240330</link>
-<description>[Prop] Traffic Light Pack- Tampa, FL by potato24x7</description>
-<guid isPermaLink="false">2502240330</guid>
-</item>
-<item>
-<title>[Road] DARK HWY 8M 2 LANE + 1 LANE by B.A.F</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505258404</link>
-<description>[Road] DARK HWY 8M 2 LANE + 1 LANE by B.A.F</description>
-<guid isPermaLink="false">2505258404</guid>
-</item>
-<item>
-<title>[Vehicle] Ice Cream Van!! by Oyass3</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505368632</link>
-<description>[Vehicle] Ice Cream Van!! by Oyass3</description>
-<guid isPermaLink="false">2505368632</guid>
-</item>
-</channel>
+    </channel>
 </rss>
