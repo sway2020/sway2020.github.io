@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] 2018 Fiat Doblo Van by VeesGuy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505577824</link>
+<description>[Vehicle] 2018 Fiat Doblo Van by VeesGuy</description>
+<guid isPermaLink="false">2505577824</guid>
+</item>
+<item>
+<title>[Mod Update] Enhanced Outside Connections View - 20210602 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2368396560</link>
+<description>[Mod Update] Enhanced Outside Connections View - 20210602 Update</description>
+<guid isPermaLink="false">2368396560-20210602</guid>
+</item>
+</channel>
 </rss>
