@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod] Power Storage by Will</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505592803</link>
+<description>[Mod] Power Storage by Will</description>
+<guid isPermaLink="false">2505592803</guid>
+</item>
+<item>
+<title>[Prop] JAS39 C/D  GRIPEN Prop pack by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505714532</link>
+<description>[Prop] JAS39 C/D  GRIPEN Prop pack by WTigerTw</description>
+<guid isPermaLink="false">2505714532</guid>
+</item>
+</channel>
 </rss>
