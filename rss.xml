@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Vertical Neon Beams by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505910486</link>
+<description>[Prop] Vertical Neon Beams by indapni</description>
+<guid isPermaLink="false">2505910486</guid>
+</item>
+<item>
+<title>[Building] Bonifatiuskirche by Accapulco</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505913662</link>
+<description>[Building] Bonifatiuskirche by Accapulco</description>
+<guid isPermaLink="false">2505913662</guid>
+</item>
+</channel>
 </rss>
