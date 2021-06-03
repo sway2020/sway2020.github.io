@@ -8,53 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] JAS39C L  by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505815793</link>
-<description>[Vehicle] JAS39C L  by WTigerTw</description>
-<guid isPermaLink="false">2505815793</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39C V  by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505816065</link>
-<description>[Vehicle] JAS39C V  by WTigerTw</description>
-<guid isPermaLink="false">2505816065</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39D L by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505816224</link>
-<description>[Vehicle] JAS39D L by WTigerTw</description>
-<guid isPermaLink="false">2505816224</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39D V  by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505816377</link>
-<description>[Vehicle] JAS39D V  by WTigerTw</description>
-<guid isPermaLink="false">2505816377</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39C LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505816728</link>
-<description>[Vehicle] JAS39C LWP by WTigerTw</description>
-<guid isPermaLink="false">2505816728</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39C VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505816898</link>
-<description>[Vehicle] JAS39C VWP by WTigerTw</description>
-<guid isPermaLink="false">2505816898</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39D LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505817055</link>
-<description>[Vehicle] JAS39D LWP by WTigerTw</description>
-<guid isPermaLink="false">2505817055</guid>
-</item>
-<item>
-<title>[Vehicle] JAS39D VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2505817228</link>
-<description>[Vehicle] JAS39D VWP by WTigerTw</description>
-<guid isPermaLink="false">2505817228</guid>
-</item>
-</channel>
+    </channel>
 </rss>
