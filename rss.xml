@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] [RICO] И-522А by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506111415</link>
+<description>[Building] [RICO] И-522А by arthaix</description>
+<guid isPermaLink="false">2506111415</guid>
+</item>
+<item>
+<title>[Prop] (PROP) イナバ物置 / JP Inaba strage room A B by koma</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506148347</link>
+<description>[Prop] (PROP) イナバ物置 / JP Inaba strage room A B by koma</description>
+<guid isPermaLink="false">2506148347</guid>
+</item>
+<item>
+<title>[Prop] Japanese Police Station Sign(KOBAN) Park 2 交番の看板2 by sanyu321</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506154412</link>
+<description>[Prop] Japanese Police Station Sign(KOBAN) Park 2 交番の看板2 by sanyu321</description>
+<guid isPermaLink="false">2506154412</guid>
+</item>
+</channel>
 </rss>
