@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod] UltimateMod v2.10.0 BETA by mcclane96[GER]</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506369356</link>
+<description>[Mod] UltimateMod v2.10.0 BETA by mcclane96[GER]</description>
+<guid isPermaLink="false">2506369356</guid>
+</item>
+</channel>
 </rss>
