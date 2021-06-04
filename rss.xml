@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] Talent 2 Abellio Prop Pack by Nostrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507424726</link>
-<description>[Prop] Talent 2 Abellio Prop Pack by Nostrix</description>
-<guid isPermaLink="false">2507424726</guid>
-</item>
-<item>
-<title>[Prop] Talent 2 Bwegt Prop Pack by Nostrix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507473973</link>
-<description>[Prop] Talent 2 Bwegt Prop Pack by Nostrix</description>
-<guid isPermaLink="false">2507473973</guid>
-</item>
-</channel>
+    </channel>
 </rss>
