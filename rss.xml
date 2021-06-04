@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 2017 Mclaren 720s by M.HA</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506633308</link>
-<description>[Vehicle] 2017 Mclaren 720s by M.HA</description>
-<guid isPermaLink="false">2506633308</guid>
-</item>
-</channel>
+    </channel>
 </rss>
