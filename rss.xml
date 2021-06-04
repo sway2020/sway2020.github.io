@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Thai Secondary School (Pack) - อาคารเรียนระดับมัธยมศึกษา by PalmsTime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506832147</link>
+<description>[Building] Thai Secondary School (Pack) - อาคารเรียนระดับมัธยมศึกษา by PalmsTime</description>
+<guid isPermaLink="false">2506832147</guid>
+</item>
+<item>
+<title>[Building] Thai Teacher House (Pack) - บ้านพักครู by PalmsTime</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506974625</link>
+<description>[Building] Thai Teacher House (Pack) - บ้านพักครู by PalmsTime</description>
+<guid isPermaLink="false">2506974625</guid>
+</item>
+<item>
+<title>[Prop] More trafficVision by PelusoNN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507017827</link>
+<description>[Prop] More trafficVision by PelusoNN</description>
+<guid isPermaLink="false">2507017827</guid>
+</item>
+<item>
+<title>[Prop] More TrafficVision. Orange by PelusoNN</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507021721</link>
+<description>[Prop] More TrafficVision. Orange by PelusoNN</description>
+<guid isPermaLink="false">2507021721</guid>
+</item>
+</channel>
 </rss>
