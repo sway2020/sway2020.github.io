@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Volvo FH 4x2 Rigid Agri with trailer by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506788076</link>
+<description>[Vehicle] Volvo FH 4x2 Rigid Agri with trailer by ron_fu-ta</description>
+<guid isPermaLink="false">2506788076</guid>
+</item>
+<item>
+<title>[Mod Update] Load Order Mod Beta - 20210603 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2448824112</link>
+<description>[Mod Update] Load Order Mod Beta - 20210603 Update</description>
+<guid isPermaLink="false">2448824112-20210603</guid>
+</item>
+<item>
+<title>[Mod Update] Continues Junction median V2-alpha  (Direct Connect Roads) - 20210603 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2104976832</link>
+<description>[Mod Update] Continues Junction median V2-alpha  (Direct Connect Roads) - 20210603 Update</description>
+<guid isPermaLink="false">2104976832-20210603</guid>
+</item>
+</channel>
 </rss>
