@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] グレーチング - 道路装飾プロップ/Grating - props to decorate the road by kasasasa</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507114805</link>
+<description>[Prop] グレーチング - 道路装飾プロップ/Grating - props to decorate the road by kasasasa</description>
+<guid isPermaLink="false">2507114805</guid>
+</item>
+<item>
+<title>[Building] Zubr-class LCAC by Yakudami</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507151233</link>
+<description>[Building] Zubr-class LCAC by Yakudami</description>
+<guid isPermaLink="false">2507151233</guid>
+</item>
+<item>
+<title>[Building] Government Primary School 官立小學 [Type B (款二)] - Hong Kong 1960s by Dennie Mok</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2507175316</link>
+<description>[Building] Government Primary School 官立小學 [Type B (款二)] - Hong Kong 1960s by Dennie Mok</description>
+<guid isPermaLink="false">2507175316</guid>
+</item>
+</channel>
 </rss>
