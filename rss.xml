@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] PL Walls 1 by siudowski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508182379</link>
+<description>[Prop] PL Walls 1 by siudowski</description>
+<guid isPermaLink="false">2508182379</guid>
+</item>
+<item>
+<title>[Prop] PL Walls 2 by siudowski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508183675</link>
+<description>[Prop] PL Walls 2 by siudowski</description>
+<guid isPermaLink="false">2508183675</guid>
+</item>
+<item>
+<title>[Prop] PL Walls 3 by siudowski</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508185176</link>
+<description>[Prop] PL Walls 3 by siudowski</description>
+<guid isPermaLink="false">2508185176</guid>
+</item>
+<item>
+<title>[Vehicle] 2017 Ford Focus by VeesGuy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508249431</link>
+<description>[Vehicle] 2017 Ford Focus by VeesGuy</description>
+<guid isPermaLink="false">2508249431</guid>
+</item>
+</channel>
 </rss>
