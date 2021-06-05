@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] KumoNoUeNo Monorail Station (雲の上のモノレール駅) by christinayan</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508010628</link>
-<description>[Building] KumoNoUeNo Monorail Station (雲の上のモノレール駅) by christinayan</description>
-<guid isPermaLink="false">2508010628</guid>
-</item>
-<item>
-<title>[Building] Monorail Station (12u) by mshsheng</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508032745</link>
-<description>[Building] Monorail Station (12u) by mshsheng</description>
-<guid isPermaLink="false">2508032745</guid>
-</item>
-<item>
-<title>[Prop] Prop Amazon trailer by ron_fu-ta</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508053599</link>
-<description>[Prop] Prop Amazon trailer by ron_fu-ta</description>
-<guid isPermaLink="false">2508053599</guid>
-</item>
-<item>
-<title>[Mod Update] Better Road Toolbar - 20210605 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2502526929</link>
-<description>[Mod Update] Better Road Toolbar - 20210605 Update</description>
-<guid isPermaLink="false">2502526929-20210605</guid>
-</item>
-</channel>
+    </channel>
 </rss>
