@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Набор дорожных знаков №3 (RU) [бета] by Captain Toof</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508617855</link>
+<description>[Prop] Набор дорожных знаков №3 (RU) [бета] by Captain Toof</description>
+<guid isPermaLink="false">2508617855</guid>
+</item>
+</channel>
 </rss>
