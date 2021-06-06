@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] krrishsquare by Milgram</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2506706159</link>
-<description>[Building] krrishsquare by Milgram</description>
-<guid isPermaLink="false">2506706159</guid>
-</item>
-<item>
-<title>[Building] Dorfhaus 14 by Accapulco</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2509161313</link>
-<description>[Building] Dorfhaus 14 by Accapulco</description>
-<guid isPermaLink="false">2509161313</guid>
-</item>
-</channel>
+    </channel>
 </rss>
