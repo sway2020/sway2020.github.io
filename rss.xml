@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] Ryde - Talent 2 - 5 Car - Azure Livery by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2508881442</link>
+<description>[Vehicle] Ryde - Talent 2 - 5 Car - Azure Livery by Blue Thunder</description>
+<guid isPermaLink="false">2508881442</guid>
+</item>
+</channel>
 </rss>
