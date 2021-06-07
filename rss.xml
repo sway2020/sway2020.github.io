@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod Update] Node Controller Renewal 3.1 [BETA] - 20210607 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2462845270</link>
+<description>[Mod Update] Node Controller Renewal 3.1 [BETA] - 20210607 Update</description>
+<guid isPermaLink="false">2462845270-20210607</guid>
+</item>
+</channel>
 </rss>
