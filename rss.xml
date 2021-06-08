@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] F15C LWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2510773677</link>
-<description>[Vehicle] F15C LWP by WTigerTw</description>
-<guid isPermaLink="false">2510773677</guid>
-</item>
-<item>
-<title>[Vehicle] F15C VWP by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2510773904</link>
-<description>[Vehicle] F15C VWP by WTigerTw</description>
-<guid isPermaLink="false">2510773904</guid>
-</item>
-</channel>
+    </channel>
 </rss>
