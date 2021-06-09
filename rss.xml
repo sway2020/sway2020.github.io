@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Alternative Vanilla Styles: Emergency Vehicles by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511672521</link>
-<description>[Vehicle] Alternative Vanilla Styles: Emergency Vehicles by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2511672521</guid>
-</item>
-<item>
-<title>[Prop] Alternative Vanilla Styles: Emergency Vehicle Props by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511674191</link>
-<description>[Prop] Alternative Vanilla Styles: Emergency Vehicle Props by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2511674191</guid>
-</item>
-<item>
-<title>[Vehicle] Alternative Vanilla Style: Prison Bus by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511676736</link>
-<description>[Vehicle] Alternative Vanilla Style: Prison Bus by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2511676736</guid>
-</item>
-<item>
-<title>[Prop] Alternative Vanilla: Prison Bus Props by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511677727</link>
-<description>[Prop] Alternative Vanilla: Prison Bus Props by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2511677727</guid>
-</item>
-</channel>
+    </channel>
 </rss>
