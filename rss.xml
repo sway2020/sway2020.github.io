@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Vanilla Alternatives: Corpse Van (Hearse) by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2512303942</link>
-<description>[Vehicle] Vanilla Alternatives: Corpse Van (Hearse) by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2512303942</guid>
-</item>
-<item>
-<title>[Prop] Vanilla Alternatives: Corpse Van Prop by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2512305858</link>
-<description>[Prop] Vanilla Alternatives: Corpse Van Prop by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2512305858</guid>
-</item>
-</channel>
+    </channel>
 </rss>
