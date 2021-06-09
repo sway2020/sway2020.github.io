@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Council House, Perth 9x8 by Maihess</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511782402</link>
+<description>[Building] Council House, Perth 9x8 by Maihess</description>
+<guid isPermaLink="false">2511782402</guid>
+</item>
+</channel>
 </rss>
