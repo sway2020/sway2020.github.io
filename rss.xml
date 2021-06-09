@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] [EB21h16] Elv station module by konfox0527</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511925729</link>
-<description>[Building] [EB21h16] Elv station module by konfox0527</description>
-<guid isPermaLink="false">2511925729</guid>
-</item>
-<item>
-<title>[Building] [EB21Xh16] Elv station module by konfox0527</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511926113</link>
-<description>[Building] [EB21Xh16] Elv station module by konfox0527</description>
-<guid isPermaLink="false">2511926113</guid>
-</item>
-<item>
-<title>[Building] Berchmans Hall by Grunder Industries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511979558</link>
-<description>[Building] Berchmans Hall by Grunder Industries</description>
-<guid isPermaLink="false">2511979558</guid>
-</item>
-</channel>
+    </channel>
 </rss>
