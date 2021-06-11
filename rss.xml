@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Dorfhaus 15 by Accapulco</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2513487216</link>
+<description>[Building] Dorfhaus 15 by Accapulco</description>
+<guid isPermaLink="false">2513487216</guid>
+</item>
+</channel>
 </rss>
