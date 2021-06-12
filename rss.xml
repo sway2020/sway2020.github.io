@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Overpass office by Goemon</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2514195671</link>
+<description>[Prop] Overpass office by Goemon</description>
+<guid isPermaLink="false">2514195671</guid>
+</item>
+</channel>
 </rss>
