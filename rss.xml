@@ -8,5 +8,35 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod] Building Spawn Points 1.1 [BETA] by macsergey</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2504315382</link>
+<description>[Mod] Building Spawn Points 1.1 [BETA] by macsergey</description>
+<guid isPermaLink="false">2504315382</guid>
+</item>
+<item>
+<title>[Road] DARK RD 8M 3 LANE by B.A.F</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2511825397</link>
+<description>[Road] DARK RD 8M 3 LANE by B.A.F</description>
+<guid isPermaLink="false">2511825397</guid>
+</item>
+<item>
+<title>[Road] DARK RD 8M 2 LANE 1 WAY by B.A.F</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2513493010</link>
+<description>[Road] DARK RD 8M 2 LANE 1 WAY by B.A.F</description>
+<guid isPermaLink="false">2513493010</guid>
+</item>
+<item>
+<title>[Road] DARK RD 8M 2 LANE 2 WAY B by B.A.F</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2513523527</link>
+<description>[Road] DARK RD 8M 2 LANE 2 WAY B by B.A.F</description>
+<guid isPermaLink="false">2513523527</guid>
+</item>
+<item>
+<title>[Road] DARK HWY 16M 8 LANE 1 WAY by B.A.F</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2514809105</link>
+<description>[Road] DARK HWY 16M 8 LANE 1 WAY by B.A.F</description>
+<guid isPermaLink="false">2514809105</guid>
+</item>
+</channel>
 </rss>
