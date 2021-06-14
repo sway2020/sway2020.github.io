@@ -8,5 +8,41 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Road] DARK LANE 4M 2 LANE 2 WAY by B.A.F</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516518196</link>
+<description>[Road] DARK LANE 4M 2 LANE 2 WAY by B.A.F</description>
+<guid isPermaLink="false">2516518196</guid>
+</item>
+<item>
+<title>[Building] Soviet Navy Cruiser Avrora/Aurora by ArcLight_Cyrus</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516613579</link>
+<description>[Building] Soviet Navy Cruiser Avrora/Aurora by ArcLight_Cyrus</description>
+<guid isPermaLink="false">2516613579</guid>
+</item>
+<item>
+<title>[Prop] London Underground 1996TS [Prop] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516626359</link>
+<description>[Prop] London Underground 1996TS [Prop] by meshd</description>
+<guid isPermaLink="false">2516626359</guid>
+</item>
+<item>
+<title>[Vehicle] London Underground 1996TS [Train] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516626847</link>
+<description>[Vehicle] London Underground 1996TS [Train] by meshd</description>
+<guid isPermaLink="false">2516626847</guid>
+</item>
+<item>
+<title>[Vehicle] London Underground 1996TS [Metro] by meshd</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516627182</link>
+<description>[Vehicle] London Underground 1996TS [Metro] by meshd</description>
+<guid isPermaLink="false">2516627182</guid>
+</item>
+<item>
+<title>[Vehicle] 2016 Ford Transit Turkish Hearse by VeesGuy</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516652290</link>
+<description>[Vehicle] 2016 Ford Transit Turkish Hearse by VeesGuy</description>
+<guid isPermaLink="false">2516652290</guid>
+</item>
+</channel>
 </rss>
