@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] USRP Concrete Interstate Set by conno</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2516987122</link>
-<description>[Road] USRP Concrete Interstate Set by conno</description>
-<guid isPermaLink="false">2516987122</guid>
-</item>
-<item>
-<title>[Building] BM Entrance - NY Special #01 by clus</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517003096</link>
-<description>[Building] BM Entrance - NY Special #01 by clus</description>
-<guid isPermaLink="false">2517003096</guid>
-</item>
-</channel>
+    </channel>
 </rss>
