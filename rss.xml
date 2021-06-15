@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] Ryde BRT Roads - 6 Lane 2 Way Pack by Nochin98</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517278015</link>
-<description>[Road] Ryde BRT Roads - 6 Lane 2 Way Pack by Nochin98</description>
-<guid isPermaLink="false">2517278015</guid>
-</item>
-</channel>
+    </channel>
 </rss>
