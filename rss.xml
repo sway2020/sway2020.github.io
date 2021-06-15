@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] 重庆广发银行 by 红米</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517448716</link>
-<description>[Building] 重庆广发银行 by 红米</description>
-<guid isPermaLink="false">2517448716</guid>
+<title>[Vehicle] Ryde - Rapid Transport Tram by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517479232</link>
+<description>[Vehicle] Ryde - Rapid Transport Tram by Blue Thunder</description>
+<guid isPermaLink="false">2517479232</guid>
+</item>
+<item>
+<title>[Prop] Ryde - Rapid Transport Tram - Props by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517479733</link>
+<description>[Prop] Ryde - Rapid Transport Tram - Props by Blue Thunder</description>
+<guid isPermaLink="false">2517479733</guid>
 </item>
 </channel>
 </rss>
