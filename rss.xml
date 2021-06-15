@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] 中式厂区大门+改版 by Auto</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517304296</link>
-<description>[Building] 中式厂区大门+改版 by Auto</description>
-<guid isPermaLink="false">2517304296</guid>
-</item>
-</channel>
+    </channel>
 </rss>
