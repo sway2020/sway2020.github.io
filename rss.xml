@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] PTV Gemilang Bus by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2518846993</link>
-<description>[Vehicle] PTV Gemilang Bus by Zekiarsu</description>
-<guid isPermaLink="false">2518846993</guid>
-</item>
-<item>
-<title>[Vehicle] PTV Gemilang - Transdev Expansion Pack by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2518849000</link>
-<description>[Vehicle] PTV Gemilang - Transdev Expansion Pack by Zekiarsu</description>
-<guid isPermaLink="false">2518849000</guid>
-</item>
-</channel>
+    </channel>
 </rss>
