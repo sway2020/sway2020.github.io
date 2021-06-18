@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Dorfhaus 16 by Accapulco</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2519889775</link>
+<description>[Building] Dorfhaus 16 by Accapulco</description>
+<guid isPermaLink="false">2519889775</guid>
+</item>
+<item>
+<title>[Building] [RICO] I-782 by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2519898812</link>
+<description>[Building] [RICO] I-782 by arthaix</description>
+<guid isPermaLink="false">2519898812</guid>
+</item>
+</channel>
 </rss>
