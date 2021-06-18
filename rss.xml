@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod] Smooth Camera by Masaki Kimura</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2519929628</link>
-<description>[Mod] Smooth Camera by Masaki Kimura</description>
-<guid isPermaLink="false">2519929628</guid>
-</item>
-<item>
-<title>[Vehicle] Vanilla Style North American Freight Train: Container by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2520101456</link>
-<description>[Vehicle] Vanilla Style North American Freight Train: Container by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2520101456</guid>
-</item>
-<item>
-<title>[Prop] Vanilla Style North American Freight Train Prop Pack by Chomers - Mercy Main BTW</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2520103013</link>
-<description>[Prop] Vanilla Style North American Freight Train Prop Pack by Chomers - Mercy Main BTW</description>
-<guid isPermaLink="false">2520103013</guid>
-</item>
-<item>
-<title>[Prop] JP Exterior Base B＆C by Suginoko</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2520114216</link>
-<description>[Prop] JP Exterior Base B＆C by Suginoko</description>
-<guid isPermaLink="false">2520114216</guid>
-</item>
-</channel>
+    </channel>
 </rss>
