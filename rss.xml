@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Canadian Corps Variations 1.1 by indapni</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522329612</link>
+<description>[Prop] Canadian Corps Variations 1.1 by indapni</description>
+<guid isPermaLink="false">2522329612</guid>
+</item>
+<item>
+<title>[Building] Elevated Bus Station by joshualuk0108</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522354057</link>
+<description>[Building] Elevated Bus Station by joshualuk0108</description>
+<guid isPermaLink="false">2522354057</guid>
+</item>
+</channel>
 </rss>
