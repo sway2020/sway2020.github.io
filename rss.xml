@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] 34.5/12.47 kV Powerline with Props by jackskellington6_CS</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2521512003</link>
-<description>[Road] 34.5/12.47 kV Powerline with Props by jackskellington6_CS</description>
-<guid isPermaLink="false">2521512003</guid>
-</item>
-<item>
-<title>[Mod Update] Extended Game Options - 20210619 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=1237383751</link>
-<description>[Mod Update] Extended Game Options - 20210619 Update</description>
-<guid isPermaLink="false">1237383751-20210619</guid>
-</item>
-</channel>
+    </channel>
 </rss>
