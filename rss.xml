@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Mod Update] Intersection Marking Tool 1.8 [BETA] - 20210620 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2159934925</link>
-<description>[Mod Update] Intersection Marking Tool 1.8 [BETA] - 20210620 Update</description>
-<guid isPermaLink="false">2159934925-20210620</guid>
-</item>
-</channel>
+    </channel>
 </rss>
