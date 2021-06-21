@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Park] 1x1 Downtown Parking by Glam_Helen</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2519004676</link>
-<description>[Park] 1x1 Downtown Parking by Glam_Helen</description>
-<guid isPermaLink="false">2519004676</guid>
-</item>
-<item>
-<title>[Park] 1x1 BBQ Yard by Glam_Helen</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2520662177</link>
-<description>[Park] 1x1 BBQ Yard by Glam_Helen</description>
-<guid isPermaLink="false">2520662177</guid>
-</item>
-<item>
-<title>[Park] 1x1 PlayFort Yard by Glam_Helen</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2520663937</link>
-<description>[Park] 1x1 PlayFort Yard by Glam_Helen</description>
-<guid isPermaLink="false">2520663937</guid>
-</item>
-<item>
-<title>[Park] 1x1 Parking Airlines Billboard by Glam_Helen</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2521715549</link>
-<description>[Park] 1x1 Parking Airlines Billboard by Glam_Helen</description>
-<guid isPermaLink="false">2521715549</guid>
-</item>
-</channel>
+    </channel>
 </rss>
