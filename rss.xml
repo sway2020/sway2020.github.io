@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] ddd by nardo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522772885</link>
+<description>[Vehicle] ddd by nardo</description>
+<guid isPermaLink="false">2522772885</guid>
+</item>
+<item>
+<title>[Building] Moscow Bus Stop by eligios</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522792749</link>
+<description>[Building] Moscow Bus Stop by eligios</description>
+<guid isPermaLink="false">2522792749</guid>
+</item>
+<item>
+<title>[Prop] Japanese Road Closed Sing Park 日本の通行止看板セット(JPTS) by sanyu321</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522800115</link>
+<description>[Prop] Japanese Road Closed Sing Park 日本の通行止看板セット(JPTS) by sanyu321</description>
+<guid isPermaLink="false">2522800115</guid>
+</item>
+<item>
+<title>[Building] 碧桂园住宅楼 by 红米</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522815503</link>
+<description>[Building] 碧桂园住宅楼 by 红米</description>
+<guid isPermaLink="false">2522815503</guid>
+</item>
+</channel>
 </rss>
