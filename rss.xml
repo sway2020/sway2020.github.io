@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] DARK LANE 4M 1 LANE + ℗ by B.A.F</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2521302090</link>
-<description>[Road] DARK LANE 4M 1 LANE + ℗ by B.A.F</description>
-<guid isPermaLink="false">2521302090</guid>
-</item>
-<item>
-<title>[Building] Equality house by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2523806504</link>
-<description>[Building] Equality house by EvametryE</description>
-<guid isPermaLink="false">2523806504</guid>
-</item>
-<item>
-<title>[Building] Mott house (transgender house) by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2523806986</link>
-<description>[Building] Mott house (transgender house) by EvametryE</description>
-<guid isPermaLink="false">2523806986</guid>
-</item>
-</channel>
+    </channel>
 </rss>
