@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] Southern Pacific Prop Pack by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2524785278</link>
+<description>[Prop] Southern Pacific Prop Pack by Astro</description>
+<guid isPermaLink="false">2524785278</guid>
+</item>
+<item>
+<title>[Vehicle] EMD E8 Southern Pacific Coast Daylight by Astro</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2524785844</link>
+<description>[Vehicle] EMD E8 Southern Pacific Coast Daylight by Astro</description>
+<guid isPermaLink="false">2524785844</guid>
+</item>
+<item>
+<title>[Vehicle] D3S PAZ-320435-14 Vector NEXT 7.6 by DANZ | D3S DESIGN®</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2524789176</link>
+<description>[Vehicle] D3S PAZ-320435-14 Vector NEXT 7.6 by DANZ | D3S DESIGN®</description>
+<guid isPermaLink="false">2524789176</guid>
+</item>
+<item>
+<title>[Vehicle] D3S PAZ-320415-14 Vector NEXT 8.8 by DANZ | D3S DESIGN®</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2524789276</link>
+<description>[Vehicle] D3S PAZ-320415-14 Vector NEXT 8.8 by DANZ | D3S DESIGN®</description>
+<guid isPermaLink="false">2524789276</guid>
+</item>
+</channel>
 </rss>
