@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] New Flyer D40LF by 謀</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525843374</link>
-<description>[Vehicle] New Flyer D40LF by 謀</description>
-<guid isPermaLink="false">2525843374</guid>
-</item>
-<item>
-<title>[Vehicle] D40LF Toei Bus by 謀</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525845679</link>
-<description>[Vehicle] D40LF Toei Bus by 謀</description>
-<guid isPermaLink="false">2525845679</guid>
-</item>
-<item>
-<title>[Prop] UK Political Party Election Placards by Brammered</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525879656</link>
-<description>[Prop] UK Political Party Election Placards by Brammered</description>
-<guid isPermaLink="false">2525879656</guid>
-</item>
-<item>
-<title>[Prop] SMCR Vehicles PROPpack by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525880796</link>
-<description>[Prop] SMCR Vehicles PROPpack by aries</description>
-<guid isPermaLink="false">2525880796</guid>
-</item>
-</channel>
+    </channel>
 </rss>
