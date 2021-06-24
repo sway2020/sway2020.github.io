@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] [RICO] II-49 by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525503935</link>
-<description>[Building] [RICO] II-49 by arthaix</description>
-<guid isPermaLink="false">2525503935</guid>
-</item>
-<item>
-<title>[Vehicle] PTV Volgren Optimus - Props by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525525589</link>
-<description>[Vehicle] PTV Volgren Optimus - Props by Zekiarsu</description>
-<guid isPermaLink="false">2525525589</guid>
-</item>
-<item>
-<title>[Vehicle] PTV Volgren CR228L - Props by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525527134</link>
-<description>[Vehicle] PTV Volgren CR228L - Props by Zekiarsu</description>
-<guid isPermaLink="false">2525527134</guid>
-</item>
-<item>
-<title>[Vehicle] PTV Gemilang - Props by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525527835</link>
-<description>[Vehicle] PTV Gemilang - Props by Zekiarsu</description>
-<guid isPermaLink="false">2525527835</guid>
-</item>
-</channel>
+    </channel>
 </rss>
