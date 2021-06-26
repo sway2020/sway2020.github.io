@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] CFA44 L2WP Republic of Emmeria Air Force by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2527700444</link>
-<description>[Vehicle] CFA44 L2WP Republic of Emmeria Air Force by WTigerTw</description>
-<guid isPermaLink="false">2527700444</guid>
-</item>
-<item>
-<title>[Vehicle] CFA44 V2WP Republic of Emmeria Air Force by WTigerTw</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2527700903</link>
-<description>[Vehicle] CFA44 V2WP Republic of Emmeria Air Force by WTigerTw</description>
-<guid isPermaLink="false">2527700903</guid>
-</item>
-</channel>
+    </channel>
 </rss>
