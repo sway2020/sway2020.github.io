@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] 久松商店 / JP Hisamatsu shop by koma</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2527620639</link>
-<description>[Building] 久松商店 / JP Hisamatsu shop by koma</description>
-<guid isPermaLink="false">2527620639</guid>
+<title>[Vehicle] CFA44 L2WP Republic of Emmeria Air Force by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2527700444</link>
+<description>[Vehicle] CFA44 L2WP Republic of Emmeria Air Force by WTigerTw</description>
+<guid isPermaLink="false">2527700444</guid>
+</item>
+<item>
+<title>[Vehicle] CFA44 V2WP Republic of Emmeria Air Force by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2527700903</link>
+<description>[Vehicle] CFA44 V2WP Republic of Emmeria Air Force by WTigerTw</description>
+<guid isPermaLink="false">2527700903</guid>
 </item>
 </channel>
 </rss>
