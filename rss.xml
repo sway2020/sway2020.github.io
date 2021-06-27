@@ -8,47 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Cabrillo Buses [XN40 + XN60] by Blue Thunder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517352817</link>
-<description>[Vehicle] Cabrillo Buses [XN40 + XN60] by Blue Thunder</description>
-<guid isPermaLink="false">2517352817</guid>
-</item>
-<item>
-<title>[Prop] Cabrillo Buses - Props by Blue Thunder</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2517353279</link>
-<description>[Prop] Cabrillo Buses - Props by Blue Thunder</description>
-<guid isPermaLink="false">2517353279</guid>
-</item>
-<item>
-<title>[Vehicle] Setra S516 HHD2 CONNECT by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529735454</link>
-<description>[Vehicle] Setra S516 HHD2 CONNECT by aries</description>
-<guid isPermaLink="false">2529735454</guid>
-</item>
-<item>
-<title>[Building] Bishop Palace Münster, Gemany. (Fürstbischöfliches Schloss) by Lilienherz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529752987</link>
-<description>[Building] Bishop Palace Münster, Gemany. (Fürstbischöfliches Schloss) by Lilienherz</description>
-<guid isPermaLink="false">2529752987</guid>
-</item>
-<item>
-<title>[Vehicle] LASD Ford CVPI MX7000 SET by Dying</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529789762</link>
-<description>[Vehicle] LASD Ford CVPI MX7000 SET by Dying</description>
-<guid isPermaLink="false">2529789762</guid>
-</item>
-<item>
-<title>[Building] Pennington Field - Bedford TEXAS by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529792517</link>
-<description>[Building] Pennington Field - Bedford TEXAS by luminou</description>
-<guid isPermaLink="false">2529792517</guid>
-</item>
-<item>
-<title>[Prop] Logos for Pennington Field stadium by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529818413</link>
-<description>[Prop] Logos for Pennington Field stadium by luminou</description>
-<guid isPermaLink="false">2529818413</guid>
-</item>
-</channel>
+    </channel>
 </rss>
