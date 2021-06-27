@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] DARK LANE 4M 1 LANE BUS TRAM by B.A.F</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2528913914</link>
-<description>[Road] DARK LANE 4M 1 LANE BUS TRAM by B.A.F</description>
-<guid isPermaLink="false">2528913914</guid>
-</item>
-</channel>
+    </channel>
 </rss>
