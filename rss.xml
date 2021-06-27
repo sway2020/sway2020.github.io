@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] ПАЗ-320402-05 by Captain Toof</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2525414717</link>
-<description>[Vehicle] ПАЗ-320402-05 by Captain Toof</description>
-<guid isPermaLink="false">2525414717</guid>
-</item>
-<item>
-<title>[Vehicle] ПАЗ-320412-03 by Captain Toof</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2528871835</link>
-<description>[Vehicle] ПАЗ-320412-03 by Captain Toof</description>
-<guid isPermaLink="false">2528871835</guid>
-</item>
-<item>
-<title>[Building] Fire Station  Ambulance Depot #1 - Hong Kong by Dennie Mok</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529050575</link>
-<description>[Building] Fire Station  Ambulance Depot #1 - Hong Kong by Dennie Mok</description>
-<guid isPermaLink="false">2529050575</guid>
-</item>
-<item>
-<title>[Prop] 致梦想三角广告 by AaronShun</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529052292</link>
-<description>[Prop] 致梦想三角广告 by AaronShun</description>
-<guid isPermaLink="false">2529052292</guid>
-</item>
-<item>
-<title>[Prop] 致梦想高广告 by AaronShun</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529052700</link>
-<description>[Prop] 致梦想高广告 by AaronShun</description>
-<guid isPermaLink="false">2529052700</guid>
-</item>
-<item>
-<title>[Prop] Tulsa Flag Pack by Camdyn</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2529075547</link>
-<description>[Prop] Tulsa Flag Pack by Camdyn</description>
-<guid isPermaLink="false">2529075547</guid>
-</item>
-</channel>
+    </channel>
 </rss>
