@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Park] Capitol Courtyard by Matthew</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2526583328</link>
+<description>[Park] Capitol Courtyard by Matthew</description>
+<guid isPermaLink="false">2526583328</guid>
+</item>
+<item>
+<title>[Park] Capitol Reflection Pool by Matthew</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2526589266</link>
+<description>[Park] Capitol Reflection Pool by Matthew</description>
+<guid isPermaLink="false">2526589266</guid>
+</item>
+<item>
+<title>[Building] Giratina Statue by Rafario</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2530200107</link>
+<description>[Building] Giratina Statue by Rafario</description>
+<guid isPermaLink="false">2530200107</guid>
+</item>
+<item>
+<title>[Building] Metro Station　福岡市地下鉄入口 by Goemon</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2530261532</link>
+<description>[Building] Metro Station　福岡市地下鉄入口 by Goemon</description>
+<guid isPermaLink="false">2530261532</guid>
+</item>
+</channel>
 </rss>
