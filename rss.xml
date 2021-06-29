@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Charles St Manufacturing Set 3 by Clements</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531696842</link>
+<description>[Building] Charles St Manufacturing Set 3 by Clements</description>
+<guid isPermaLink="false">2531696842</guid>
+</item>
+<item>
+<title>[Vehicle] D3S Willie Bus by DANZ | D3S DESIGN®</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531780911</link>
+<description>[Vehicle] D3S Willie Bus by DANZ | D3S DESIGN®</description>
+<guid isPermaLink="false">2531780911</guid>
+</item>
+<item>
+<title>[Vehicle] NefAZ 5299 _urban by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531857704</link>
+<description>[Vehicle] NefAZ 5299 _urban by aries</description>
+<guid isPermaLink="false">2531857704</guid>
+</item>
+<item>
+<title>[Building] 110 William Street - New York by luminou</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531859006</link>
+<description>[Building] 110 William Street - New York by luminou</description>
+<guid isPermaLink="false">2531859006</guid>
+</item>
+</channel>
 </rss>
