@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Plattenbau ESK 400-600 supermarket by MeisterMonis</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2532369235</link>
+<description>[Building] Plattenbau ESK 400-600 supermarket by MeisterMonis</description>
+<guid isPermaLink="false">2532369235</guid>
+</item>
+<item>
+<title>[Road] Field Network Set by K_Green</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2532378707</link>
+<description>[Road] Field Network Set by K_Green</description>
+<guid isPermaLink="false">2532378707</guid>
+</item>
+</channel>
 </rss>
