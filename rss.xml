@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] Peugeot Spinner - Blade Runner by nardo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533252475</link>
-<description>[Vehicle] Peugeot Spinner - Blade Runner by nardo</description>
-<guid isPermaLink="false">2533252475</guid>
-</item>
-<item>
-<title>[Vehicle] NC100 4car - Futuristic Train by nardo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533275463</link>
-<description>[Vehicle] NC100 4car - Futuristic Train by nardo</description>
-<guid isPermaLink="false">2533275463</guid>
-</item>
-</channel>
+    </channel>
 </rss>
