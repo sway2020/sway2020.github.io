@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Park] Capitol Walking Path by Matthew</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531976835</link>
+<description>[Park] Capitol Walking Path by Matthew</description>
+<guid isPermaLink="false">2531976835</guid>
+</item>
+<item>
+<title>[Vehicle] SS Orbita - Ocean Liner by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533117085</link>
+<description>[Vehicle] SS Orbita - Ocean Liner by RoomMic</description>
+<guid isPermaLink="false">2533117085</guid>
+</item>
+<item>
+<title>[Vehicle] SS Santa Anita - Ocean Liner by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533118270</link>
+<description>[Vehicle] SS Santa Anita - Ocean Liner by RoomMic</description>
+<guid isPermaLink="false">2533118270</guid>
+</item>
+<item>
+<title>[Vehicle] SS Manoa - Ocean Liner by RoomMic</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533120639</link>
+<description>[Vehicle] SS Manoa - Ocean Liner by RoomMic</description>
+<guid isPermaLink="false">2533120639</guid>
+</item>
+</channel>
 </rss>
