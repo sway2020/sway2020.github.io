@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Scalpers Shop by Spal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534837112</link>
-<description>[Building] Scalpers Shop by Spal</description>
-<guid isPermaLink="false">2534837112</guid>
-</item>
-<item>
-<title>[Mod Update] Find It! 2 [BETA] - 20210702 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2187834843</link>
-<description>[Mod Update] Find It! 2 [BETA] - 20210702 Update</description>
-<guid isPermaLink="false">2187834843-20210702</guid>
-</item>
-</channel>
+    </channel>
 </rss>
