@@ -9,10 +9,40 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] House of Culture by Brammered</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534541326</link>
-<description>[Building] House of Culture by Brammered</description>
-<guid isPermaLink="false">2534541326</guid>
+<title>[Building] Ryde Bus Depot by ReviLoxilef</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534590225</link>
+<description>[Building] Ryde Bus Depot by ReviLoxilef</description>
+<guid isPermaLink="false">2534590225</guid>
+</item>
+<item>
+<title>[Building] Ryde Biofuel Bus Depot by ReviLoxilef</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534591163</link>
+<description>[Building] Ryde Biofuel Bus Depot by ReviLoxilef</description>
+<guid isPermaLink="false">2534591163</guid>
+</item>
+<item>
+<title>[Building] Ryde Sightseeing Bus Depot by ReviLoxilef</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534591903</link>
+<description>[Building] Ryde Sightseeing Bus Depot by ReviLoxilef</description>
+<guid isPermaLink="false">2534591903</guid>
+</item>
+<item>
+<title>[Building] Ryde Bus Depot Office by ReviLoxilef</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534592826</link>
+<description>[Building] Ryde Bus Depot Office by ReviLoxilef</description>
+<guid isPermaLink="false">2534592826</guid>
+</item>
+<item>
+<title>[Building] Basic Fit by Spal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534691015</link>
+<description>[Building] Basic Fit by Spal</description>
+<guid isPermaLink="false">2534691015</guid>
+</item>
+<item>
+<title>[Building] The Thinker by Spal</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534700148</link>
+<description>[Building] The Thinker by Spal</description>
+<guid isPermaLink="false">2534700148</guid>
 </item>
 </channel>
 </rss>
