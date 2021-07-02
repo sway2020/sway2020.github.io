@@ -9,10 +9,28 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Vehicle] PTV Bus Shelter (With Advertising) by Zekiarsu</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534301304</link>
-<description>[Vehicle] PTV Bus Shelter (With Advertising) by Zekiarsu</description>
-<guid isPermaLink="false">2534301304</guid>
+<title>[Prop] SHOP SIGNAL SPORTS GOODS by borg2003</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533849212</link>
+<description>[Prop] SHOP SIGNAL SPORTS GOODS by borg2003</description>
+<guid isPermaLink="false">2533849212</guid>
+</item>
+<item>
+<title>[Building] Sporttovary by borg2003</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2533850293</link>
+<description>[Building] Sporttovary by borg2003</description>
+<guid isPermaLink="false">2533850293</guid>
+</item>
+<item>
+<title>[Building] PTV Bus Shelter by Zekiarsu</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534320630</link>
+<description>[Building] PTV Bus Shelter by Zekiarsu</description>
+<guid isPermaLink="false">2534320630</guid>
+</item>
+<item>
+<title>[Building] PTV Bus Shelter (With Advertising) by Zekiarsu</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534321299</link>
+<description>[Building] PTV Bus Shelter (With Advertising) by Zekiarsu</description>
+<guid isPermaLink="false">2534321299</guid>
 </item>
 </channel>
 </rss>
