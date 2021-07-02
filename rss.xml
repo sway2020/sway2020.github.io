@@ -8,11 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Wien Energie by speedtraxxdj</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2534072214</link>
-<description>[Building] Wien Energie by speedtraxxdj</description>
-<guid isPermaLink="false">2534072214</guid>
-</item>
-</channel>
+    </channel>
 </rss>
