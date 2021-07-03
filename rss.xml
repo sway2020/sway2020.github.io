@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Vehicle] JR East series 209-3000 by ron_fu-ta</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535324419</link>
+<description>[Vehicle] JR East series 209-3000 by ron_fu-ta</description>
+<guid isPermaLink="false">2535324419</guid>
+</item>
+<item>
+<title>[Mod Update] Find It! 2 - 20210702 Update</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2133885971</link>
+<description>[Mod Update] Find It! 2 - 20210702 Update</description>
+<guid isPermaLink="false">2133885971-20210702</guid>
+</item>
+</channel>
 </rss>
