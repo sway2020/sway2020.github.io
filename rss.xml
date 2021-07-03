@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Prop] mizuki-city-pack vol.22 by 001HANNO</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2522068079</link>
-<description>[Prop] mizuki-city-pack vol.22 by 001HANNO</description>
-<guid isPermaLink="false">2522068079</guid>
-</item>
-<item>
-<title>[Vehicle] NCM100 - Futuristic Metro by nardo</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535514496</link>
-<description>[Vehicle] NCM100 - Futuristic Metro by nardo</description>
-<guid isPermaLink="false">2535514496</guid>
-</item>
-<item>
-<title>[Building] Wagara Building 2 (和柄ビル2) (RICO) by christinayan</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535575683</link>
-<description>[Building] Wagara Building 2 (和柄ビル2) (RICO) by christinayan</description>
-<guid isPermaLink="false">2535575683</guid>
-</item>
-</channel>
+    </channel>
 </rss>
