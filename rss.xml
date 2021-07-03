@@ -8,5 +8,23 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Prop] USSR Sign by FantasticVitalii !</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535800172</link>
+<description>[Prop] USSR Sign by FantasticVitalii !</description>
+<guid isPermaLink="false">2535800172</guid>
+</item>
+<item>
+<title>[Vehicle] NCM100 8car - Futuristic Metro by nardo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535815946</link>
+<description>[Vehicle] NCM100 8car - Futuristic Metro by nardo</description>
+<guid isPermaLink="false">2535815946</guid>
+</item>
+<item>
+<title>[Vehicle] NC100 8car - Futuristic Train by nardo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2535821433</link>
+<description>[Vehicle] NC100 8car - Futuristic Train by nardo</description>
+<guid isPermaLink="false">2535821433</guid>
+</item>
+</channel>
 </rss>
