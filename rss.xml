@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Elizabeth Tower by eran0004</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536710508</link>
-<description>[Building] Elizabeth Tower by eran0004</description>
-<guid isPermaLink="false">2536710508</guid>
-</item>
-<item>
-<title>[Building] Marble Lion (left) by Spal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536760834</link>
-<description>[Building] Marble Lion (left) by Spal</description>
-<guid isPermaLink="false">2536760834</guid>
-</item>
-<item>
-<title>[Building] Marble Lion (right) by Spal</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536762117</link>
-<description>[Building] Marble Lion (right) by Spal</description>
-<guid isPermaLink="false">2536762117</guid>
-</item>
-</channel>
+    </channel>
 </rss>
