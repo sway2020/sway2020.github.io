@@ -8,35 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] ms terminal roads by propermike</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2531109533</link>
-<description>[Road] ms terminal roads by propermike</description>
-<guid isPermaLink="false">2531109533</guid>
-</item>
-<item>
-<title>[Prop] Town Gazebo - PROP by Bungalow Man</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536279832</link>
-<description>[Prop] Town Gazebo - PROP by Bungalow Man</description>
-<guid isPermaLink="false">2536279832</guid>
-</item>
-<item>
-<title>[Road] Mikes Roads 2way 8lane by propermike</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536290145</link>
-<description>[Road] Mikes Roads 2way 8lane by propermike</description>
-<guid isPermaLink="false">2536290145</guid>
-</item>
-<item>
-<title>[Building] Gazebo - PARK LIFE by Bungalow Man</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536291882</link>
-<description>[Building] Gazebo - PARK LIFE by Bungalow Man</description>
-<guid isPermaLink="false">2536291882</guid>
-</item>
-<item>
-<title>[Road] Mikes Roads 2way 4lane 4-5 turn lane by propermike</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536292038</link>
-<description>[Road] Mikes Roads 2way 4lane 4-5 turn lane by propermike</description>
-<guid isPermaLink="false">2536292038</guid>
-</item>
-</channel>
+    </channel>
 </rss>
