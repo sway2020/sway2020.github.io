@@ -8,5 +8,35 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] DustyDonut membership symbol by DustyDonut</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536733063</link>
+<description>[Building] DustyDonut membership symbol by DustyDonut</description>
+<guid isPermaLink="false">2536733063</guid>
+</item>
+<item>
+<title>[Vehicle] ALKOR-5214 _urban by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536902922</link>
+<description>[Vehicle] ALKOR-5214 _urban by aries</description>
+<guid isPermaLink="false">2536902922</guid>
+</item>
+<item>
+<title>[Vehicle] MB Tourismo connect_plus by aries</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536903874</link>
+<description>[Vehicle] MB Tourismo connect_plus by aries</description>
+<guid isPermaLink="false">2536903874</guid>
+</item>
+<item>
+<title>[Prop] Ryde - D40LF - MIYO Livery - Prop [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536930033</link>
+<description>[Prop] Ryde - D40LF - MIYO Livery - Prop [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2536930033</guid>
+</item>
+<item>
+<title>[Prop] Ryde LHD - D40LF - MIYO Livery - Prop [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536930521</link>
+<description>[Prop] Ryde LHD - D40LF - MIYO Livery - Prop [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2536930521</guid>
+</item>
+</channel>
 </rss>
