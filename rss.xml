@@ -8,5 +8,11 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Banting  Best Public School by JSF-1</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536486380</link>
+<description>[Building] Banting  Best Public School by JSF-1</description>
+<guid isPermaLink="false">2536486380</guid>
+</item>
+</channel>
 </rss>
