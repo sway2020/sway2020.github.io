@@ -9,16 +9,40 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Wall Street Plaza by MadCat3D</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537457630</link>
-<description>[Building] Wall Street Plaza by MadCat3D</description>
-<guid isPermaLink="false">2537457630</guid>
+<title>[Prop] Desiro HC - bwegt (Prop Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537572503</link>
+<description>[Prop] Desiro HC - bwegt (Prop Pack) by REV0</description>
+<guid isPermaLink="false">2537572503</guid>
 </item>
 <item>
-<title>[Vehicle] TTC SRT UTDC ICTS MK1 by Aminushki</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537480520</link>
-<description>[Vehicle] TTC SRT UTDC ICTS MK1 by Aminushki</description>
-<guid isPermaLink="false">2537480520</guid>
+<title>[Prop] Siemens Desiro HC - DBAG + S-Bahn (Prop Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537572979</link>
+<description>[Prop] Siemens Desiro HC - DBAG + S-Bahn (Prop Pack) by REV0</description>
+<guid isPermaLink="false">2537572979</guid>
+</item>
+<item>
+<title>[Prop] Siemens Desiro HC - ODEG (Prop Pack) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537573489</link>
+<description>[Prop] Siemens Desiro HC - ODEG (Prop Pack) by REV0</description>
+<guid isPermaLink="false">2537573489</guid>
+</item>
+<item>
+<title>[Prop] Siemens Desiro HC - Gangway (Prop) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537573802</link>
+<description>[Prop] Siemens Desiro HC - Gangway (Prop) by REV0</description>
+<guid isPermaLink="false">2537573802</guid>
+</item>
+<item>
+<title>[Vehicle] Siemens Desiro HC - bwegt (4Cars) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537574630</link>
+<description>[Vehicle] Siemens Desiro HC - bwegt (4Cars) by REV0</description>
+<guid isPermaLink="false">2537574630</guid>
+</item>
+<item>
+<title>[Vehicle] Siemens Desiro HC - bwegt (8Cars) by REV0</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537574843</link>
+<description>[Vehicle] Siemens Desiro HC - bwegt (8Cars) by REV0</description>
+<guid isPermaLink="false">2537574843</guid>
 </item>
 </channel>
 </rss>
