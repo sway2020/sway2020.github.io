@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Lojas CEM Brazil by Mntoes</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537784516</link>
+<description>[Building] Lojas CEM Brazil by Mntoes</description>
+<guid isPermaLink="false">2537784516</guid>
+</item>
+<item>
+<title>[Building] Subtle Office Building 02 by O.C.B.</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2537805391</link>
+<description>[Building] Subtle Office Building 02 by O.C.B.</description>
+<guid isPermaLink="false">2537805391</guid>
+</item>
+</channel>
 </rss>
