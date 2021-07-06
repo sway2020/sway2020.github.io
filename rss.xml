@@ -8,23 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] _urban Bus shelter by aries</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2539125384</link>
-<description>[Building] _urban Bus shelter by aries</description>
-<guid isPermaLink="false">2539125384</guid>
-</item>
-<item>
-<title>[Vehicle] 1000Tipla Vilebrequin YT by [FR]Charlieco89</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2539138632</link>
-<description>[Vehicle] 1000Tipla Vilebrequin YT by [FR]Charlieco89</description>
-<guid isPermaLink="false">2539138632</guid>
-</item>
-<item>
-<title>[Prop] 1000Tipla Vilebrequin YT Prop by [FR]Charlieco89</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2539139357</link>
-<description>[Prop] 1000Tipla Vilebrequin YT Prop by [FR]Charlieco89</description>
-<guid isPermaLink="false">2539139357</guid>
-</item>
-</channel>
+    </channel>
 </rss>
