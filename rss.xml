@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Atatürk Museum House by yunusemre.oguz</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2538417767</link>
+<description>[Building] Atatürk Museum House by yunusemre.oguz</description>
+<guid isPermaLink="false">2538417767</guid>
+</item>
+<item>
+<title>[Color Correction LUT] Linear Flat by jaijai</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2539096415</link>
+<description>[Color Correction LUT] Linear Flat by jaijai</description>
+<guid isPermaLink="false">2539096415</guid>
+</item>
+</channel>
 </rss>
