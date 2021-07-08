@@ -9,10 +9,22 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Moscow Renovation - Krasnodonskaya st. 48 by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540594204</link>
-<description>[Building] Moscow Renovation - Krasnodonskaya st. 48 by arthaix</description>
-<guid isPermaLink="false">2540594204</guid>
+<title>[Prop] boarding ramp by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540642141</link>
+<description>[Prop] boarding ramp by WTigerTw</description>
+<guid isPermaLink="false">2540642141</guid>
+</item>
+<item>
+<title>[Building] HMAS Vampire bl by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540642852</link>
+<description>[Building] HMAS Vampire bl by WTigerTw</description>
+<guid isPermaLink="false">2540642852</guid>
+</item>
+<item>
+<title>[Building] HMAS Vampire Museum by WTigerTw</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540643507</link>
+<description>[Building] HMAS Vampire Museum by WTigerTw</description>
+<guid isPermaLink="false">2540643507</guid>
 </item>
 </channel>
 </rss>
