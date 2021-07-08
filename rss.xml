@@ -8,5 +8,29 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Mod] Adaptive Roads (AR) V2.2.5 (labs) by hockenheim95</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2536819805</link>
+<description>[Mod] Adaptive Roads (AR) V2.2.5 (labs) by hockenheim95</description>
+<guid isPermaLink="false">2536819805</guid>
+</item>
+<item>
+<title>[Prop] Taiwan road signs - C by Charioteer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541082652</link>
+<description>[Prop] Taiwan road signs - C by Charioteer</description>
+<guid isPermaLink="false">2541082652</guid>
+</item>
+<item>
+<title>[Prop] Taiwan road signs - D by Charioteer</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541084898</link>
+<description>[Prop] Taiwan road signs - D by Charioteer</description>
+<guid isPermaLink="false">2541084898</guid>
+</item>
+<item>
+<title>[Building] PIK - Vtoroy Nagatinsky (1) by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541103805</link>
+<description>[Building] PIK - Vtoroy Nagatinsky (1) by arthaix</description>
+<guid isPermaLink="false">2541103805</guid>
+</item>
+</channel>
 </rss>
