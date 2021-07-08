@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Wienerwald Fastfood Restaurant by speedtraxxdj</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541285382</link>
-<description>[Building] Wienerwald Fastfood Restaurant by speedtraxxdj</description>
-<guid isPermaLink="false">2541285382</guid>
-</item>
-<item>
-<title>[Mod Update] ModTools (Stable) - 20210708 Update</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=450877484</link>
-<description>[Mod Update] ModTools (Stable) - 20210708 Update</description>
-<guid isPermaLink="false">450877484-20210708</guid>
-</item>
-</channel>
+    </channel>
 </rss>
