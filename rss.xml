@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] HIGER 6129CQ-CNG BKK-150 LHT by OumKaZa</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540868777</link>
-<description>[Vehicle] HIGER 6129CQ-CNG BKK-150 LHT by OumKaZa</description>
-<guid isPermaLink="false">2540868777</guid>
-</item>
-<item>
-<title>[Vehicle] HIGER 6129CQ-CNG BKK-150 (Bio Version) LHT by OumKaZa</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2540870023</link>
-<description>[Vehicle] HIGER 6129CQ-CNG BKK-150 (Bio Version) LHT by OumKaZa</description>
-<guid isPermaLink="false">2540870023</guid>
-</item>
-</channel>
+    </channel>
 </rss>
