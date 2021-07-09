@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Prop] Noose by Ronyx69</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541502629</link>
-<description>[Prop] Noose by Ronyx69</description>
-<guid isPermaLink="false">2541502629</guid>
+<title>[Vehicle] Ryde - Park  Ryde - Bus Pack [RHD/LHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541540911</link>
+<description>[Vehicle] Ryde - Park  Ryde - Bus Pack [RHD/LHT] by Blue Thunder</description>
+<guid isPermaLink="false">2541540911</guid>
+</item>
+<item>
+<title>[Vehicle] Ryde LHD - Park  Ryde - Bus Pack [LHD/RHT] by Blue Thunder</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541544617</link>
+<description>[Vehicle] Ryde LHD - Park  Ryde - Bus Pack [LHD/RHT] by Blue Thunder</description>
+<guid isPermaLink="false">2541544617</guid>
 </item>
 </channel>
 </rss>
