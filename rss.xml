@@ -9,10 +9,16 @@
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
     <item>
-<title>[Building] Eastern Railways HQ Building by Lichwiarz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2542283066</link>
-<description>[Building] Eastern Railways HQ Building by Lichwiarz</description>
-<guid isPermaLink="false">2542283066</guid>
+<title>[Building] Ketzal Supermarket by Shibuya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2542289706</link>
+<description>[Building] Ketzal Supermarket by Shibuya</description>
+<guid isPermaLink="false">2542289706</guid>
+</item>
+<item>
+<title>[Vehicle] 2014 Toyota FJ Cruiser by Californianyt</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2542362277</link>
+<description>[Vehicle] 2014 Toyota FJ Cruiser by Californianyt</description>
+<guid isPermaLink="false">2542362277</guid>
 </item>
 </channel>
 </rss>
