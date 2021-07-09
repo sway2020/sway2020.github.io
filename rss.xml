@@ -8,5 +8,17 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Kaohsiung LRT Love pier Station by 燿</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2539710638</link>
+<description>[Building] Kaohsiung LRT Love pier Station by 燿</description>
+<guid isPermaLink="false">2539710638</guid>
+</item>
+<item>
+<title>[Building] PIK - Amurskiy park (3.3; 3.4) by arthaix</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2541822183</link>
+<description>[Building] PIK - Amurskiy park (3.3; 3.4) by arthaix</description>
+<guid isPermaLink="false">2541822183</guid>
+</item>
+</channel>
 </rss>
