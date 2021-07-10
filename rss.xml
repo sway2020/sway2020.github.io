@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Vehicle] 1950 Nash Ambassador fordor by EvametryE</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2542421850</link>
-<description>[Vehicle] 1950 Nash Ambassador fordor by EvametryE</description>
-<guid isPermaLink="false">2542421850</guid>
-</item>
-<item>
-<title>[Building] Fire Helipad by yunusemre.oguz</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2542472154</link>
-<description>[Building] Fire Helipad by yunusemre.oguz</description>
-<guid isPermaLink="false">2542472154</guid>
-</item>
-</channel>
+    </channel>
 </rss>
