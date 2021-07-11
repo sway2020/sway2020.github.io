@@ -8,17 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Road] DARK AVE 8M by B.A.F</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2543594185</link>
-<description>[Road] DARK AVE 8M by B.A.F</description>
-<guid isPermaLink="false">2543594185</guid>
-</item>
-<item>
-<title>[Vehicle] D3S Volkswagen Crafter Kasten L3H2 2019 by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2543608901</link>
-<description>[Vehicle] D3S Volkswagen Crafter Kasten L3H2 2019 by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2543608901</guid>
-</item>
-</channel>
+    </channel>
 </rss>
