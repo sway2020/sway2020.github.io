@@ -8,29 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] П-44 (Жёлтый, рядная) by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2544982273</link>
-<description>[Building] П-44 (Жёлтый, рядная) by arthaix</description>
-<guid isPermaLink="false">2544982273</guid>
-</item>
-<item>
-<title>[Building] П-44 (Жёлтый, угловая) by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2544984561</link>
-<description>[Building] П-44 (Жёлтый, угловая) by arthaix</description>
-<guid isPermaLink="false">2544984561</guid>
-</item>
-<item>
-<title>[Building] П-44 (Коричневый, угловая) by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2544989831</link>
-<description>[Building] П-44 (Коричневый, угловая) by arthaix</description>
-<guid isPermaLink="false">2544989831</guid>
-</item>
-<item>
-<title>[Building] П-44 (Коричневый, рядная) by arthaix</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2544992000</link>
-<description>[Building] П-44 (Коричневый, рядная) by arthaix</description>
-<guid isPermaLink="false">2544992000</guid>
-</item>
-</channel>
+    </channel>
 </rss>
