@@ -8,5 +8,53 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    </channel>
+    <item>
+<title>[Building] Modular Piers - Beaux-Arts Pier Office by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545037897</link>
+<description>[Building] Modular Piers - Beaux-Arts Pier Office by Avanya</description>
+<guid isPermaLink="false">2545037897</guid>
+</item>
+<item>
+<title>[Building] Modular Piers - Beaux-Arts Small Office by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545039238</link>
+<description>[Building] Modular Piers - Beaux-Arts Small Office by Avanya</description>
+<guid isPermaLink="false">2545039238</guid>
+</item>
+<item>
+<title>[Park] Modular Piers - Beaux-Arts Arch by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545040282</link>
+<description>[Park] Modular Piers - Beaux-Arts Arch by Avanya</description>
+<guid isPermaLink="false">2545040282</guid>
+</item>
+<item>
+<title>[Building] Modular Piers - Mission Revival Pier Office by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545041563</link>
+<description>[Building] Modular Piers - Mission Revival Pier Office by Avanya</description>
+<guid isPermaLink="false">2545041563</guid>
+</item>
+<item>
+<title>[Building] Modular Piers - Warehouses by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545043661</link>
+<description>[Building] Modular Piers - Warehouses by Avanya</description>
+<guid isPermaLink="false">2545043661</guid>
+</item>
+<item>
+<title>[Building] Modular Piers - Stand-alone pier pack by Avanya</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545045715</link>
+<description>[Building] Modular Piers - Stand-alone pier pack by Avanya</description>
+<guid isPermaLink="false">2545045715</guid>
+</item>
+<item>
+<title>[Vehicle] Zetatech Atlus - Traumateam MEDH by nardo</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545127839</link>
+<description>[Vehicle] Zetatech Atlus - Traumateam MEDH by nardo</description>
+<guid isPermaLink="false">2545127839</guid>
+</item>
+<item>
+<title>[Prop] Hong Kong rubbish bins [Prop] by JeremyChit</title>
+<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545150660</link>
+<description>[Prop] Hong Kong rubbish bins [Prop] by JeremyChit</description>
+<guid isPermaLink="false">2545150660</guid>
+</item>
+</channel>
 </rss>
