@@ -8,41 +8,5 @@
     <category>Cities Skylines</category>
     <atom:link href="https://sway2020.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <item>
-<title>[Building] Billie Holiday by Don B</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545370424</link>
-<description>[Building] Billie Holiday by Don B</description>
-<guid isPermaLink="false">2545370424</guid>
-</item>
-<item>
-<title>[Building] U.N.I.T. Shenzhen Bay [RICO] by luminou</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545402253</link>
-<description>[Building] U.N.I.T. Shenzhen Bay [RICO] by luminou</description>
-<guid isPermaLink="false">2545402253</guid>
-</item>
-<item>
-<title>[Vehicle] 2001 GMC Yukon by jaksch</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545410606</link>
-<description>[Vehicle] 2001 GMC Yukon by jaksch</description>
-<guid isPermaLink="false">2545410606</guid>
-</item>
-<item>
-<title>[Prop] 1995 Chevrolet Caprice Yankton Police Department by jaksch</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545414468</link>
-<description>[Prop] 1995 Chevrolet Caprice Yankton Police Department by jaksch</description>
-<guid isPermaLink="false">2545414468</guid>
-</item>
-<item>
-<title>[Vehicle] 1987 Toyota Sprinter Levin AE85 by jaksch</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545417394</link>
-<description>[Vehicle] 1987 Toyota Sprinter Levin AE85 by jaksch</description>
-<guid isPermaLink="false">2545417394</guid>
-</item>
-<item>
-<title>[Vehicle] D3S GAZelle Pilgrim by DANZ | D3S DESIGN®</title>
-<link>https://steamcommunity.com/sharedfiles/filedetails/?id=2545418556</link>
-<description>[Vehicle] D3S GAZelle Pilgrim by DANZ | D3S DESIGN®</description>
-<guid isPermaLink="false">2545418556</guid>
-</item>
-</channel>
+    </channel>
 </rss>
